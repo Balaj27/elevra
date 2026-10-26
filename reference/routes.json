@@ -1,0 +1,26 @@
+[
+  {
+    "route": "/about",
+    "title": "About Elevra | Strategy, Finance & Operations Consultants",
+    "components": 13,
+    "assets": 94
+  },
+  {
+    "route": "/services",
+    "title": "Business Consulting Services | Elevra",
+    "components": 9,
+    "assets": 96
+  },
+  {
+    "route": "/insights",
+    "title": "Insights on Strategy, Finance & Operations | Elevra",
+    "components": 7,
+    "assets": 100
+  },
+  {
+    "route": "/contact",
+    "title": "Contact Elevra | Talk to a Business Consultant",
+    "components": 6,
+    "assets": 74
+  }
+]

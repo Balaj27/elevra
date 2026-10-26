@@ -1,0 +1,25 @@
+{
+  "name": "elevra-next",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0",
+    "build": "next build",
+    "start": "next start --hostname 0.0.0.0",
+    "convert": "node scripts/convert.mjs",
+    "convert:pages": "node scripts/convert-pages.mjs",
+    "verify:routes": "node scripts/verify-routes.mjs"
+  },
+  "dependencies": {
+    "next": "^16.4.3",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "cheerio": "^1.2.0",
+    "html-react-parser": "^6.1.9",
+    "postcss": "^8.5.31",
+    "prettier": "^3.9.10"
+  }
+}

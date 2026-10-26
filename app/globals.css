@@ -1,0 +1,17 @@
+html { scroll-behavior: smooth; }
+:focus-visible { outline: 2px solid #8b939e; outline-offset: 5px; }
+.framer-u5gfX [data-framer-name="Question wrapper"] { cursor:pointer; }
+[data-insight-filter], .framer-e9hkzq { cursor:pointer; }
+[data-insight-filter][data-filter-active="true"] { background:#212d3d !important; color:white !important; }
+[data-insight-filter][data-filter-active="true"] p { --framer-text-color:white !important; color:white !important; }
+[data-insight-filter][data-filter-active="false"] { background:transparent !important; color:#212d3d !important; }
+[data-insight-filter][data-filter-active="false"] p { --framer-text-color:#212d3d !important; color:#212d3d !important; }
+.framer-u5gfX [data-open="true"] { transform:rotate(0deg) !important; }
+.framer-u5gfX [data-open="false"] { transform:rotate(45deg) !important; }
+.framer-Jc0hb[aria-expanded="false"] .framer-1w1b0si-container,
+.framer-Jc0hb[aria-expanded="false"] .framer-1eo89vj { display:none !important; }
+.framer-Jc0hb[aria-expanded="false"] p { color:#212d3d !important; --framer-text-color:#212d3d !important; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}

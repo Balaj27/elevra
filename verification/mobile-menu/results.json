@@ -1,0 +1,29 @@
+[
+  {
+    "width": 322,
+    "fullscreen": true,
+    "keyboard": true,
+    "navigation": true,
+    "scrollRestored": true,
+    "reducedMotion": true,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "fullscreen": true,
+    "keyboard": true,
+    "navigation": true,
+    "scrollRestored": true,
+    "reducedMotion": true,
+    "errors": []
+  },
+  {
+    "width": 768,
+    "fullscreen": true,
+    "keyboard": true,
+    "navigation": true,
+    "scrollRestored": true,
+    "reducedMotion": true,
+    "errors": []
+  }
+]

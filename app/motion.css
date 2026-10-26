@@ -1,0 +1,32 @@
+/* Interaction motion uses the same soft easing as the source's spring transitions. */
+.framer-IRM4W[data-open] { transition:transform .32s cubic-bezier(.22,1,.36,1); }
+.framer-Jc0hb[data-process-card] { width:100% !important; transition:height .65s cubic-bezier(.22,1,.36,1); }
+[data-process-wrapper] { transition:flex .7s cubic-bezier(.22,1,.36,1),width .7s cubic-bezier(.22,1,.36,1); }
+@media (min-width:810px) {
+  [data-process-wrapper="open"] { flex:1 1 0% !important; width:0 !important; min-width:0; }
+  [data-process-wrapper="closed"] { flex:0 0 120px !important; width:120px !important; min-width:0; }
+}
+@media (max-width:809.98px) {
+  [data-process-wrapper] { width:100% !important; flex:none !important; }
+  [data-process-card][aria-expanded="false"] { height:66px !important; }
+  [data-process-card][aria-expanded="true"] { height:340px !important; }
+}
+@keyframes process-copy-in { from { opacity:0;transform:translateY(15px);filter:blur(3px); } to { opacity:1;transform:translateY(0);filter:blur(0); } }
+[data-process-card][aria-expanded="true"] .framer-1eo89vj { animation:process-copy-in .6s cubic-bezier(.22,1,.36,1) both; }
+
+@media (prefers-reduced-motion:no-preference) {
+  a:has(.framer-AIC1t) img { transition:transform .7s cubic-bezier(.22,1,.36,1); }
+  a:has(.framer-AIC1t):is(:hover,:focus-visible) img { transform:scale(1.045); }
+  .framer-3AhIS { overflow:hidden !important; }
+  .framer-3AhIS .framer-1l31mvp { transition:transform .45s cubic-bezier(.22,1,.36,1); }
+  .framer-3AhIS .framer-gblk3k { inset:0 !important;height:auto !important;transform:translateY(105%);transition:transform .45s cubic-bezier(.22,1,.36,1); }
+  .framer-3AhIS .framer-s6yfgh { inset:0 auto 0 50% !important;display:grid !important;place-items:center;transform:translate(-50%,150%) !important;transition:transform .45s cubic-bezier(.22,1,.36,1); }
+  .framer-3AhIS:is(:hover,:focus-visible) .framer-1l31mvp { transform:translateY(-180%); }
+  .framer-3AhIS:is(:hover,:focus-visible) .framer-gblk3k { transform:translateY(0); }
+  .framer-3AhIS:is(:hover,:focus-visible) .framer-s6yfgh { transform:translate(-50%,0) !important; }
+}
+@media (prefers-reduced-motion:reduce) {
+  [data-motion-reveal] { opacity:1 !important;filter:none !important; }
+  [data-process-wrapper], [data-process-card], .framer-IRM4W[data-open] { transition:none !important; }
+  [data-process-card][aria-expanded="true"] .framer-1eo89vj { animation:none !important; }
+}

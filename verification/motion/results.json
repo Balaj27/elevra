@@ -1,0 +1,32 @@
+{
+  "reveals": 46,
+  "ticker": {
+    "moves": true,
+    "pausesOnHover": true
+  },
+  "process": {
+    "before": 120,
+    "after": 966
+  },
+  "faq": true,
+  "reducedMotion": true,
+  "navigation": true,
+  "contactDetails": [
+    {
+      "text": "Aspen, Colorado, USA",
+      "opacity": "1",
+      "reveal": false
+    },
+    {
+      "text": "hello@elevra.com",
+      "opacity": "1",
+      "reveal": false
+    },
+    {
+      "text": "+1 234 567 89 10",
+      "opacity": "1",
+      "reveal": false
+    }
+  ],
+  "errors": []
+}

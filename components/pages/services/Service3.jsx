@@ -1,0 +1,9260 @@
+import Link from "next/link";
+export default function Service3() {
+  return (
+    <section
+      {...{ className: "framer-hssnzy", "data-framer-name": "Service " }}
+    >
+      <div
+        {...{ className: "framer-3uivee", "data-framer-name": "Section wrap" }}
+      >
+        <div
+          {...{
+            className: "framer-1wxzmv6",
+            "data-framer-name": "Top content",
+            style: { willChange: "transform", opacity: "1", transform: "none" },
+            "data-motion-reveal": "",
+            "data-motion-y": "40",
+            "data-motion-duration": "850",
+            "data-motion-delay": "0",
+          }}
+        >
+          <div
+            {...{ className: "framer-1mz8v3e", "data-framer-name": "Heading" }}
+          >
+            <div
+              {...{
+                className: "framer-8c9ix1",
+                "data-framer-component-type": "RichTextContainer",
+                style: { transform: "none" },
+              }}
+            >
+              <h2
+                {...{
+                  className: "framer-text framer-styles-preset-clhy6j",
+                  "data-styles-preset": "QEp7tcbXt",
+                  dir: "auto",
+                }}
+              >
+                {"Tailored Solutions "}
+                <span
+                  {...{
+                    style: {
+                      "--framer-text-color":
+                        "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                    },
+                    className: "framer-text",
+                  }}
+                >
+                  {"for Business Growth"}
+                </span>
+              </h2>
+            </div>
+          </div>
+          <div
+            {...{ className: "framer-s649vn", "data-framer-name": "Subline" }}
+          >
+            <div
+              {...{
+                className: "framer-k30css",
+                "data-framer-component-type": "RichTextContainer",
+                style: { transform: "none" },
+              }}
+            >
+              <p
+                {...{
+                  className: "framer-text framer-styles-preset-djpks0",
+                  "data-styles-preset": "EXwnSUqiT",
+                  dir: "auto",
+                  style: {
+                    "--framer-text-alignment": "center",
+                    "--framer-text-color":
+                      "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                  },
+                }}
+              >
+                {
+                  "Turning complex business challenges into clear growth opportunities."
+                }
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          {...{ className: "framer-f4cao3", "data-framer-name": "Service CMS" }}
+        >
+          <div {...{ className: "framer-1l82kqk" }}>
+            <div {...{ className: "framer-fc2qul" }}>
+              <div
+                {...{ className: "ssr-variant hidden-13i4q03 hidden-hmn9u5" }}
+              >
+                <div
+                  {...{
+                    className: "framer-1yee8x3-container",
+                    style: {
+                      willChange: "transform",
+                      opacity: "1",
+                      transform: "scale(1.05)",
+                    },
+                  }}
+                >
+                  <div
+                    {...{
+                      className:
+                        "framer-T0Vmd framer-puOxE framer-xuZuY framer-udyzye framer-v-udyzye",
+                      "data-framer-name": "Desktop",
+                      style: {
+                        backgroundColor:
+                          "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                        width: "100%",
+                        borderBottomLeftRadius: "16px",
+                        borderBottomRightRadius: "16px",
+                        borderTopLeftRadius: "16px",
+                        borderTopRightRadius: "16px",
+                      },
+                    }}
+                  >
+                    <div
+                      {...{
+                        className: "framer-1em3wk1",
+                        "data-framer-name": "Left",
+                      }}
+                    >
+                      <div {...{ className: "framer-fv2fjm-container" }}>
+                        <div
+                          {...{
+                            className:
+                              "framer-Qc3Wu framer-1tjoa6u framer-v-1tjoa6u",
+                            "data-framer-name": "Variant 1",
+                            style: {
+                              height: "100%",
+                              width: "100%",
+                              borderBottomLeftRadius: "8px",
+                              borderBottomRightRadius: "8px",
+                              borderTopLeftRadius: "8px",
+                              borderTopRightRadius: "8px",
+                            },
+                          }}
+                        >
+                          <figure
+                            {...{ as: "figure", className: "framer-33j7u1" }}
+                          >
+                            <div
+                              {...{
+                                style: {
+                                  position: "absolute",
+                                  borderRadius: "inherit",
+                                  cornerShape: "inherit",
+                                  top: "0",
+                                  right: "0",
+                                  bottom: "0",
+                                  left: "0",
+                                },
+                                "data-framer-background-image-wrapper": "true",
+                              }}
+                            >
+                              <img
+                                {...{
+                                  decoding: "async",
+                                  width: "1672",
+                                  height: "941",
+                                  sizes:
+                                    "(min-width: 1200px) min(max((calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 30px) / 2, 1px), (calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 20px) * 0.36), (min-width: 810px) and (max-width: 1199.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 48px) - 16px), (max-width: 809.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 32px) - 16px)",
+                                  srcSet:
+                                    "/assets/46178543d78ff90735.png 512w,/assets/ae2613f835905138f2.png 1024w,/assets/88062feb6ab4b2af81.png 1672w",
+                                  src: "/assets/88062feb6ab4b2af81.png",
+                                  alt: "",
+                                  style: {
+                                    display: "block",
+                                    width: "100%",
+                                    height: "100%",
+                                    borderRadius: "inherit",
+                                    cornerShape: "inherit",
+                                    objectPosition: "center",
+                                    objectFit: "cover",
+                                  },
+                                  loading: "eager",
+                                }}
+                              />
+                            </div>
+                          </figure>
+                          <div
+                            {...{
+                              className: "framer-1r6ty9f",
+                              "data-framer-name": "Noise",
+                              style: { opacity: "0.1" },
+                            }}
+                          >
+                            <div
+                              {...{
+                                "data-framer-background-image-wrapper": "true",
+                                style: {
+                                  position: "absolute",
+                                  borderRadius: "inherit",
+                                  cornerShape: "inherit",
+                                  top: "0",
+                                  right: "0",
+                                  bottom: "0",
+                                  left: "0",
+                                  backgroundImage:
+                                    "url(/assets/8526aafaff0d17acbd.png)",
+                                  backgroundRepeat: "repeat",
+                                  backgroundPosition: "left top",
+                                  border: "0",
+                                  backgroundSize: "142px auto",
+                                },
+                              }}
+                            ></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div {...{ className: "framer-1v8zkz4-container" }}>
+                        <div
+                          {...{
+                            className:
+                              "framer-pSh7Y framer-xuZuY framer-Huv4P framer-gi9kxj framer-v-gi9kxj",
+                            "data-border": "true",
+                            "data-framer-name": "Variant 1",
+                            style: {
+                              "--border-bottom-width": "1px",
+                              "--border-color": "rgba(255, 255, 255, 0.24)",
+                              "--border-left-width": "1px",
+                              "--border-right-width": "1px",
+                              "--border-style": "solid",
+                              "--border-top-width": "1px",
+                              backgroundColor: "rgba(255, 255, 255, 0.24)",
+                              width: "100%",
+                              borderBottomLeftRadius: "10px",
+                              borderBottomRightRadius: "10px",
+                              borderTopLeftRadius: "10px",
+                              borderTopRightRadius: "10px",
+                            },
+                          }}
+                        >
+                          <div {...{ className: "framer-16glyyi-container" }}>
+                            <div
+                              {...{
+                                className:
+                                  "framer-znWoI framer-5qi85 framer-1f3rnwv framer-v-1f3rnwv",
+                                "data-framer-name": "Light",
+                              }}
+                            >
+                              <div
+                                {...{
+                                  className: "framer-1bwzge",
+                                  "data-framer-name": "Image",
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    style: {
+                                      position: "absolute",
+                                      borderRadius: "inherit",
+                                      cornerShape: "inherit",
+                                      top: "0",
+                                      right: "0",
+                                      bottom: "0",
+                                      left: "0",
+                                    },
+                                    "data-framer-background-image-wrapper":
+                                      "true",
+                                  }}
+                                >
+                                  <img
+                                    {...{
+                                      decoding: "async",
+                                      width: "1254",
+                                      height: "1254",
+                                      sizes:
+                                        "(min-width: 1200px) 14px, (min-width: 810px) and (max-width: 1199.98px) 14px, (max-width: 809.98px) 14px",
+                                      srcSet:
+                                        "/assets/9289d8358afbbc44ee.png 512w,/assets/07eb7150e998372f64.png 1024w,/assets/0c7dcb48212699c5af.png 1254w",
+                                      src: "/assets/0c7dcb48212699c5af.png",
+                                      alt: "",
+                                      style: {
+                                        display: "block",
+                                        width: "100%",
+                                        height: "100%",
+                                        borderRadius: "inherit",
+                                        cornerShape: "inherit",
+                                        objectPosition: "center",
+                                        objectFit: "cover",
+                                      },
+                                      loading: "eager",
+                                    }}
+                                  />
+                                </div>
+                              </div>
+                              <div
+                                {...{
+                                  className: "framer-1ur96lx",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-1ggpp17",
+                                    "data-styles-preset": "YAcmHqqMw",
+                                    dir: "auto",
+                                  }}
+                                >
+                                  {"Strategy Review"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1t1uiwx",
+                              "data-framer-component-type": "RichTextContainer",
+                              style: {
+                                "--extracted-r6o4lv":
+                                  "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline",
+                                transform: "none",
+                              },
+                            }}
+                          >
+                            <p
+                              {...{
+                                className:
+                                  "framer-text framer-styles-preset-djpks0",
+                                "data-styles-preset": "EXwnSUqiT",
+                                dir: "auto",
+                                style: {
+                                  "--framer-text-color":
+                                    "var(--extracted-r6o4lv, var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255)))",
+                                },
+                              }}
+                            >
+                              {
+                                '"Elevra gave us the clarity to stop guessing and start moving in the right direction."'
+                              }
+                            </p>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1wxh3is",
+                              "data-framer-name": "User Info ",
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-1fojsdj",
+                                style: {
+                                  borderBottomLeftRadius: "2px",
+                                  borderBottomRightRadius: "2px",
+                                  borderTopLeftRadius: "2px",
+                                  borderTopRightRadius: "2px",
+                                },
+                              }}
+                            >
+                              <div
+                                {...{
+                                  style: {
+                                    position: "absolute",
+                                    borderRadius: "inherit",
+                                    cornerShape: "inherit",
+                                    top: "0",
+                                    right: "0",
+                                    bottom: "0",
+                                    left: "0",
+                                  },
+                                  "data-framer-background-image-wrapper":
+                                    "true",
+                                }}
+                              >
+                                <img
+                                  {...{
+                                    decoding: "async",
+                                    width: "896",
+                                    height: "1152",
+                                    sizes:
+                                      "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
+                                    srcSet:
+                                      "/assets/f2f1f16a7a9ad8fdb1.jpg 796w,/assets/e255ed87aec48de6e7.jpg 896w",
+                                    src: "/assets/e255ed87aec48de6e7.jpg",
+                                    alt: "A young woman with blonde hair wearing a sweater.",
+                                    style: {
+                                      display: "block",
+                                      width: "100%",
+                                      height: "100%",
+                                      borderRadius: "inherit",
+                                      cornerShape: "inherit",
+                                      objectPosition: "center",
+                                      objectFit: "cover",
+                                    },
+                                    loading: "eager",
+                                  }}
+                                />
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-1ksx39i" }}>
+                              <div
+                                {...{
+                                  className: "framer-hytaz4",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-3mw4yz",
+                                    "data-styles-preset": "CA3_gyZiM",
+                                    dir: "auto",
+                                  }}
+                                >
+                                  {"James Mitchell"}
+                                </p>
+                              </div>
+                              <div
+                                {...{
+                                  className: "framer-gw1g8p",
+                                  "data-framer-name": "Role",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--extracted-r6o4lv":
+                                      "var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64))",
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-3mw4yz",
+                                    "data-styles-preset": "CA3_gyZiM",
+                                    dir: "auto",
+                                    style: {
+                                      "--framer-text-color":
+                                        "var(--extracted-r6o4lv, var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64)))",
+                                    },
+                                  }}
+                                >
+                                  {"Founder"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      {...{
+                        className: "framer-11pskh",
+                        "data-framer-name": "Details",
+                      }}
+                    >
+                      <div
+                        {...{
+                          className: "framer-1fgttix",
+                          "data-framer-name": "Top content",
+                        }}
+                      >
+                        <div
+                          {...{
+                            className: "framer-spu0i7",
+                            "data-framer-name": "Section Header",
+                          }}
+                        >
+                          <div {...{ className: "framer-lz6fhy-container" }}>
+                            <div
+                              {...{
+                                className:
+                                  "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-1wcs0w1",
+                                "data-border": "true",
+                                "data-framer-name": "Filled",
+                                style: {
+                                  "--border-bottom-width": "1px",
+                                  "--border-color":
+                                    "var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64))",
+                                  "--border-left-width": "1px",
+                                  "--border-right-width": "1px",
+                                  "--border-style": "solid",
+                                  "--border-top-width": "1px",
+                                  backgroundColor:
+                                    "var(--token-ef5f21cb-c880-4c9e-b366-3fc1205e6d9b, rgb(242, 244, 246))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            >
+                              <div
+                                {...{
+                                  className: "framer-qabs03",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--extracted-r6o4lv":
+                                      "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-1ggpp17",
+                                    "data-styles-preset": "YAcmHqqMw",
+                                    dir: "auto",
+                                    style: {
+                                      "--framer-text-color":
+                                        "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                    },
+                                  }}
+                                >
+                                  {"01"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1wnhywj",
+                              "data-framer-name": "Titles",
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-4baozq",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <h3
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-17ydio3",
+                                  "data-styles-preset": "FNkR9rdBo",
+                                  dir: "auto",
+                                }}
+                              >
+                                {"Strategic Planning"}
+                              </h3>
+                            </div>
+                            <div
+                              {...{
+                                className: "framer-1rjxap9",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-djpks0",
+                                  "data-styles-preset": "EXwnSUqiT",
+                                  dir: "auto",
+                                }}
+                              >
+                                {
+                                  "Define your direction, sharpen your positioning, and build a clear path for growth."
+                                }
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        {...{
+                          className: "framer-rnhdsj",
+                          "data-framer-name": "Bottom content",
+                        }}
+                      >
+                        <div
+                          {...{
+                            className: "framer-xwzmi3",
+                            "data-framer-name": "What we offer",
+                          }}
+                        >
+                          <div
+                            {...{
+                              className: "framer-18iioby",
+                              "data-framer-component-type": "RichTextContainer",
+                              style: {
+                                "--extracted-r6o4lv":
+                                  "var(--token-6afab1c5-2ffa-41d5-9352-ddde60b2de5b, rgb(7, 9, 11))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline",
+                                transform: "none",
+                              },
+                            }}
+                          >
+                            <p
+                              {...{
+                                dir: "auto",
+                                className: "framer-text",
+                                style: {
+                                  "--font-selector":
+                                    "RlM7UGx1cyBKYWthcnRhIFNhbnMtbWVkaXVt",
+                                  "--framer-font-family":
+                                    '"Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif',
+                                  "--framer-font-size": "20px",
+                                  "--framer-font-weight": "500",
+                                  "--framer-letter-spacing": "-0.05em",
+                                  "--framer-line-height": "1.3em",
+                                  "--framer-text-color":
+                                    "var(--extracted-r6o4lv, var(--token-6afab1c5-2ffa-41d5-9352-ddde60b2de5b, rgb(7, 9, 11)))",
+                                },
+                              }}
+                            >
+                              {"What we offer"}
+                            </p>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-b8zntm",
+                              "data-framer-name": "Tags",
+                            }}
+                          >
+                            <div {...{ className: "framer-vu18s4-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Growth Strategy\t"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-1va1q1a-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Market Positioning"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-yn0fn3-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Business Models"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-xhe0xo-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Strategic Roadmaps"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-pm2ppz-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Market Research"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-12mzhqj-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Go-To-Market"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div {...{ className: "framer-vlqqua-container" }}>
+                          <a
+                            {...{
+                              className:
+                                "framer-3AhIS framer-FrbCk framer-zbc3f0 framer-v-zbc3f0 framer-14xmqu0",
+                              "data-framer-name": "Button",
+                              href: "https://elevra.framer.media/services/strategic-planning",
+                              style: {
+                                height: "100%",
+                                width: "100%",
+                                borderBottomLeftRadius: "8px",
+                                borderBottomRightRadius: "8px",
+                                borderTopLeftRadius: "8px",
+                                borderTopRightRadius: "8px",
+                              },
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-1pc4tf4",
+                                "data-framer-name": "BG",
+                                style: {
+                                  backgroundColor:
+                                    "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            ></div>
+                            <div
+                              {...{
+                                className: "framer-1l31mvp",
+                                "data-framer-name": "Label",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--extracted-r6o4lv":
+                                    "var(--variable-reference-Rt210Cf8M-C9yI6ZCUt)",
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  "--variable-reference-Rt210Cf8M-C9yI6ZCUt":
+                                    "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-fttqtt",
+                                  "data-styles-preset": "ql_7o_8Db",
+                                  dir: "auto",
+                                  style: {
+                                    "--framer-text-color":
+                                      "var(--extracted-r6o4lv, var(--variable-reference-Rt210Cf8M-C9yI6ZCUt))",
+                                  },
+                                }}
+                              >
+                                {"Start My Strategy"}
+                              </p>
+                            </div>
+                            <div
+                              {...{
+                                className: "framer-gblk3k",
+                                "data-framer-name": "Another one",
+                                style: {
+                                  backgroundColor:
+                                    "var(--token-ef5f21cb-c880-4c9e-b366-3fc1205e6d9b, rgb(242, 244, 246))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            ></div>
+                            <div
+                              {...{
+                                className: "framer-s6yfgh",
+                                "data-framer-name": "Label",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--extracted-r6o4lv":
+                                    "var(--variable-reference-ZHYLmSTYb-C9yI6ZCUt)",
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  "--variable-reference-ZHYLmSTYb-C9yI6ZCUt":
+                                    "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                  transform: "translateX(-50%)",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-fttqtt",
+                                  "data-styles-preset": "ql_7o_8Db",
+                                  dir: "auto",
+                                  style: {
+                                    "--framer-text-color":
+                                      "var(--extracted-r6o4lv, var(--variable-reference-ZHYLmSTYb-C9yI6ZCUt))",
+                                  },
+                                }}
+                              >
+                                {"Start My Strategy"}
+                              </p>
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                {...{ className: "ssr-variant hidden-12cu097 hidden-hmn9u5" }}
+              >
+                <div
+                  {...{
+                    className: "framer-1yee8x3-container",
+                    style: {
+                      willChange: "transform",
+                      opacity: "1",
+                      transform: "scale(1.05)",
+                    },
+                  }}
+                >
+                  <div
+                    {...{
+                      className:
+                        "framer-T0Vmd framer-puOxE framer-xuZuY framer-udyzye framer-v-oztyab",
+                      "data-framer-name": "Tablet",
+                      style: {
+                        backgroundColor:
+                          "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                        width: "100%",
+                        borderBottomLeftRadius: "16px",
+                        borderBottomRightRadius: "16px",
+                        borderTopLeftRadius: "16px",
+                        borderTopRightRadius: "16px",
+                      },
+                    }}
+                  >
+                    <div
+                      {...{
+                        className: "framer-1em3wk1",
+                        "data-framer-name": "Left",
+                      }}
+                    >
+                      <div {...{ className: "framer-fv2fjm-container" }}>
+                        <div
+                          {...{
+                            className:
+                              "framer-Qc3Wu framer-1tjoa6u framer-v-1tjoa6u",
+                            "data-framer-name": "Variant 1",
+                            style: {
+                              height: "100%",
+                              width: "100%",
+                              borderBottomLeftRadius: "8px",
+                              borderBottomRightRadius: "8px",
+                              borderTopLeftRadius: "8px",
+                              borderTopRightRadius: "8px",
+                            },
+                          }}
+                        >
+                          <figure
+                            {...{ as: "figure", className: "framer-33j7u1" }}
+                          >
+                            <div
+                              {...{
+                                style: {
+                                  position: "absolute",
+                                  borderRadius: "inherit",
+                                  cornerShape: "inherit",
+                                  top: "0",
+                                  right: "0",
+                                  bottom: "0",
+                                  left: "0",
+                                },
+                                "data-framer-background-image-wrapper": "true",
+                              }}
+                            >
+                              <img
+                                {...{
+                                  decoding: "async",
+                                  width: "1672",
+                                  height: "941",
+                                  sizes:
+                                    "(min-width: 1200px) min(max((calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 30px) / 2, 1px), (calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 20px) * 0.36), (min-width: 810px) and (max-width: 1199.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 48px) - 16px), (max-width: 809.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 32px) - 16px)",
+                                  srcSet:
+                                    "/assets/46178543d78ff90735.png 512w,/assets/ae2613f835905138f2.png 1024w,/assets/88062feb6ab4b2af81.png 1672w",
+                                  src: "/assets/88062feb6ab4b2af81.png",
+                                  alt: "",
+                                  style: {
+                                    display: "block",
+                                    width: "100%",
+                                    height: "100%",
+                                    borderRadius: "inherit",
+                                    cornerShape: "inherit",
+                                    objectPosition: "center",
+                                    objectFit: "cover",
+                                  },
+                                  loading: "eager",
+                                }}
+                              />
+                            </div>
+                          </figure>
+                          <div
+                            {...{
+                              className: "framer-1r6ty9f",
+                              "data-framer-name": "Noise",
+                              style: { opacity: "0.1" },
+                            }}
+                          >
+                            <div
+                              {...{
+                                "data-framer-background-image-wrapper": "true",
+                                style: {
+                                  position: "absolute",
+                                  borderRadius: "inherit",
+                                  cornerShape: "inherit",
+                                  top: "0",
+                                  right: "0",
+                                  bottom: "0",
+                                  left: "0",
+                                  backgroundImage:
+                                    "url(/assets/8526aafaff0d17acbd.png)",
+                                  backgroundRepeat: "repeat",
+                                  backgroundPosition: "left top",
+                                  border: "0",
+                                  backgroundSize: "142px auto",
+                                },
+                              }}
+                            ></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div {...{ className: "framer-1v8zkz4-container" }}>
+                        <div
+                          {...{
+                            className:
+                              "framer-pSh7Y framer-xuZuY framer-Huv4P framer-gi9kxj framer-v-gi9kxj",
+                            "data-border": "true",
+                            "data-framer-name": "Variant 1",
+                            style: {
+                              "--border-bottom-width": "1px",
+                              "--border-color": "rgba(255, 255, 255, 0.24)",
+                              "--border-left-width": "1px",
+                              "--border-right-width": "1px",
+                              "--border-style": "solid",
+                              "--border-top-width": "1px",
+                              backgroundColor: "rgba(255, 255, 255, 0.24)",
+                              width: "100%",
+                              borderBottomLeftRadius: "10px",
+                              borderBottomRightRadius: "10px",
+                              borderTopLeftRadius: "10px",
+                              borderTopRightRadius: "10px",
+                            },
+                          }}
+                        >
+                          <div {...{ className: "framer-16glyyi-container" }}>
+                            <div
+                              {...{
+                                className:
+                                  "framer-znWoI framer-5qi85 framer-1f3rnwv framer-v-1f3rnwv",
+                                "data-framer-name": "Light",
+                              }}
+                            >
+                              <div
+                                {...{
+                                  className: "framer-1bwzge",
+                                  "data-framer-name": "Image",
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    style: {
+                                      position: "absolute",
+                                      borderRadius: "inherit",
+                                      cornerShape: "inherit",
+                                      top: "0",
+                                      right: "0",
+                                      bottom: "0",
+                                      left: "0",
+                                    },
+                                    "data-framer-background-image-wrapper":
+                                      "true",
+                                  }}
+                                >
+                                  <img
+                                    {...{
+                                      decoding: "async",
+                                      width: "1254",
+                                      height: "1254",
+                                      sizes:
+                                        "(min-width: 1200px) 14px, (min-width: 810px) and (max-width: 1199.98px) 14px, (max-width: 809.98px) 14px",
+                                      srcSet:
+                                        "/assets/9289d8358afbbc44ee.png 512w,/assets/07eb7150e998372f64.png 1024w,/assets/0c7dcb48212699c5af.png 1254w",
+                                      src: "/assets/0c7dcb48212699c5af.png",
+                                      alt: "",
+                                      style: {
+                                        display: "block",
+                                        width: "100%",
+                                        height: "100%",
+                                        borderRadius: "inherit",
+                                        cornerShape: "inherit",
+                                        objectPosition: "center",
+                                        objectFit: "cover",
+                                      },
+                                      loading: "eager",
+                                    }}
+                                  />
+                                </div>
+                              </div>
+                              <div
+                                {...{
+                                  className: "framer-1ur96lx",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-1ggpp17",
+                                    "data-styles-preset": "YAcmHqqMw",
+                                    dir: "auto",
+                                  }}
+                                >
+                                  {"Strategy Review"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1t1uiwx",
+                              "data-framer-component-type": "RichTextContainer",
+                              style: {
+                                "--extracted-r6o4lv":
+                                  "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline",
+                                transform: "none",
+                              },
+                            }}
+                          >
+                            <p
+                              {...{
+                                className:
+                                  "framer-text framer-styles-preset-djpks0",
+                                "data-styles-preset": "EXwnSUqiT",
+                                dir: "auto",
+                                style: {
+                                  "--framer-text-color":
+                                    "var(--extracted-r6o4lv, var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255)))",
+                                },
+                              }}
+                            >
+                              {
+                                '"Elevra gave us the clarity to stop guessing and start moving in the right direction."'
+                              }
+                            </p>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1wxh3is",
+                              "data-framer-name": "User Info ",
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-1fojsdj",
+                                style: {
+                                  borderBottomLeftRadius: "2px",
+                                  borderBottomRightRadius: "2px",
+                                  borderTopLeftRadius: "2px",
+                                  borderTopRightRadius: "2px",
+                                },
+                              }}
+                            >
+                              <div
+                                {...{
+                                  style: {
+                                    position: "absolute",
+                                    borderRadius: "inherit",
+                                    cornerShape: "inherit",
+                                    top: "0",
+                                    right: "0",
+                                    bottom: "0",
+                                    left: "0",
+                                  },
+                                  "data-framer-background-image-wrapper":
+                                    "true",
+                                }}
+                              >
+                                <img
+                                  {...{
+                                    decoding: "async",
+                                    width: "896",
+                                    height: "1152",
+                                    sizes:
+                                      "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
+                                    srcSet:
+                                      "/assets/f2f1f16a7a9ad8fdb1.jpg 796w,/assets/e255ed87aec48de6e7.jpg 896w",
+                                    src: "/assets/e255ed87aec48de6e7.jpg",
+                                    alt: "A young woman with blonde hair wearing a sweater.",
+                                    style: {
+                                      display: "block",
+                                      width: "100%",
+                                      height: "100%",
+                                      borderRadius: "inherit",
+                                      cornerShape: "inherit",
+                                      objectPosition: "center",
+                                      objectFit: "cover",
+                                    },
+                                    loading: "eager",
+                                  }}
+                                />
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-1ksx39i" }}>
+                              <div
+                                {...{
+                                  className: "framer-hytaz4",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-3mw4yz",
+                                    "data-styles-preset": "CA3_gyZiM",
+                                    dir: "auto",
+                                  }}
+                                >
+                                  {"James Mitchell"}
+                                </p>
+                              </div>
+                              <div
+                                {...{
+                                  className: "framer-gw1g8p",
+                                  "data-framer-name": "Role",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--extracted-r6o4lv":
+                                      "var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64))",
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-3mw4yz",
+                                    "data-styles-preset": "CA3_gyZiM",
+                                    dir: "auto",
+                                    style: {
+                                      "--framer-text-color":
+                                        "var(--extracted-r6o4lv, var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64)))",
+                                    },
+                                  }}
+                                >
+                                  {"Founder"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      {...{
+                        className: "framer-11pskh",
+                        "data-framer-name": "Details",
+                      }}
+                    >
+                      <div
+                        {...{
+                          className: "framer-1fgttix",
+                          "data-framer-name": "Top content",
+                        }}
+                      >
+                        <div
+                          {...{
+                            className: "framer-spu0i7",
+                            "data-framer-name": "Section Header",
+                          }}
+                        >
+                          <div {...{ className: "framer-lz6fhy-container" }}>
+                            <div
+                              {...{
+                                className:
+                                  "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-1wcs0w1",
+                                "data-border": "true",
+                                "data-framer-name": "Filled",
+                                style: {
+                                  "--border-bottom-width": "1px",
+                                  "--border-color":
+                                    "var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64))",
+                                  "--border-left-width": "1px",
+                                  "--border-right-width": "1px",
+                                  "--border-style": "solid",
+                                  "--border-top-width": "1px",
+                                  backgroundColor:
+                                    "var(--token-ef5f21cb-c880-4c9e-b366-3fc1205e6d9b, rgb(242, 244, 246))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            >
+                              <div
+                                {...{
+                                  className: "framer-qabs03",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--extracted-r6o4lv":
+                                      "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-1ggpp17",
+                                    "data-styles-preset": "YAcmHqqMw",
+                                    dir: "auto",
+                                    style: {
+                                      "--framer-text-color":
+                                        "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                    },
+                                  }}
+                                >
+                                  {"01"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1wnhywj",
+                              "data-framer-name": "Titles",
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-4baozq",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <h3
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-17ydio3",
+                                  "data-styles-preset": "FNkR9rdBo",
+                                  dir: "auto",
+                                }}
+                              >
+                                {"Strategic Planning"}
+                              </h3>
+                            </div>
+                            <div
+                              {...{
+                                className: "framer-1rjxap9",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-djpks0",
+                                  "data-styles-preset": "EXwnSUqiT",
+                                  dir: "auto",
+                                }}
+                              >
+                                {
+                                  "Define your direction, sharpen your positioning, and build a clear path for growth."
+                                }
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        {...{
+                          className: "framer-rnhdsj",
+                          "data-framer-name": "Bottom content",
+                        }}
+                      >
+                        <div
+                          {...{
+                            className: "framer-xwzmi3",
+                            "data-framer-name": "What we offer",
+                          }}
+                        >
+                          <div
+                            {...{
+                              className: "framer-18iioby",
+                              "data-framer-component-type": "RichTextContainer",
+                              style: {
+                                "--extracted-r6o4lv":
+                                  "var(--token-6afab1c5-2ffa-41d5-9352-ddde60b2de5b, rgb(7, 9, 11))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline",
+                                transform: "none",
+                              },
+                            }}
+                          >
+                            <p
+                              {...{
+                                dir: "auto",
+                                className: "framer-text",
+                                style: {
+                                  "--font-selector":
+                                    "RlM7UGx1cyBKYWthcnRhIFNhbnMtbWVkaXVt",
+                                  "--framer-font-family":
+                                    '"Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif',
+                                  "--framer-font-size": "20px",
+                                  "--framer-font-weight": "500",
+                                  "--framer-letter-spacing": "-0.05em",
+                                  "--framer-line-height": "1.3em",
+                                  "--framer-text-color":
+                                    "var(--extracted-r6o4lv, var(--token-6afab1c5-2ffa-41d5-9352-ddde60b2de5b, rgb(7, 9, 11)))",
+                                },
+                              }}
+                            >
+                              {"What we offer"}
+                            </p>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-b8zntm",
+                              "data-framer-name": "Tags",
+                            }}
+                          >
+                            <div {...{ className: "framer-vu18s4-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Growth Strategy\t"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-1va1q1a-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Market Positioning"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-yn0fn3-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Business Models"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-xhe0xo-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Strategic Roadmaps"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-pm2ppz-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Market Research"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-12mzhqj-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Go-To-Market"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div {...{ className: "framer-vlqqua-container" }}>
+                          <a
+                            {...{
+                              className:
+                                "framer-3AhIS framer-FrbCk framer-zbc3f0 framer-v-zbc3f0 framer-14xmqu0",
+                              "data-framer-name": "Button",
+                              href: "https://elevra.framer.media/services/strategic-planning",
+                              style: {
+                                height: "100%",
+                                width: "100%",
+                                borderBottomLeftRadius: "8px",
+                                borderBottomRightRadius: "8px",
+                                borderTopLeftRadius: "8px",
+                                borderTopRightRadius: "8px",
+                              },
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-1pc4tf4",
+                                "data-framer-name": "BG",
+                                style: {
+                                  backgroundColor:
+                                    "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            ></div>
+                            <div
+                              {...{
+                                className: "framer-1l31mvp",
+                                "data-framer-name": "Label",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--extracted-r6o4lv":
+                                    "var(--variable-reference-Rt210Cf8M-C9yI6ZCUt)",
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  "--variable-reference-Rt210Cf8M-C9yI6ZCUt":
+                                    "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-fttqtt",
+                                  "data-styles-preset": "ql_7o_8Db",
+                                  dir: "auto",
+                                  style: {
+                                    "--framer-text-color":
+                                      "var(--extracted-r6o4lv, var(--variable-reference-Rt210Cf8M-C9yI6ZCUt))",
+                                  },
+                                }}
+                              >
+                                {"Start My Strategy"}
+                              </p>
+                            </div>
+                            <div
+                              {...{
+                                className: "framer-gblk3k",
+                                "data-framer-name": "Another one",
+                                style: {
+                                  backgroundColor:
+                                    "var(--token-ef5f21cb-c880-4c9e-b366-3fc1205e6d9b, rgb(242, 244, 246))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            ></div>
+                            <div
+                              {...{
+                                className: "framer-s6yfgh",
+                                "data-framer-name": "Label",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--extracted-r6o4lv":
+                                    "var(--variable-reference-ZHYLmSTYb-C9yI6ZCUt)",
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  "--variable-reference-ZHYLmSTYb-C9yI6ZCUt":
+                                    "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                  transform: "translateX(-50%)",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-fttqtt",
+                                  "data-styles-preset": "ql_7o_8Db",
+                                  dir: "auto",
+                                  style: {
+                                    "--framer-text-color":
+                                      "var(--extracted-r6o4lv, var(--variable-reference-ZHYLmSTYb-C9yI6ZCUt))",
+                                  },
+                                }}
+                              >
+                                {"Start My Strategy"}
+                              </p>
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                {...{ className: "ssr-variant hidden-13i4q03 hidden-12cu097" }}
+              >
+                <div
+                  {...{
+                    className: "framer-1yee8x3-container",
+                    style: { opacity: "1", transform: "none" },
+                  }}
+                >
+                  <div
+                    {...{
+                      className:
+                        "framer-T0Vmd framer-puOxE framer-xuZuY framer-udyzye framer-v-1et1or0",
+                      "data-framer-name": "Mobile",
+                      style: {
+                        backgroundColor:
+                          "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                        width: "100%",
+                        borderBottomLeftRadius: "16px",
+                        borderBottomRightRadius: "16px",
+                        borderTopLeftRadius: "16px",
+                        borderTopRightRadius: "16px",
+                      },
+                    }}
+                  >
+                    <div
+                      {...{
+                        className: "framer-1em3wk1",
+                        "data-framer-name": "Left",
+                      }}
+                    >
+                      <div {...{ className: "framer-fv2fjm-container" }}>
+                        <div
+                          {...{
+                            className:
+                              "framer-Qc3Wu framer-1tjoa6u framer-v-1tjoa6u",
+                            "data-framer-name": "Variant 1",
+                            style: {
+                              height: "100%",
+                              width: "100%",
+                              borderBottomLeftRadius: "8px",
+                              borderBottomRightRadius: "8px",
+                              borderTopLeftRadius: "8px",
+                              borderTopRightRadius: "8px",
+                            },
+                          }}
+                        >
+                          <figure
+                            {...{ as: "figure", className: "framer-33j7u1" }}
+                          >
+                            <div
+                              {...{
+                                style: {
+                                  position: "absolute",
+                                  borderRadius: "inherit",
+                                  cornerShape: "inherit",
+                                  top: "0",
+                                  right: "0",
+                                  bottom: "0",
+                                  left: "0",
+                                },
+                                "data-framer-background-image-wrapper": "true",
+                              }}
+                            >
+                              <img
+                                {...{
+                                  decoding: "async",
+                                  width: "1672",
+                                  height: "941",
+                                  sizes:
+                                    "(min-width: 1200px) min(max((calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 30px) / 2, 1px), (calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 20px) * 0.36), (min-width: 810px) and (max-width: 1199.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 48px) - 16px), (max-width: 809.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 32px) - 16px)",
+                                  srcSet:
+                                    "/assets/46178543d78ff90735.png 512w,/assets/ae2613f835905138f2.png 1024w,/assets/88062feb6ab4b2af81.png 1672w",
+                                  src: "/assets/88062feb6ab4b2af81.png",
+                                  alt: "",
+                                  style: {
+                                    display: "block",
+                                    width: "100%",
+                                    height: "100%",
+                                    borderRadius: "inherit",
+                                    cornerShape: "inherit",
+                                    objectPosition: "center",
+                                    objectFit: "cover",
+                                  },
+                                  loading: "eager",
+                                }}
+                              />
+                            </div>
+                          </figure>
+                          <div
+                            {...{
+                              className: "framer-1r6ty9f",
+                              "data-framer-name": "Noise",
+                              style: { opacity: "0.1" },
+                            }}
+                          >
+                            <div
+                              {...{
+                                "data-framer-background-image-wrapper": "true",
+                                style: {
+                                  position: "absolute",
+                                  borderRadius: "inherit",
+                                  cornerShape: "inherit",
+                                  top: "0",
+                                  right: "0",
+                                  bottom: "0",
+                                  left: "0",
+                                  backgroundImage:
+                                    "url(/assets/8526aafaff0d17acbd.png)",
+                                  backgroundRepeat: "repeat",
+                                  backgroundPosition: "left top",
+                                  border: "0",
+                                  backgroundSize: "142px auto",
+                                },
+                              }}
+                            ></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div {...{ className: "framer-1v8zkz4-container" }}>
+                        <div
+                          {...{
+                            className:
+                              "framer-pSh7Y framer-xuZuY framer-Huv4P framer-gi9kxj framer-v-gi9kxj",
+                            "data-border": "true",
+                            "data-framer-name": "Variant 1",
+                            style: {
+                              "--border-bottom-width": "1px",
+                              "--border-color": "rgba(255, 255, 255, 0.24)",
+                              "--border-left-width": "1px",
+                              "--border-right-width": "1px",
+                              "--border-style": "solid",
+                              "--border-top-width": "1px",
+                              backgroundColor: "rgba(255, 255, 255, 0.24)",
+                              width: "100%",
+                              borderBottomLeftRadius: "10px",
+                              borderBottomRightRadius: "10px",
+                              borderTopLeftRadius: "10px",
+                              borderTopRightRadius: "10px",
+                            },
+                          }}
+                        >
+                          <div {...{ className: "framer-16glyyi-container" }}>
+                            <div
+                              {...{
+                                className:
+                                  "framer-znWoI framer-5qi85 framer-1f3rnwv framer-v-1f3rnwv",
+                                "data-framer-name": "Light",
+                              }}
+                            >
+                              <div
+                                {...{
+                                  className: "framer-1bwzge",
+                                  "data-framer-name": "Image",
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    style: {
+                                      position: "absolute",
+                                      borderRadius: "inherit",
+                                      cornerShape: "inherit",
+                                      top: "0",
+                                      right: "0",
+                                      bottom: "0",
+                                      left: "0",
+                                    },
+                                    "data-framer-background-image-wrapper":
+                                      "true",
+                                  }}
+                                >
+                                  <img
+                                    {...{
+                                      decoding: "async",
+                                      width: "1254",
+                                      height: "1254",
+                                      sizes:
+                                        "(min-width: 1200px) 14px, (min-width: 810px) and (max-width: 1199.98px) 14px, (max-width: 809.98px) 14px",
+                                      srcSet:
+                                        "/assets/9289d8358afbbc44ee.png 512w,/assets/07eb7150e998372f64.png 1024w,/assets/0c7dcb48212699c5af.png 1254w",
+                                      src: "/assets/0c7dcb48212699c5af.png",
+                                      alt: "",
+                                      style: {
+                                        display: "block",
+                                        width: "100%",
+                                        height: "100%",
+                                        borderRadius: "inherit",
+                                        cornerShape: "inherit",
+                                        objectPosition: "center",
+                                        objectFit: "cover",
+                                      },
+                                      loading: "eager",
+                                    }}
+                                  />
+                                </div>
+                              </div>
+                              <div
+                                {...{
+                                  className: "framer-1ur96lx",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-1ggpp17",
+                                    "data-styles-preset": "YAcmHqqMw",
+                                    dir: "auto",
+                                  }}
+                                >
+                                  {"Strategy Review"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1t1uiwx",
+                              "data-framer-component-type": "RichTextContainer",
+                              style: {
+                                "--extracted-r6o4lv":
+                                  "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline",
+                                transform: "none",
+                              },
+                            }}
+                          >
+                            <p
+                              {...{
+                                className:
+                                  "framer-text framer-styles-preset-djpks0",
+                                "data-styles-preset": "EXwnSUqiT",
+                                dir: "auto",
+                                style: {
+                                  "--framer-text-color":
+                                    "var(--extracted-r6o4lv, var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255)))",
+                                },
+                              }}
+                            >
+                              {
+                                '"Elevra gave us the clarity to stop guessing and start moving in the right direction."'
+                              }
+                            </p>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1wxh3is",
+                              "data-framer-name": "User Info ",
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-1fojsdj",
+                                style: {
+                                  borderBottomLeftRadius: "2px",
+                                  borderBottomRightRadius: "2px",
+                                  borderTopLeftRadius: "2px",
+                                  borderTopRightRadius: "2px",
+                                },
+                              }}
+                            >
+                              <div
+                                {...{
+                                  style: {
+                                    position: "absolute",
+                                    borderRadius: "inherit",
+                                    cornerShape: "inherit",
+                                    top: "0",
+                                    right: "0",
+                                    bottom: "0",
+                                    left: "0",
+                                  },
+                                  "data-framer-background-image-wrapper":
+                                    "true",
+                                }}
+                              >
+                                <img
+                                  {...{
+                                    decoding: "async",
+                                    width: "896",
+                                    height: "1152",
+                                    sizes:
+                                      "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
+                                    srcSet:
+                                      "/assets/f2f1f16a7a9ad8fdb1.jpg 796w,/assets/e255ed87aec48de6e7.jpg 896w",
+                                    src: "/assets/e255ed87aec48de6e7.jpg",
+                                    alt: "A young woman with blonde hair wearing a sweater.",
+                                    style: {
+                                      display: "block",
+                                      width: "100%",
+                                      height: "100%",
+                                      borderRadius: "inherit",
+                                      cornerShape: "inherit",
+                                      objectPosition: "center",
+                                      objectFit: "cover",
+                                    },
+                                    loading: "eager",
+                                  }}
+                                />
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-1ksx39i" }}>
+                              <div
+                                {...{
+                                  className: "framer-hytaz4",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-3mw4yz",
+                                    "data-styles-preset": "CA3_gyZiM",
+                                    dir: "auto",
+                                  }}
+                                >
+                                  {"James Mitchell"}
+                                </p>
+                              </div>
+                              <div
+                                {...{
+                                  className: "framer-gw1g8p",
+                                  "data-framer-name": "Role",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--extracted-r6o4lv":
+                                      "var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64))",
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-3mw4yz",
+                                    "data-styles-preset": "CA3_gyZiM",
+                                    dir: "auto",
+                                    style: {
+                                      "--framer-text-color":
+                                        "var(--extracted-r6o4lv, var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64)))",
+                                    },
+                                  }}
+                                >
+                                  {"Founder"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      {...{
+                        className: "framer-11pskh",
+                        "data-framer-name": "Details",
+                      }}
+                    >
+                      <div
+                        {...{
+                          className: "framer-1fgttix",
+                          "data-framer-name": "Top content",
+                        }}
+                      >
+                        <div
+                          {...{
+                            className: "framer-spu0i7",
+                            "data-framer-name": "Section Header",
+                          }}
+                        >
+                          <div {...{ className: "framer-lz6fhy-container" }}>
+                            <div
+                              {...{
+                                className:
+                                  "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-1wcs0w1",
+                                "data-border": "true",
+                                "data-framer-name": "Filled",
+                                style: {
+                                  "--border-bottom-width": "1px",
+                                  "--border-color":
+                                    "var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64))",
+                                  "--border-left-width": "1px",
+                                  "--border-right-width": "1px",
+                                  "--border-style": "solid",
+                                  "--border-top-width": "1px",
+                                  backgroundColor:
+                                    "var(--token-ef5f21cb-c880-4c9e-b366-3fc1205e6d9b, rgb(242, 244, 246))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            >
+                              <div
+                                {...{
+                                  className: "framer-qabs03",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--extracted-r6o4lv":
+                                      "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-1ggpp17",
+                                    "data-styles-preset": "YAcmHqqMw",
+                                    dir: "auto",
+                                    style: {
+                                      "--framer-text-color":
+                                        "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                    },
+                                  }}
+                                >
+                                  {"01"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1wnhywj",
+                              "data-framer-name": "Titles",
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-4baozq",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <h3
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-17ydio3",
+                                  "data-styles-preset": "FNkR9rdBo",
+                                  dir: "auto",
+                                }}
+                              >
+                                {"Strategic Planning"}
+                              </h3>
+                            </div>
+                            <div
+                              {...{
+                                className: "framer-1rjxap9",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-djpks0",
+                                  "data-styles-preset": "EXwnSUqiT",
+                                  dir: "auto",
+                                }}
+                              >
+                                {
+                                  "Define your direction, sharpen your positioning, and build a clear path for growth."
+                                }
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        {...{
+                          className: "framer-rnhdsj",
+                          "data-framer-name": "Bottom content",
+                        }}
+                      >
+                        <div
+                          {...{
+                            className: "framer-xwzmi3",
+                            "data-framer-name": "What we offer",
+                          }}
+                        >
+                          <div
+                            {...{
+                              className: "framer-18iioby",
+                              "data-framer-component-type": "RichTextContainer",
+                              style: {
+                                "--extracted-r6o4lv":
+                                  "var(--token-6afab1c5-2ffa-41d5-9352-ddde60b2de5b, rgb(7, 9, 11))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline",
+                                transform: "none",
+                              },
+                            }}
+                          >
+                            <p
+                              {...{
+                                dir: "auto",
+                                className: "framer-text",
+                                style: {
+                                  "--font-selector":
+                                    "RlM7UGx1cyBKYWthcnRhIFNhbnMtbWVkaXVt",
+                                  "--framer-font-family":
+                                    '"Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif',
+                                  "--framer-font-size": "20px",
+                                  "--framer-font-weight": "500",
+                                  "--framer-letter-spacing": "-0.05em",
+                                  "--framer-line-height": "1.3em",
+                                  "--framer-text-color":
+                                    "var(--extracted-r6o4lv, var(--token-6afab1c5-2ffa-41d5-9352-ddde60b2de5b, rgb(7, 9, 11)))",
+                                },
+                              }}
+                            >
+                              {"What we offer"}
+                            </p>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-b8zntm",
+                              "data-framer-name": "Tags",
+                            }}
+                          >
+                            <div {...{ className: "framer-vu18s4-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Growth Strategy\t"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-1va1q1a-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Market Positioning"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-yn0fn3-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Business Models"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-xhe0xo-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Strategic Roadmaps"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-pm2ppz-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Market Research"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-12mzhqj-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Go-To-Market"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div {...{ className: "framer-vlqqua-container" }}>
+                          <a
+                            {...{
+                              className:
+                                "framer-3AhIS framer-FrbCk framer-zbc3f0 framer-v-zbc3f0 framer-14xmqu0",
+                              "data-framer-name": "Button",
+                              href: "https://elevra.framer.media/services/strategic-planning",
+                              style: {
+                                height: "100%",
+                                width: "100%",
+                                borderBottomLeftRadius: "8px",
+                                borderBottomRightRadius: "8px",
+                                borderTopLeftRadius: "8px",
+                                borderTopRightRadius: "8px",
+                              },
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-1pc4tf4",
+                                "data-framer-name": "BG",
+                                style: {
+                                  backgroundColor:
+                                    "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            ></div>
+                            <div
+                              {...{
+                                className: "framer-1l31mvp",
+                                "data-framer-name": "Label",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--extracted-r6o4lv":
+                                    "var(--variable-reference-Rt210Cf8M-C9yI6ZCUt)",
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  "--variable-reference-Rt210Cf8M-C9yI6ZCUt":
+                                    "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-fttqtt",
+                                  "data-styles-preset": "ql_7o_8Db",
+                                  dir: "auto",
+                                  style: {
+                                    "--framer-text-color":
+                                      "var(--extracted-r6o4lv, var(--variable-reference-Rt210Cf8M-C9yI6ZCUt))",
+                                  },
+                                }}
+                              >
+                                {"Start My Strategy"}
+                              </p>
+                            </div>
+                            <div
+                              {...{
+                                className: "framer-gblk3k",
+                                "data-framer-name": "Another one",
+                                style: {
+                                  backgroundColor:
+                                    "var(--token-ef5f21cb-c880-4c9e-b366-3fc1205e6d9b, rgb(242, 244, 246))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            ></div>
+                            <div
+                              {...{
+                                className: "framer-s6yfgh",
+                                "data-framer-name": "Label",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--extracted-r6o4lv":
+                                    "var(--variable-reference-ZHYLmSTYb-C9yI6ZCUt)",
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  "--variable-reference-ZHYLmSTYb-C9yI6ZCUt":
+                                    "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                  transform: "translateX(-50%)",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-fttqtt",
+                                  "data-styles-preset": "ql_7o_8Db",
+                                  dir: "auto",
+                                  style: {
+                                    "--framer-text-color":
+                                      "var(--extracted-r6o4lv, var(--variable-reference-ZHYLmSTYb-C9yI6ZCUt))",
+                                  },
+                                }}
+                              >
+                                {"Start My Strategy"}
+                              </p>
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div {...{ className: "framer-1yc3xvm" }}>
+            <div {...{ className: "framer-1jew9th" }}>
+              <div
+                {...{ className: "ssr-variant hidden-13i4q03 hidden-hmn9u5" }}
+              >
+                <div
+                  {...{
+                    className: "framer-1xw83x6-container",
+                    style: {
+                      willChange: "transform",
+                      opacity: "1",
+                      transform: "scale(1.05)",
+                    },
+                  }}
+                >
+                  <div
+                    {...{
+                      className:
+                        "framer-T0Vmd framer-puOxE framer-xuZuY framer-udyzye framer-v-udyzye",
+                      "data-framer-name": "Desktop",
+                      style: {
+                        backgroundColor:
+                          "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                        width: "100%",
+                        borderBottomLeftRadius: "16px",
+                        borderBottomRightRadius: "16px",
+                        borderTopLeftRadius: "16px",
+                        borderTopRightRadius: "16px",
+                      },
+                    }}
+                  >
+                    <div
+                      {...{
+                        className: "framer-1em3wk1",
+                        "data-framer-name": "Left",
+                      }}
+                    >
+                      <div {...{ className: "framer-fv2fjm-container" }}>
+                        <div
+                          {...{
+                            className:
+                              "framer-Qc3Wu framer-1tjoa6u framer-v-1tjoa6u",
+                            "data-framer-name": "Variant 1",
+                            style: {
+                              height: "100%",
+                              width: "100%",
+                              borderBottomLeftRadius: "8px",
+                              borderBottomRightRadius: "8px",
+                              borderTopLeftRadius: "8px",
+                              borderTopRightRadius: "8px",
+                            },
+                          }}
+                        >
+                          <figure
+                            {...{ as: "figure", className: "framer-33j7u1" }}
+                          >
+                            <div
+                              {...{
+                                style: {
+                                  position: "absolute",
+                                  borderRadius: "inherit",
+                                  cornerShape: "inherit",
+                                  top: "0",
+                                  right: "0",
+                                  bottom: "0",
+                                  left: "0",
+                                },
+                                "data-framer-background-image-wrapper": "true",
+                              }}
+                            >
+                              <img
+                                {...{
+                                  decoding: "async",
+                                  width: "1672",
+                                  height: "941",
+                                  sizes:
+                                    "(min-width: 1200px) min(max((calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 30px) / 2, 1px), (calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 20px) * 0.36), (min-width: 810px) and (max-width: 1199.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 48px) - 16px), (max-width: 809.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 32px) - 16px)",
+                                  srcSet:
+                                    "/assets/4d9bd55a4e593257ec.png 512w,/assets/e3b97097c1fc2a682d.png 1024w,/assets/7a6e98a8fcf8a93373.png 1672w",
+                                  src: "/assets/7a6e98a8fcf8a93373.png",
+                                  alt: "",
+                                  style: {
+                                    display: "block",
+                                    width: "100%",
+                                    height: "100%",
+                                    borderRadius: "inherit",
+                                    cornerShape: "inherit",
+                                    objectPosition: "center",
+                                    objectFit: "cover",
+                                  },
+                                  loading: "eager",
+                                }}
+                              />
+                            </div>
+                          </figure>
+                          <div
+                            {...{
+                              className: "framer-1r6ty9f",
+                              "data-framer-name": "Noise",
+                              style: { opacity: "0.1" },
+                            }}
+                          >
+                            <div
+                              {...{
+                                "data-framer-background-image-wrapper": "true",
+                                style: {
+                                  position: "absolute",
+                                  borderRadius: "inherit",
+                                  cornerShape: "inherit",
+                                  top: "0",
+                                  right: "0",
+                                  bottom: "0",
+                                  left: "0",
+                                  backgroundImage:
+                                    "url(/assets/8526aafaff0d17acbd.png)",
+                                  backgroundRepeat: "repeat",
+                                  backgroundPosition: "left top",
+                                  border: "0",
+                                  backgroundSize: "142px auto",
+                                },
+                              }}
+                            ></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div {...{ className: "framer-1v8zkz4-container" }}>
+                        <div
+                          {...{
+                            className:
+                              "framer-pSh7Y framer-xuZuY framer-Huv4P framer-gi9kxj framer-v-gi9kxj",
+                            "data-border": "true",
+                            "data-framer-name": "Variant 1",
+                            style: {
+                              "--border-bottom-width": "1px",
+                              "--border-color": "rgba(255, 255, 255, 0.24)",
+                              "--border-left-width": "1px",
+                              "--border-right-width": "1px",
+                              "--border-style": "solid",
+                              "--border-top-width": "1px",
+                              backgroundColor: "rgba(255, 255, 255, 0.24)",
+                              width: "100%",
+                              borderBottomLeftRadius: "10px",
+                              borderBottomRightRadius: "10px",
+                              borderTopLeftRadius: "10px",
+                              borderTopRightRadius: "10px",
+                            },
+                          }}
+                        >
+                          <div {...{ className: "framer-16glyyi-container" }}>
+                            <div
+                              {...{
+                                className:
+                                  "framer-znWoI framer-5qi85 framer-1f3rnwv framer-v-1f3rnwv",
+                                "data-framer-name": "Light",
+                              }}
+                            >
+                              <div
+                                {...{
+                                  className: "framer-1bwzge",
+                                  "data-framer-name": "Image",
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    style: {
+                                      position: "absolute",
+                                      borderRadius: "inherit",
+                                      cornerShape: "inherit",
+                                      top: "0",
+                                      right: "0",
+                                      bottom: "0",
+                                      left: "0",
+                                    },
+                                    "data-framer-background-image-wrapper":
+                                      "true",
+                                  }}
+                                >
+                                  <img
+                                    {...{
+                                      decoding: "async",
+                                      width: "1254",
+                                      height: "1254",
+                                      sizes:
+                                        "(min-width: 1200px) 14px, (min-width: 810px) and (max-width: 1199.98px) 14px, (max-width: 809.98px) 14px",
+                                      srcSet:
+                                        "/assets/9289d8358afbbc44ee.png 512w,/assets/07eb7150e998372f64.png 1024w,/assets/0c7dcb48212699c5af.png 1254w",
+                                      src: "/assets/0c7dcb48212699c5af.png",
+                                      alt: "",
+                                      style: {
+                                        display: "block",
+                                        width: "100%",
+                                        height: "100%",
+                                        borderRadius: "inherit",
+                                        cornerShape: "inherit",
+                                        objectPosition: "center",
+                                        objectFit: "cover",
+                                      },
+                                      loading: "eager",
+                                    }}
+                                  />
+                                </div>
+                              </div>
+                              <div
+                                {...{
+                                  className: "framer-1ur96lx",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-1ggpp17",
+                                    "data-styles-preset": "YAcmHqqMw",
+                                    dir: "auto",
+                                  }}
+                                >
+                                  {"Financial Review"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1t1uiwx",
+                              "data-framer-component-type": "RichTextContainer",
+                              style: {
+                                "--extracted-r6o4lv":
+                                  "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline",
+                                transform: "none",
+                              },
+                            }}
+                          >
+                            <p
+                              {...{
+                                className:
+                                  "framer-text framer-styles-preset-djpks0",
+                                "data-styles-preset": "EXwnSUqiT",
+                                dir: "auto",
+                                style: {
+                                  "--framer-text-color":
+                                    "var(--extracted-r6o4lv, var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255)))",
+                                },
+                              }}
+                            >
+                              {
+                                '"Our numbers finally made sense, and we walked into our funding round with confidence."'
+                              }
+                            </p>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1wxh3is",
+                              "data-framer-name": "User Info ",
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-1fojsdj",
+                                style: {
+                                  borderBottomLeftRadius: "2px",
+                                  borderBottomRightRadius: "2px",
+                                  borderTopLeftRadius: "2px",
+                                  borderTopRightRadius: "2px",
+                                },
+                              }}
+                            >
+                              <div
+                                {...{
+                                  style: {
+                                    position: "absolute",
+                                    borderRadius: "inherit",
+                                    cornerShape: "inherit",
+                                    top: "0",
+                                    right: "0",
+                                    bottom: "0",
+                                    left: "0",
+                                  },
+                                  "data-framer-background-image-wrapper":
+                                    "true",
+                                }}
+                              >
+                                <img
+                                  {...{
+                                    decoding: "async",
+                                    width: "896",
+                                    height: "1152",
+                                    sizes:
+                                      "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
+                                    srcSet:
+                                      "/assets/4fa794f60069de56b9.jpg 796w,/assets/b6894792607c852887.jpg 896w",
+                                    src: "/assets/b6894792607c852887.jpg",
+                                    alt: "A young woman with blonde hair wearing a sweater.",
+                                    style: {
+                                      display: "block",
+                                      width: "100%",
+                                      height: "100%",
+                                      borderRadius: "inherit",
+                                      cornerShape: "inherit",
+                                      objectPosition: "center",
+                                      objectFit: "cover",
+                                    },
+                                    loading: "eager",
+                                  }}
+                                />
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-1ksx39i" }}>
+                              <div
+                                {...{
+                                  className: "framer-hytaz4",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-3mw4yz",
+                                    "data-styles-preset": "CA3_gyZiM",
+                                    dir: "auto",
+                                  }}
+                                >
+                                  {"Sarah Morgan"}
+                                </p>
+                              </div>
+                              <div
+                                {...{
+                                  className: "framer-gw1g8p",
+                                  "data-framer-name": "Role",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--extracted-r6o4lv":
+                                      "var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64))",
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-3mw4yz",
+                                    "data-styles-preset": "CA3_gyZiM",
+                                    dir: "auto",
+                                    style: {
+                                      "--framer-text-color":
+                                        "var(--extracted-r6o4lv, var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64)))",
+                                    },
+                                  }}
+                                >
+                                  {"CFO"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      {...{
+                        className: "framer-11pskh",
+                        "data-framer-name": "Details",
+                      }}
+                    >
+                      <div
+                        {...{
+                          className: "framer-1fgttix",
+                          "data-framer-name": "Top content",
+                        }}
+                      >
+                        <div
+                          {...{
+                            className: "framer-spu0i7",
+                            "data-framer-name": "Section Header",
+                          }}
+                        >
+                          <div {...{ className: "framer-lz6fhy-container" }}>
+                            <div
+                              {...{
+                                className:
+                                  "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-1wcs0w1",
+                                "data-border": "true",
+                                "data-framer-name": "Filled",
+                                style: {
+                                  "--border-bottom-width": "1px",
+                                  "--border-color":
+                                    "var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64))",
+                                  "--border-left-width": "1px",
+                                  "--border-right-width": "1px",
+                                  "--border-style": "solid",
+                                  "--border-top-width": "1px",
+                                  backgroundColor:
+                                    "var(--token-ef5f21cb-c880-4c9e-b366-3fc1205e6d9b, rgb(242, 244, 246))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            >
+                              <div
+                                {...{
+                                  className: "framer-qabs03",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--extracted-r6o4lv":
+                                      "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-1ggpp17",
+                                    "data-styles-preset": "YAcmHqqMw",
+                                    dir: "auto",
+                                    style: {
+                                      "--framer-text-color":
+                                        "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                    },
+                                  }}
+                                >
+                                  {"02"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1wnhywj",
+                              "data-framer-name": "Titles",
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-4baozq",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <h3
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-17ydio3",
+                                  "data-styles-preset": "FNkR9rdBo",
+                                  dir: "auto",
+                                }}
+                              >
+                                {"Financial Consulting"}
+                              </h3>
+                            </div>
+                            <div
+                              {...{
+                                className: "framer-1rjxap9",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-djpks0",
+                                  "data-styles-preset": "EXwnSUqiT",
+                                  dir: "auto",
+                                }}
+                              >
+                                {
+                                  "Build financial clarity with smarter models, forecasts, and funding strategies."
+                                }
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        {...{
+                          className: "framer-rnhdsj",
+                          "data-framer-name": "Bottom content",
+                        }}
+                      >
+                        <div
+                          {...{
+                            className: "framer-xwzmi3",
+                            "data-framer-name": "What we offer",
+                          }}
+                        >
+                          <div
+                            {...{
+                              className: "framer-18iioby",
+                              "data-framer-component-type": "RichTextContainer",
+                              style: {
+                                "--extracted-r6o4lv":
+                                  "var(--token-6afab1c5-2ffa-41d5-9352-ddde60b2de5b, rgb(7, 9, 11))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline",
+                                transform: "none",
+                              },
+                            }}
+                          >
+                            <p
+                              {...{
+                                dir: "auto",
+                                className: "framer-text",
+                                style: {
+                                  "--font-selector":
+                                    "RlM7UGx1cyBKYWthcnRhIFNhbnMtbWVkaXVt",
+                                  "--framer-font-family":
+                                    '"Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif',
+                                  "--framer-font-size": "20px",
+                                  "--framer-font-weight": "500",
+                                  "--framer-letter-spacing": "-0.05em",
+                                  "--framer-line-height": "1.3em",
+                                  "--framer-text-color":
+                                    "var(--extracted-r6o4lv, var(--token-6afab1c5-2ffa-41d5-9352-ddde60b2de5b, rgb(7, 9, 11)))",
+                                },
+                              }}
+                            >
+                              {"What we offer"}
+                            </p>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-b8zntm",
+                              "data-framer-name": "Tags",
+                            }}
+                          >
+                            <div {...{ className: "framer-vu18s4-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Financial Modeling"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-1va1q1a-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Cash Flow Planning"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-yn0fn3-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Revenue Forecasting"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-xhe0xo-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Funding Strategy"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-pm2ppz-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Investor Readiness"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-12mzhqj-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Scenario Planning"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div {...{ className: "framer-vlqqua-container" }}>
+                          <a
+                            {...{
+                              className:
+                                "framer-3AhIS framer-FrbCk framer-zbc3f0 framer-v-zbc3f0 framer-14xmqu0",
+                              "data-framer-name": "Button",
+                              href: "https://elevra.framer.media/services/financial-consulting",
+                              style: {
+                                height: "100%",
+                                width: "100%",
+                                borderBottomLeftRadius: "8px",
+                                borderBottomRightRadius: "8px",
+                                borderTopLeftRadius: "8px",
+                                borderTopRightRadius: "8px",
+                              },
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-1pc4tf4",
+                                "data-framer-name": "BG",
+                                style: {
+                                  backgroundColor:
+                                    "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            ></div>
+                            <div
+                              {...{
+                                className: "framer-1l31mvp",
+                                "data-framer-name": "Label",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--extracted-r6o4lv":
+                                    "var(--variable-reference-Rt210Cf8M-C9yI6ZCUt)",
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  "--variable-reference-Rt210Cf8M-C9yI6ZCUt":
+                                    "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-fttqtt",
+                                  "data-styles-preset": "ql_7o_8Db",
+                                  dir: "auto",
+                                  style: {
+                                    "--framer-text-color":
+                                      "var(--extracted-r6o4lv, var(--variable-reference-Rt210Cf8M-C9yI6ZCUt))",
+                                  },
+                                }}
+                              >
+                                {"Get Financial Clarity"}
+                              </p>
+                            </div>
+                            <div
+                              {...{
+                                className: "framer-gblk3k",
+                                "data-framer-name": "Another one",
+                                style: {
+                                  backgroundColor:
+                                    "var(--token-ef5f21cb-c880-4c9e-b366-3fc1205e6d9b, rgb(242, 244, 246))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            ></div>
+                            <div
+                              {...{
+                                className: "framer-s6yfgh",
+                                "data-framer-name": "Label",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--extracted-r6o4lv":
+                                    "var(--variable-reference-ZHYLmSTYb-C9yI6ZCUt)",
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  "--variable-reference-ZHYLmSTYb-C9yI6ZCUt":
+                                    "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                  transform: "translateX(-50%)",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-fttqtt",
+                                  "data-styles-preset": "ql_7o_8Db",
+                                  dir: "auto",
+                                  style: {
+                                    "--framer-text-color":
+                                      "var(--extracted-r6o4lv, var(--variable-reference-ZHYLmSTYb-C9yI6ZCUt))",
+                                  },
+                                }}
+                              >
+                                {"Get Financial Clarity"}
+                              </p>
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                {...{ className: "ssr-variant hidden-12cu097 hidden-hmn9u5" }}
+              >
+                <div
+                  {...{
+                    className: "framer-1xw83x6-container",
+                    style: {
+                      willChange: "transform",
+                      opacity: "1",
+                      transform: "scale(1.05)",
+                    },
+                  }}
+                >
+                  <div
+                    {...{
+                      className:
+                        "framer-T0Vmd framer-puOxE framer-xuZuY framer-udyzye framer-v-oztyab",
+                      "data-framer-name": "Tablet",
+                      style: {
+                        backgroundColor:
+                          "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                        width: "100%",
+                        borderBottomLeftRadius: "16px",
+                        borderBottomRightRadius: "16px",
+                        borderTopLeftRadius: "16px",
+                        borderTopRightRadius: "16px",
+                      },
+                    }}
+                  >
+                    <div
+                      {...{
+                        className: "framer-1em3wk1",
+                        "data-framer-name": "Left",
+                      }}
+                    >
+                      <div {...{ className: "framer-fv2fjm-container" }}>
+                        <div
+                          {...{
+                            className:
+                              "framer-Qc3Wu framer-1tjoa6u framer-v-1tjoa6u",
+                            "data-framer-name": "Variant 1",
+                            style: {
+                              height: "100%",
+                              width: "100%",
+                              borderBottomLeftRadius: "8px",
+                              borderBottomRightRadius: "8px",
+                              borderTopLeftRadius: "8px",
+                              borderTopRightRadius: "8px",
+                            },
+                          }}
+                        >
+                          <figure
+                            {...{ as: "figure", className: "framer-33j7u1" }}
+                          >
+                            <div
+                              {...{
+                                style: {
+                                  position: "absolute",
+                                  borderRadius: "inherit",
+                                  cornerShape: "inherit",
+                                  top: "0",
+                                  right: "0",
+                                  bottom: "0",
+                                  left: "0",
+                                },
+                                "data-framer-background-image-wrapper": "true",
+                              }}
+                            >
+                              <img
+                                {...{
+                                  decoding: "async",
+                                  width: "1672",
+                                  height: "941",
+                                  sizes:
+                                    "(min-width: 1200px) min(max((calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 30px) / 2, 1px), (calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 20px) * 0.36), (min-width: 810px) and (max-width: 1199.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 48px) - 16px), (max-width: 809.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 32px) - 16px)",
+                                  srcSet:
+                                    "/assets/4d9bd55a4e593257ec.png 512w,/assets/e3b97097c1fc2a682d.png 1024w,/assets/7a6e98a8fcf8a93373.png 1672w",
+                                  src: "/assets/7a6e98a8fcf8a93373.png",
+                                  alt: "",
+                                  style: {
+                                    display: "block",
+                                    width: "100%",
+                                    height: "100%",
+                                    borderRadius: "inherit",
+                                    cornerShape: "inherit",
+                                    objectPosition: "center",
+                                    objectFit: "cover",
+                                  },
+                                  loading: "eager",
+                                }}
+                              />
+                            </div>
+                          </figure>
+                          <div
+                            {...{
+                              className: "framer-1r6ty9f",
+                              "data-framer-name": "Noise",
+                              style: { opacity: "0.1" },
+                            }}
+                          >
+                            <div
+                              {...{
+                                "data-framer-background-image-wrapper": "true",
+                                style: {
+                                  position: "absolute",
+                                  borderRadius: "inherit",
+                                  cornerShape: "inherit",
+                                  top: "0",
+                                  right: "0",
+                                  bottom: "0",
+                                  left: "0",
+                                  backgroundImage:
+                                    "url(/assets/8526aafaff0d17acbd.png)",
+                                  backgroundRepeat: "repeat",
+                                  backgroundPosition: "left top",
+                                  border: "0",
+                                  backgroundSize: "142px auto",
+                                },
+                              }}
+                            ></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div {...{ className: "framer-1v8zkz4-container" }}>
+                        <div
+                          {...{
+                            className:
+                              "framer-pSh7Y framer-xuZuY framer-Huv4P framer-gi9kxj framer-v-gi9kxj",
+                            "data-border": "true",
+                            "data-framer-name": "Variant 1",
+                            style: {
+                              "--border-bottom-width": "1px",
+                              "--border-color": "rgba(255, 255, 255, 0.24)",
+                              "--border-left-width": "1px",
+                              "--border-right-width": "1px",
+                              "--border-style": "solid",
+                              "--border-top-width": "1px",
+                              backgroundColor: "rgba(255, 255, 255, 0.24)",
+                              width: "100%",
+                              borderBottomLeftRadius: "10px",
+                              borderBottomRightRadius: "10px",
+                              borderTopLeftRadius: "10px",
+                              borderTopRightRadius: "10px",
+                            },
+                          }}
+                        >
+                          <div {...{ className: "framer-16glyyi-container" }}>
+                            <div
+                              {...{
+                                className:
+                                  "framer-znWoI framer-5qi85 framer-1f3rnwv framer-v-1f3rnwv",
+                                "data-framer-name": "Light",
+                              }}
+                            >
+                              <div
+                                {...{
+                                  className: "framer-1bwzge",
+                                  "data-framer-name": "Image",
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    style: {
+                                      position: "absolute",
+                                      borderRadius: "inherit",
+                                      cornerShape: "inherit",
+                                      top: "0",
+                                      right: "0",
+                                      bottom: "0",
+                                      left: "0",
+                                    },
+                                    "data-framer-background-image-wrapper":
+                                      "true",
+                                  }}
+                                >
+                                  <img
+                                    {...{
+                                      decoding: "async",
+                                      width: "1254",
+                                      height: "1254",
+                                      sizes:
+                                        "(min-width: 1200px) 14px, (min-width: 810px) and (max-width: 1199.98px) 14px, (max-width: 809.98px) 14px",
+                                      srcSet:
+                                        "/assets/9289d8358afbbc44ee.png 512w,/assets/07eb7150e998372f64.png 1024w,/assets/0c7dcb48212699c5af.png 1254w",
+                                      src: "/assets/0c7dcb48212699c5af.png",
+                                      alt: "",
+                                      style: {
+                                        display: "block",
+                                        width: "100%",
+                                        height: "100%",
+                                        borderRadius: "inherit",
+                                        cornerShape: "inherit",
+                                        objectPosition: "center",
+                                        objectFit: "cover",
+                                      },
+                                      loading: "eager",
+                                    }}
+                                  />
+                                </div>
+                              </div>
+                              <div
+                                {...{
+                                  className: "framer-1ur96lx",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-1ggpp17",
+                                    "data-styles-preset": "YAcmHqqMw",
+                                    dir: "auto",
+                                  }}
+                                >
+                                  {"Financial Review"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1t1uiwx",
+                              "data-framer-component-type": "RichTextContainer",
+                              style: {
+                                "--extracted-r6o4lv":
+                                  "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline",
+                                transform: "none",
+                              },
+                            }}
+                          >
+                            <p
+                              {...{
+                                className:
+                                  "framer-text framer-styles-preset-djpks0",
+                                "data-styles-preset": "EXwnSUqiT",
+                                dir: "auto",
+                                style: {
+                                  "--framer-text-color":
+                                    "var(--extracted-r6o4lv, var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255)))",
+                                },
+                              }}
+                            >
+                              {
+                                '"Our numbers finally made sense, and we walked into our funding round with confidence."'
+                              }
+                            </p>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1wxh3is",
+                              "data-framer-name": "User Info ",
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-1fojsdj",
+                                style: {
+                                  borderBottomLeftRadius: "2px",
+                                  borderBottomRightRadius: "2px",
+                                  borderTopLeftRadius: "2px",
+                                  borderTopRightRadius: "2px",
+                                },
+                              }}
+                            >
+                              <div
+                                {...{
+                                  style: {
+                                    position: "absolute",
+                                    borderRadius: "inherit",
+                                    cornerShape: "inherit",
+                                    top: "0",
+                                    right: "0",
+                                    bottom: "0",
+                                    left: "0",
+                                  },
+                                  "data-framer-background-image-wrapper":
+                                    "true",
+                                }}
+                              >
+                                <img
+                                  {...{
+                                    decoding: "async",
+                                    width: "896",
+                                    height: "1152",
+                                    sizes:
+                                      "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
+                                    srcSet:
+                                      "/assets/4fa794f60069de56b9.jpg 796w,/assets/b6894792607c852887.jpg 896w",
+                                    src: "/assets/b6894792607c852887.jpg",
+                                    alt: "A young woman with blonde hair wearing a sweater.",
+                                    style: {
+                                      display: "block",
+                                      width: "100%",
+                                      height: "100%",
+                                      borderRadius: "inherit",
+                                      cornerShape: "inherit",
+                                      objectPosition: "center",
+                                      objectFit: "cover",
+                                    },
+                                    loading: "eager",
+                                  }}
+                                />
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-1ksx39i" }}>
+                              <div
+                                {...{
+                                  className: "framer-hytaz4",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-3mw4yz",
+                                    "data-styles-preset": "CA3_gyZiM",
+                                    dir: "auto",
+                                  }}
+                                >
+                                  {"Sarah Morgan"}
+                                </p>
+                              </div>
+                              <div
+                                {...{
+                                  className: "framer-gw1g8p",
+                                  "data-framer-name": "Role",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--extracted-r6o4lv":
+                                      "var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64))",
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-3mw4yz",
+                                    "data-styles-preset": "CA3_gyZiM",
+                                    dir: "auto",
+                                    style: {
+                                      "--framer-text-color":
+                                        "var(--extracted-r6o4lv, var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64)))",
+                                    },
+                                  }}
+                                >
+                                  {"CFO"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      {...{
+                        className: "framer-11pskh",
+                        "data-framer-name": "Details",
+                      }}
+                    >
+                      <div
+                        {...{
+                          className: "framer-1fgttix",
+                          "data-framer-name": "Top content",
+                        }}
+                      >
+                        <div
+                          {...{
+                            className: "framer-spu0i7",
+                            "data-framer-name": "Section Header",
+                          }}
+                        >
+                          <div {...{ className: "framer-lz6fhy-container" }}>
+                            <div
+                              {...{
+                                className:
+                                  "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-1wcs0w1",
+                                "data-border": "true",
+                                "data-framer-name": "Filled",
+                                style: {
+                                  "--border-bottom-width": "1px",
+                                  "--border-color":
+                                    "var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64))",
+                                  "--border-left-width": "1px",
+                                  "--border-right-width": "1px",
+                                  "--border-style": "solid",
+                                  "--border-top-width": "1px",
+                                  backgroundColor:
+                                    "var(--token-ef5f21cb-c880-4c9e-b366-3fc1205e6d9b, rgb(242, 244, 246))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            >
+                              <div
+                                {...{
+                                  className: "framer-qabs03",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--extracted-r6o4lv":
+                                      "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-1ggpp17",
+                                    "data-styles-preset": "YAcmHqqMw",
+                                    dir: "auto",
+                                    style: {
+                                      "--framer-text-color":
+                                        "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                    },
+                                  }}
+                                >
+                                  {"02"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1wnhywj",
+                              "data-framer-name": "Titles",
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-4baozq",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <h3
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-17ydio3",
+                                  "data-styles-preset": "FNkR9rdBo",
+                                  dir: "auto",
+                                }}
+                              >
+                                {"Financial Consulting"}
+                              </h3>
+                            </div>
+                            <div
+                              {...{
+                                className: "framer-1rjxap9",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-djpks0",
+                                  "data-styles-preset": "EXwnSUqiT",
+                                  dir: "auto",
+                                }}
+                              >
+                                {
+                                  "Build financial clarity with smarter models, forecasts, and funding strategies."
+                                }
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        {...{
+                          className: "framer-rnhdsj",
+                          "data-framer-name": "Bottom content",
+                        }}
+                      >
+                        <div
+                          {...{
+                            className: "framer-xwzmi3",
+                            "data-framer-name": "What we offer",
+                          }}
+                        >
+                          <div
+                            {...{
+                              className: "framer-18iioby",
+                              "data-framer-component-type": "RichTextContainer",
+                              style: {
+                                "--extracted-r6o4lv":
+                                  "var(--token-6afab1c5-2ffa-41d5-9352-ddde60b2de5b, rgb(7, 9, 11))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline",
+                                transform: "none",
+                              },
+                            }}
+                          >
+                            <p
+                              {...{
+                                dir: "auto",
+                                className: "framer-text",
+                                style: {
+                                  "--font-selector":
+                                    "RlM7UGx1cyBKYWthcnRhIFNhbnMtbWVkaXVt",
+                                  "--framer-font-family":
+                                    '"Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif',
+                                  "--framer-font-size": "20px",
+                                  "--framer-font-weight": "500",
+                                  "--framer-letter-spacing": "-0.05em",
+                                  "--framer-line-height": "1.3em",
+                                  "--framer-text-color":
+                                    "var(--extracted-r6o4lv, var(--token-6afab1c5-2ffa-41d5-9352-ddde60b2de5b, rgb(7, 9, 11)))",
+                                },
+                              }}
+                            >
+                              {"What we offer"}
+                            </p>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-b8zntm",
+                              "data-framer-name": "Tags",
+                            }}
+                          >
+                            <div {...{ className: "framer-vu18s4-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Financial Modeling"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-1va1q1a-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Cash Flow Planning"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-yn0fn3-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Revenue Forecasting"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-xhe0xo-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Funding Strategy"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-pm2ppz-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Investor Readiness"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-12mzhqj-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Scenario Planning"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div {...{ className: "framer-vlqqua-container" }}>
+                          <a
+                            {...{
+                              className:
+                                "framer-3AhIS framer-FrbCk framer-zbc3f0 framer-v-zbc3f0 framer-14xmqu0",
+                              "data-framer-name": "Button",
+                              href: "https://elevra.framer.media/services/financial-consulting",
+                              style: {
+                                height: "100%",
+                                width: "100%",
+                                borderBottomLeftRadius: "8px",
+                                borderBottomRightRadius: "8px",
+                                borderTopLeftRadius: "8px",
+                                borderTopRightRadius: "8px",
+                              },
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-1pc4tf4",
+                                "data-framer-name": "BG",
+                                style: {
+                                  backgroundColor:
+                                    "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            ></div>
+                            <div
+                              {...{
+                                className: "framer-1l31mvp",
+                                "data-framer-name": "Label",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--extracted-r6o4lv":
+                                    "var(--variable-reference-Rt210Cf8M-C9yI6ZCUt)",
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  "--variable-reference-Rt210Cf8M-C9yI6ZCUt":
+                                    "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-fttqtt",
+                                  "data-styles-preset": "ql_7o_8Db",
+                                  dir: "auto",
+                                  style: {
+                                    "--framer-text-color":
+                                      "var(--extracted-r6o4lv, var(--variable-reference-Rt210Cf8M-C9yI6ZCUt))",
+                                  },
+                                }}
+                              >
+                                {"Get Financial Clarity"}
+                              </p>
+                            </div>
+                            <div
+                              {...{
+                                className: "framer-gblk3k",
+                                "data-framer-name": "Another one",
+                                style: {
+                                  backgroundColor:
+                                    "var(--token-ef5f21cb-c880-4c9e-b366-3fc1205e6d9b, rgb(242, 244, 246))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            ></div>
+                            <div
+                              {...{
+                                className: "framer-s6yfgh",
+                                "data-framer-name": "Label",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--extracted-r6o4lv":
+                                    "var(--variable-reference-ZHYLmSTYb-C9yI6ZCUt)",
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  "--variable-reference-ZHYLmSTYb-C9yI6ZCUt":
+                                    "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                  transform: "translateX(-50%)",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-fttqtt",
+                                  "data-styles-preset": "ql_7o_8Db",
+                                  dir: "auto",
+                                  style: {
+                                    "--framer-text-color":
+                                      "var(--extracted-r6o4lv, var(--variable-reference-ZHYLmSTYb-C9yI6ZCUt))",
+                                  },
+                                }}
+                              >
+                                {"Get Financial Clarity"}
+                              </p>
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                {...{ className: "ssr-variant hidden-13i4q03 hidden-12cu097" }}
+              >
+                <div
+                  {...{
+                    className: "framer-1xw83x6-container",
+                    style: { opacity: "1", transform: "none" },
+                  }}
+                >
+                  <div
+                    {...{
+                      className:
+                        "framer-T0Vmd framer-puOxE framer-xuZuY framer-udyzye framer-v-1et1or0",
+                      "data-framer-name": "Mobile",
+                      style: {
+                        backgroundColor:
+                          "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                        width: "100%",
+                        borderBottomLeftRadius: "16px",
+                        borderBottomRightRadius: "16px",
+                        borderTopLeftRadius: "16px",
+                        borderTopRightRadius: "16px",
+                      },
+                    }}
+                  >
+                    <div
+                      {...{
+                        className: "framer-1em3wk1",
+                        "data-framer-name": "Left",
+                      }}
+                    >
+                      <div {...{ className: "framer-fv2fjm-container" }}>
+                        <div
+                          {...{
+                            className:
+                              "framer-Qc3Wu framer-1tjoa6u framer-v-1tjoa6u",
+                            "data-framer-name": "Variant 1",
+                            style: {
+                              height: "100%",
+                              width: "100%",
+                              borderBottomLeftRadius: "8px",
+                              borderBottomRightRadius: "8px",
+                              borderTopLeftRadius: "8px",
+                              borderTopRightRadius: "8px",
+                            },
+                          }}
+                        >
+                          <figure
+                            {...{ as: "figure", className: "framer-33j7u1" }}
+                          >
+                            <div
+                              {...{
+                                style: {
+                                  position: "absolute",
+                                  borderRadius: "inherit",
+                                  cornerShape: "inherit",
+                                  top: "0",
+                                  right: "0",
+                                  bottom: "0",
+                                  left: "0",
+                                },
+                                "data-framer-background-image-wrapper": "true",
+                              }}
+                            >
+                              <img
+                                {...{
+                                  decoding: "async",
+                                  width: "1672",
+                                  height: "941",
+                                  sizes:
+                                    "(min-width: 1200px) min(max((calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 30px) / 2, 1px), (calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 20px) * 0.36), (min-width: 810px) and (max-width: 1199.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 48px) - 16px), (max-width: 809.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 32px) - 16px)",
+                                  srcSet:
+                                    "/assets/4d9bd55a4e593257ec.png 512w,/assets/e3b97097c1fc2a682d.png 1024w,/assets/7a6e98a8fcf8a93373.png 1672w",
+                                  src: "/assets/7a6e98a8fcf8a93373.png",
+                                  alt: "",
+                                  style: {
+                                    display: "block",
+                                    width: "100%",
+                                    height: "100%",
+                                    borderRadius: "inherit",
+                                    cornerShape: "inherit",
+                                    objectPosition: "center",
+                                    objectFit: "cover",
+                                  },
+                                  loading: "eager",
+                                }}
+                              />
+                            </div>
+                          </figure>
+                          <div
+                            {...{
+                              className: "framer-1r6ty9f",
+                              "data-framer-name": "Noise",
+                              style: { opacity: "0.1" },
+                            }}
+                          >
+                            <div
+                              {...{
+                                "data-framer-background-image-wrapper": "true",
+                                style: {
+                                  position: "absolute",
+                                  borderRadius: "inherit",
+                                  cornerShape: "inherit",
+                                  top: "0",
+                                  right: "0",
+                                  bottom: "0",
+                                  left: "0",
+                                  backgroundImage:
+                                    "url(/assets/8526aafaff0d17acbd.png)",
+                                  backgroundRepeat: "repeat",
+                                  backgroundPosition: "left top",
+                                  border: "0",
+                                  backgroundSize: "142px auto",
+                                },
+                              }}
+                            ></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div {...{ className: "framer-1v8zkz4-container" }}>
+                        <div
+                          {...{
+                            className:
+                              "framer-pSh7Y framer-xuZuY framer-Huv4P framer-gi9kxj framer-v-gi9kxj",
+                            "data-border": "true",
+                            "data-framer-name": "Variant 1",
+                            style: {
+                              "--border-bottom-width": "1px",
+                              "--border-color": "rgba(255, 255, 255, 0.24)",
+                              "--border-left-width": "1px",
+                              "--border-right-width": "1px",
+                              "--border-style": "solid",
+                              "--border-top-width": "1px",
+                              backgroundColor: "rgba(255, 255, 255, 0.24)",
+                              width: "100%",
+                              borderBottomLeftRadius: "10px",
+                              borderBottomRightRadius: "10px",
+                              borderTopLeftRadius: "10px",
+                              borderTopRightRadius: "10px",
+                            },
+                          }}
+                        >
+                          <div {...{ className: "framer-16glyyi-container" }}>
+                            <div
+                              {...{
+                                className:
+                                  "framer-znWoI framer-5qi85 framer-1f3rnwv framer-v-1f3rnwv",
+                                "data-framer-name": "Light",
+                              }}
+                            >
+                              <div
+                                {...{
+                                  className: "framer-1bwzge",
+                                  "data-framer-name": "Image",
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    style: {
+                                      position: "absolute",
+                                      borderRadius: "inherit",
+                                      cornerShape: "inherit",
+                                      top: "0",
+                                      right: "0",
+                                      bottom: "0",
+                                      left: "0",
+                                    },
+                                    "data-framer-background-image-wrapper":
+                                      "true",
+                                  }}
+                                >
+                                  <img
+                                    {...{
+                                      decoding: "async",
+                                      width: "1254",
+                                      height: "1254",
+                                      sizes:
+                                        "(min-width: 1200px) 14px, (min-width: 810px) and (max-width: 1199.98px) 14px, (max-width: 809.98px) 14px",
+                                      srcSet:
+                                        "/assets/9289d8358afbbc44ee.png 512w,/assets/07eb7150e998372f64.png 1024w,/assets/0c7dcb48212699c5af.png 1254w",
+                                      src: "/assets/0c7dcb48212699c5af.png",
+                                      alt: "",
+                                      style: {
+                                        display: "block",
+                                        width: "100%",
+                                        height: "100%",
+                                        borderRadius: "inherit",
+                                        cornerShape: "inherit",
+                                        objectPosition: "center",
+                                        objectFit: "cover",
+                                      },
+                                      loading: "eager",
+                                    }}
+                                  />
+                                </div>
+                              </div>
+                              <div
+                                {...{
+                                  className: "framer-1ur96lx",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-1ggpp17",
+                                    "data-styles-preset": "YAcmHqqMw",
+                                    dir: "auto",
+                                  }}
+                                >
+                                  {"Financial Review"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1t1uiwx",
+                              "data-framer-component-type": "RichTextContainer",
+                              style: {
+                                "--extracted-r6o4lv":
+                                  "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline",
+                                transform: "none",
+                              },
+                            }}
+                          >
+                            <p
+                              {...{
+                                className:
+                                  "framer-text framer-styles-preset-djpks0",
+                                "data-styles-preset": "EXwnSUqiT",
+                                dir: "auto",
+                                style: {
+                                  "--framer-text-color":
+                                    "var(--extracted-r6o4lv, var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255)))",
+                                },
+                              }}
+                            >
+                              {
+                                '"Our numbers finally made sense, and we walked into our funding round with confidence."'
+                              }
+                            </p>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1wxh3is",
+                              "data-framer-name": "User Info ",
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-1fojsdj",
+                                style: {
+                                  borderBottomLeftRadius: "2px",
+                                  borderBottomRightRadius: "2px",
+                                  borderTopLeftRadius: "2px",
+                                  borderTopRightRadius: "2px",
+                                },
+                              }}
+                            >
+                              <div
+                                {...{
+                                  style: {
+                                    position: "absolute",
+                                    borderRadius: "inherit",
+                                    cornerShape: "inherit",
+                                    top: "0",
+                                    right: "0",
+                                    bottom: "0",
+                                    left: "0",
+                                  },
+                                  "data-framer-background-image-wrapper":
+                                    "true",
+                                }}
+                              >
+                                <img
+                                  {...{
+                                    decoding: "async",
+                                    width: "896",
+                                    height: "1152",
+                                    sizes:
+                                      "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
+                                    srcSet:
+                                      "/assets/4fa794f60069de56b9.jpg 796w,/assets/b6894792607c852887.jpg 896w",
+                                    src: "/assets/b6894792607c852887.jpg",
+                                    alt: "A young woman with blonde hair wearing a sweater.",
+                                    style: {
+                                      display: "block",
+                                      width: "100%",
+                                      height: "100%",
+                                      borderRadius: "inherit",
+                                      cornerShape: "inherit",
+                                      objectPosition: "center",
+                                      objectFit: "cover",
+                                    },
+                                    loading: "eager",
+                                  }}
+                                />
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-1ksx39i" }}>
+                              <div
+                                {...{
+                                  className: "framer-hytaz4",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-3mw4yz",
+                                    "data-styles-preset": "CA3_gyZiM",
+                                    dir: "auto",
+                                  }}
+                                >
+                                  {"Sarah Morgan"}
+                                </p>
+                              </div>
+                              <div
+                                {...{
+                                  className: "framer-gw1g8p",
+                                  "data-framer-name": "Role",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--extracted-r6o4lv":
+                                      "var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64))",
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-3mw4yz",
+                                    "data-styles-preset": "CA3_gyZiM",
+                                    dir: "auto",
+                                    style: {
+                                      "--framer-text-color":
+                                        "var(--extracted-r6o4lv, var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64)))",
+                                    },
+                                  }}
+                                >
+                                  {"CFO"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      {...{
+                        className: "framer-11pskh",
+                        "data-framer-name": "Details",
+                      }}
+                    >
+                      <div
+                        {...{
+                          className: "framer-1fgttix",
+                          "data-framer-name": "Top content",
+                        }}
+                      >
+                        <div
+                          {...{
+                            className: "framer-spu0i7",
+                            "data-framer-name": "Section Header",
+                          }}
+                        >
+                          <div {...{ className: "framer-lz6fhy-container" }}>
+                            <div
+                              {...{
+                                className:
+                                  "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-1wcs0w1",
+                                "data-border": "true",
+                                "data-framer-name": "Filled",
+                                style: {
+                                  "--border-bottom-width": "1px",
+                                  "--border-color":
+                                    "var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64))",
+                                  "--border-left-width": "1px",
+                                  "--border-right-width": "1px",
+                                  "--border-style": "solid",
+                                  "--border-top-width": "1px",
+                                  backgroundColor:
+                                    "var(--token-ef5f21cb-c880-4c9e-b366-3fc1205e6d9b, rgb(242, 244, 246))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            >
+                              <div
+                                {...{
+                                  className: "framer-qabs03",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--extracted-r6o4lv":
+                                      "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-1ggpp17",
+                                    "data-styles-preset": "YAcmHqqMw",
+                                    dir: "auto",
+                                    style: {
+                                      "--framer-text-color":
+                                        "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                    },
+                                  }}
+                                >
+                                  {"02"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1wnhywj",
+                              "data-framer-name": "Titles",
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-4baozq",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <h3
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-17ydio3",
+                                  "data-styles-preset": "FNkR9rdBo",
+                                  dir: "auto",
+                                }}
+                              >
+                                {"Financial Consulting"}
+                              </h3>
+                            </div>
+                            <div
+                              {...{
+                                className: "framer-1rjxap9",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-djpks0",
+                                  "data-styles-preset": "EXwnSUqiT",
+                                  dir: "auto",
+                                }}
+                              >
+                                {
+                                  "Build financial clarity with smarter models, forecasts, and funding strategies."
+                                }
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        {...{
+                          className: "framer-rnhdsj",
+                          "data-framer-name": "Bottom content",
+                        }}
+                      >
+                        <div
+                          {...{
+                            className: "framer-xwzmi3",
+                            "data-framer-name": "What we offer",
+                          }}
+                        >
+                          <div
+                            {...{
+                              className: "framer-18iioby",
+                              "data-framer-component-type": "RichTextContainer",
+                              style: {
+                                "--extracted-r6o4lv":
+                                  "var(--token-6afab1c5-2ffa-41d5-9352-ddde60b2de5b, rgb(7, 9, 11))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline",
+                                transform: "none",
+                              },
+                            }}
+                          >
+                            <p
+                              {...{
+                                dir: "auto",
+                                className: "framer-text",
+                                style: {
+                                  "--font-selector":
+                                    "RlM7UGx1cyBKYWthcnRhIFNhbnMtbWVkaXVt",
+                                  "--framer-font-family":
+                                    '"Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif',
+                                  "--framer-font-size": "20px",
+                                  "--framer-font-weight": "500",
+                                  "--framer-letter-spacing": "-0.05em",
+                                  "--framer-line-height": "1.3em",
+                                  "--framer-text-color":
+                                    "var(--extracted-r6o4lv, var(--token-6afab1c5-2ffa-41d5-9352-ddde60b2de5b, rgb(7, 9, 11)))",
+                                },
+                              }}
+                            >
+                              {"What we offer"}
+                            </p>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-b8zntm",
+                              "data-framer-name": "Tags",
+                            }}
+                          >
+                            <div {...{ className: "framer-vu18s4-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Financial Modeling"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-1va1q1a-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Cash Flow Planning"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-yn0fn3-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Revenue Forecasting"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-xhe0xo-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Funding Strategy"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-pm2ppz-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Investor Readiness"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-12mzhqj-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Scenario Planning"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div {...{ className: "framer-vlqqua-container" }}>
+                          <a
+                            {...{
+                              className:
+                                "framer-3AhIS framer-FrbCk framer-zbc3f0 framer-v-zbc3f0 framer-14xmqu0",
+                              "data-framer-name": "Button",
+                              href: "https://elevra.framer.media/services/financial-consulting",
+                              style: {
+                                height: "100%",
+                                width: "100%",
+                                borderBottomLeftRadius: "8px",
+                                borderBottomRightRadius: "8px",
+                                borderTopLeftRadius: "8px",
+                                borderTopRightRadius: "8px",
+                              },
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-1pc4tf4",
+                                "data-framer-name": "BG",
+                                style: {
+                                  backgroundColor:
+                                    "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            ></div>
+                            <div
+                              {...{
+                                className: "framer-1l31mvp",
+                                "data-framer-name": "Label",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--extracted-r6o4lv":
+                                    "var(--variable-reference-Rt210Cf8M-C9yI6ZCUt)",
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  "--variable-reference-Rt210Cf8M-C9yI6ZCUt":
+                                    "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-fttqtt",
+                                  "data-styles-preset": "ql_7o_8Db",
+                                  dir: "auto",
+                                  style: {
+                                    "--framer-text-color":
+                                      "var(--extracted-r6o4lv, var(--variable-reference-Rt210Cf8M-C9yI6ZCUt))",
+                                  },
+                                }}
+                              >
+                                {"Get Financial Clarity"}
+                              </p>
+                            </div>
+                            <div
+                              {...{
+                                className: "framer-gblk3k",
+                                "data-framer-name": "Another one",
+                                style: {
+                                  backgroundColor:
+                                    "var(--token-ef5f21cb-c880-4c9e-b366-3fc1205e6d9b, rgb(242, 244, 246))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            ></div>
+                            <div
+                              {...{
+                                className: "framer-s6yfgh",
+                                "data-framer-name": "Label",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--extracted-r6o4lv":
+                                    "var(--variable-reference-ZHYLmSTYb-C9yI6ZCUt)",
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  "--variable-reference-ZHYLmSTYb-C9yI6ZCUt":
+                                    "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                  transform: "translateX(-50%)",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-fttqtt",
+                                  "data-styles-preset": "ql_7o_8Db",
+                                  dir: "auto",
+                                  style: {
+                                    "--framer-text-color":
+                                      "var(--extracted-r6o4lv, var(--variable-reference-ZHYLmSTYb-C9yI6ZCUt))",
+                                  },
+                                }}
+                              >
+                                {"Get Financial Clarity"}
+                              </p>
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div {...{ className: "framer-1refces" }}>
+            <div {...{ className: "framer-1km3bpr" }}>
+              <div
+                {...{ className: "ssr-variant hidden-13i4q03 hidden-hmn9u5" }}
+              >
+                <div
+                  {...{
+                    className: "framer-5g12cp-container",
+                    style: {
+                      willChange: "transform",
+                      opacity: "1",
+                      transform: "scale(1.05)",
+                    },
+                  }}
+                >
+                  <div
+                    {...{
+                      className:
+                        "framer-T0Vmd framer-puOxE framer-xuZuY framer-udyzye framer-v-udyzye",
+                      "data-framer-name": "Desktop",
+                      style: {
+                        backgroundColor:
+                          "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                        width: "100%",
+                        borderBottomLeftRadius: "16px",
+                        borderBottomRightRadius: "16px",
+                        borderTopLeftRadius: "16px",
+                        borderTopRightRadius: "16px",
+                      },
+                    }}
+                  >
+                    <div
+                      {...{
+                        className: "framer-1em3wk1",
+                        "data-framer-name": "Left",
+                      }}
+                    >
+                      <div {...{ className: "framer-fv2fjm-container" }}>
+                        <div
+                          {...{
+                            className:
+                              "framer-Qc3Wu framer-1tjoa6u framer-v-1tjoa6u",
+                            "data-framer-name": "Variant 1",
+                            style: {
+                              height: "100%",
+                              width: "100%",
+                              borderBottomLeftRadius: "8px",
+                              borderBottomRightRadius: "8px",
+                              borderTopLeftRadius: "8px",
+                              borderTopRightRadius: "8px",
+                            },
+                          }}
+                        >
+                          <figure
+                            {...{ as: "figure", className: "framer-33j7u1" }}
+                          >
+                            <div
+                              {...{
+                                style: {
+                                  position: "absolute",
+                                  borderRadius: "inherit",
+                                  cornerShape: "inherit",
+                                  top: "0",
+                                  right: "0",
+                                  bottom: "0",
+                                  left: "0",
+                                },
+                                "data-framer-background-image-wrapper": "true",
+                              }}
+                            >
+                              <img
+                                {...{
+                                  decoding: "async",
+                                  width: "1672",
+                                  height: "941",
+                                  sizes:
+                                    "(min-width: 1200px) min(max((calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 30px) / 2, 1px), (calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 20px) * 0.36), (min-width: 810px) and (max-width: 1199.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 48px) - 16px), (max-width: 809.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 32px) - 16px)",
+                                  srcSet:
+                                    "/assets/9637ff8fea3990788c.png 512w,/assets/0cf1f8650e9c63e6a6.png 1024w,/assets/907481bd0ab22f8752.png 1672w",
+                                  src: "/assets/907481bd0ab22f8752.png",
+                                  alt: "",
+                                  style: {
+                                    display: "block",
+                                    width: "100%",
+                                    height: "100%",
+                                    borderRadius: "inherit",
+                                    cornerShape: "inherit",
+                                    objectPosition: "center",
+                                    objectFit: "cover",
+                                  },
+                                  loading: "eager",
+                                }}
+                              />
+                            </div>
+                          </figure>
+                          <div
+                            {...{
+                              className: "framer-1r6ty9f",
+                              "data-framer-name": "Noise",
+                              style: { opacity: "0.1" },
+                            }}
+                          >
+                            <div
+                              {...{
+                                "data-framer-background-image-wrapper": "true",
+                                style: {
+                                  position: "absolute",
+                                  borderRadius: "inherit",
+                                  cornerShape: "inherit",
+                                  top: "0",
+                                  right: "0",
+                                  bottom: "0",
+                                  left: "0",
+                                  backgroundImage:
+                                    "url(/assets/8526aafaff0d17acbd.png)",
+                                  backgroundRepeat: "repeat",
+                                  backgroundPosition: "left top",
+                                  border: "0",
+                                  backgroundSize: "142px auto",
+                                },
+                              }}
+                            ></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div {...{ className: "framer-1v8zkz4-container" }}>
+                        <div
+                          {...{
+                            className:
+                              "framer-pSh7Y framer-xuZuY framer-Huv4P framer-gi9kxj framer-v-gi9kxj",
+                            "data-border": "true",
+                            "data-framer-name": "Variant 1",
+                            style: {
+                              "--border-bottom-width": "1px",
+                              "--border-color": "rgba(255, 255, 255, 0.24)",
+                              "--border-left-width": "1px",
+                              "--border-right-width": "1px",
+                              "--border-style": "solid",
+                              "--border-top-width": "1px",
+                              backgroundColor: "rgba(255, 255, 255, 0.24)",
+                              width: "100%",
+                              borderBottomLeftRadius: "10px",
+                              borderBottomRightRadius: "10px",
+                              borderTopLeftRadius: "10px",
+                              borderTopRightRadius: "10px",
+                            },
+                          }}
+                        >
+                          <div {...{ className: "framer-16glyyi-container" }}>
+                            <div
+                              {...{
+                                className:
+                                  "framer-znWoI framer-5qi85 framer-1f3rnwv framer-v-1f3rnwv",
+                                "data-framer-name": "Light",
+                              }}
+                            >
+                              <div
+                                {...{
+                                  className: "framer-1bwzge",
+                                  "data-framer-name": "Image",
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    style: {
+                                      position: "absolute",
+                                      borderRadius: "inherit",
+                                      cornerShape: "inherit",
+                                      top: "0",
+                                      right: "0",
+                                      bottom: "0",
+                                      left: "0",
+                                    },
+                                    "data-framer-background-image-wrapper":
+                                      "true",
+                                  }}
+                                >
+                                  <img
+                                    {...{
+                                      decoding: "async",
+                                      width: "1254",
+                                      height: "1254",
+                                      sizes:
+                                        "(min-width: 1200px) 14px, (min-width: 810px) and (max-width: 1199.98px) 14px, (max-width: 809.98px) 14px",
+                                      srcSet:
+                                        "/assets/9289d8358afbbc44ee.png 512w,/assets/07eb7150e998372f64.png 1024w,/assets/0c7dcb48212699c5af.png 1254w",
+                                      src: "/assets/0c7dcb48212699c5af.png",
+                                      alt: "",
+                                      style: {
+                                        display: "block",
+                                        width: "100%",
+                                        height: "100%",
+                                        borderRadius: "inherit",
+                                        cornerShape: "inherit",
+                                        objectPosition: "center",
+                                        objectFit: "cover",
+                                      },
+                                      loading: "eager",
+                                    }}
+                                  />
+                                </div>
+                              </div>
+                              <div
+                                {...{
+                                  className: "framer-1ur96lx",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-1ggpp17",
+                                    "data-styles-preset": "YAcmHqqMw",
+                                    dir: "auto",
+                                  }}
+                                >
+                                  {"Operation Review"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1t1uiwx",
+                              "data-framer-component-type": "RichTextContainer",
+                              style: {
+                                "--extracted-r6o4lv":
+                                  "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline",
+                                transform: "none",
+                              },
+                            }}
+                          >
+                            <p
+                              {...{
+                                className:
+                                  "framer-text framer-styles-preset-djpks0",
+                                "data-styles-preset": "EXwnSUqiT",
+                                dir: "auto",
+                                style: {
+                                  "--framer-text-color":
+                                    "var(--extracted-r6o4lv, var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255)))",
+                                },
+                              }}
+                            >
+                              {
+                                "“Elevra helped us build systems that actually support the growth we were aiming for.”"
+                              }
+                            </p>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1wxh3is",
+                              "data-framer-name": "User Info ",
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-1fojsdj",
+                                style: {
+                                  borderBottomLeftRadius: "2px",
+                                  borderBottomRightRadius: "2px",
+                                  borderTopLeftRadius: "2px",
+                                  borderTopRightRadius: "2px",
+                                },
+                              }}
+                            >
+                              <div
+                                {...{
+                                  style: {
+                                    position: "absolute",
+                                    borderRadius: "inherit",
+                                    cornerShape: "inherit",
+                                    top: "0",
+                                    right: "0",
+                                    bottom: "0",
+                                    left: "0",
+                                  },
+                                  "data-framer-background-image-wrapper":
+                                    "true",
+                                }}
+                              >
+                                <img
+                                  {...{
+                                    decoding: "async",
+                                    width: "896",
+                                    height: "1152",
+                                    sizes:
+                                      "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
+                                    srcSet:
+                                      "/assets/f668226dbeafa11463.jpg 796w,/assets/7a16f44d6bea947ac8.jpg 896w",
+                                    src: "/assets/7a16f44d6bea947ac8.jpg",
+                                    alt: "A young woman with blonde hair wearing a sweater.",
+                                    style: {
+                                      display: "block",
+                                      width: "100%",
+                                      height: "100%",
+                                      borderRadius: "inherit",
+                                      cornerShape: "inherit",
+                                      objectPosition: "center",
+                                      objectFit: "cover",
+                                    },
+                                    loading: "eager",
+                                  }}
+                                />
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-1ksx39i" }}>
+                              <div
+                                {...{
+                                  className: "framer-hytaz4",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-3mw4yz",
+                                    "data-styles-preset": "CA3_gyZiM",
+                                    dir: "auto",
+                                  }}
+                                >
+                                  {"Daniel Brooks"}
+                                </p>
+                              </div>
+                              <div
+                                {...{
+                                  className: "framer-gw1g8p",
+                                  "data-framer-name": "Role",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--extracted-r6o4lv":
+                                      "var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64))",
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-3mw4yz",
+                                    "data-styles-preset": "CA3_gyZiM",
+                                    dir: "auto",
+                                    style: {
+                                      "--framer-text-color":
+                                        "var(--extracted-r6o4lv, var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64)))",
+                                    },
+                                  }}
+                                >
+                                  {"COO"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      {...{
+                        className: "framer-11pskh",
+                        "data-framer-name": "Details",
+                      }}
+                    >
+                      <div
+                        {...{
+                          className: "framer-1fgttix",
+                          "data-framer-name": "Top content",
+                        }}
+                      >
+                        <div
+                          {...{
+                            className: "framer-spu0i7",
+                            "data-framer-name": "Section Header",
+                          }}
+                        >
+                          <div {...{ className: "framer-lz6fhy-container" }}>
+                            <div
+                              {...{
+                                className:
+                                  "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-1wcs0w1",
+                                "data-border": "true",
+                                "data-framer-name": "Filled",
+                                style: {
+                                  "--border-bottom-width": "1px",
+                                  "--border-color":
+                                    "var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64))",
+                                  "--border-left-width": "1px",
+                                  "--border-right-width": "1px",
+                                  "--border-style": "solid",
+                                  "--border-top-width": "1px",
+                                  backgroundColor:
+                                    "var(--token-ef5f21cb-c880-4c9e-b366-3fc1205e6d9b, rgb(242, 244, 246))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            >
+                              <div
+                                {...{
+                                  className: "framer-qabs03",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--extracted-r6o4lv":
+                                      "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-1ggpp17",
+                                    "data-styles-preset": "YAcmHqqMw",
+                                    dir: "auto",
+                                    style: {
+                                      "--framer-text-color":
+                                        "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                    },
+                                  }}
+                                >
+                                  {"03"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1wnhywj",
+                              "data-framer-name": "Titles",
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-4baozq",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <h3
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-17ydio3",
+                                  "data-styles-preset": "FNkR9rdBo",
+                                  dir: "auto",
+                                }}
+                              >
+                                {"Operations Management"}
+                              </h3>
+                            </div>
+                            <div
+                              {...{
+                                className: "framer-1rjxap9",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-djpks0",
+                                  "data-styles-preset": "EXwnSUqiT",
+                                  dir: "auto",
+                                }}
+                              >
+                                {
+                                  "Build stronger systems and processes that make growth easier to execute and scale."
+                                }
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        {...{
+                          className: "framer-rnhdsj",
+                          "data-framer-name": "Bottom content",
+                        }}
+                      >
+                        <div
+                          {...{
+                            className: "framer-xwzmi3",
+                            "data-framer-name": "What we offer",
+                          }}
+                        >
+                          <div
+                            {...{
+                              className: "framer-18iioby",
+                              "data-framer-component-type": "RichTextContainer",
+                              style: {
+                                "--extracted-r6o4lv":
+                                  "var(--token-6afab1c5-2ffa-41d5-9352-ddde60b2de5b, rgb(7, 9, 11))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline",
+                                transform: "none",
+                              },
+                            }}
+                          >
+                            <p
+                              {...{
+                                dir: "auto",
+                                className: "framer-text",
+                                style: {
+                                  "--font-selector":
+                                    "RlM7UGx1cyBKYWthcnRhIFNhbnMtbWVkaXVt",
+                                  "--framer-font-family":
+                                    '"Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif',
+                                  "--framer-font-size": "20px",
+                                  "--framer-font-weight": "500",
+                                  "--framer-letter-spacing": "-0.05em",
+                                  "--framer-line-height": "1.3em",
+                                  "--framer-text-color":
+                                    "var(--extracted-r6o4lv, var(--token-6afab1c5-2ffa-41d5-9352-ddde60b2de5b, rgb(7, 9, 11)))",
+                                },
+                              }}
+                            >
+                              {"What we offer"}
+                            </p>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-b8zntm",
+                              "data-framer-name": "Tags",
+                            }}
+                          >
+                            <div {...{ className: "framer-vu18s4-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Process Design"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-1va1q1a-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Team Structure"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-yn0fn3-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Systems Planning"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-xhe0xo-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Workflow Optimization"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-pm2ppz-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Growth Operations"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-12mzhqj-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Performance Tracking"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div {...{ className: "framer-vlqqua-container" }}>
+                          <a
+                            {...{
+                              className:
+                                "framer-3AhIS framer-FrbCk framer-zbc3f0 framer-v-zbc3f0 framer-14xmqu0",
+                              "data-framer-name": "Button",
+                              href: "https://elevra.framer.media/services/operations-management",
+                              style: {
+                                height: "100%",
+                                width: "100%",
+                                borderBottomLeftRadius: "8px",
+                                borderBottomRightRadius: "8px",
+                                borderTopLeftRadius: "8px",
+                                borderTopRightRadius: "8px",
+                              },
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-1pc4tf4",
+                                "data-framer-name": "BG",
+                                style: {
+                                  backgroundColor:
+                                    "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            ></div>
+                            <div
+                              {...{
+                                className: "framer-1l31mvp",
+                                "data-framer-name": "Label",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--extracted-r6o4lv":
+                                    "var(--variable-reference-Rt210Cf8M-C9yI6ZCUt)",
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  "--variable-reference-Rt210Cf8M-C9yI6ZCUt":
+                                    "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-fttqtt",
+                                  "data-styles-preset": "ql_7o_8Db",
+                                  dir: "auto",
+                                  style: {
+                                    "--framer-text-color":
+                                      "var(--extracted-r6o4lv, var(--variable-reference-Rt210Cf8M-C9yI6ZCUt))",
+                                  },
+                                }}
+                              >
+                                {"Start Scaling Smarter"}
+                              </p>
+                            </div>
+                            <div
+                              {...{
+                                className: "framer-gblk3k",
+                                "data-framer-name": "Another one",
+                                style: {
+                                  backgroundColor:
+                                    "var(--token-ef5f21cb-c880-4c9e-b366-3fc1205e6d9b, rgb(242, 244, 246))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            ></div>
+                            <div
+                              {...{
+                                className: "framer-s6yfgh",
+                                "data-framer-name": "Label",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--extracted-r6o4lv":
+                                    "var(--variable-reference-ZHYLmSTYb-C9yI6ZCUt)",
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  "--variable-reference-ZHYLmSTYb-C9yI6ZCUt":
+                                    "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                  transform: "translateX(-50%)",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-fttqtt",
+                                  "data-styles-preset": "ql_7o_8Db",
+                                  dir: "auto",
+                                  style: {
+                                    "--framer-text-color":
+                                      "var(--extracted-r6o4lv, var(--variable-reference-ZHYLmSTYb-C9yI6ZCUt))",
+                                  },
+                                }}
+                              >
+                                {"Start Scaling Smarter"}
+                              </p>
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                {...{ className: "ssr-variant hidden-12cu097 hidden-hmn9u5" }}
+              >
+                <div
+                  {...{
+                    className: "framer-5g12cp-container",
+                    style: {
+                      willChange: "transform",
+                      opacity: "1",
+                      transform: "scale(1.05)",
+                    },
+                  }}
+                >
+                  <div
+                    {...{
+                      className:
+                        "framer-T0Vmd framer-puOxE framer-xuZuY framer-udyzye framer-v-oztyab",
+                      "data-framer-name": "Tablet",
+                      style: {
+                        backgroundColor:
+                          "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                        width: "100%",
+                        borderBottomLeftRadius: "16px",
+                        borderBottomRightRadius: "16px",
+                        borderTopLeftRadius: "16px",
+                        borderTopRightRadius: "16px",
+                      },
+                    }}
+                  >
+                    <div
+                      {...{
+                        className: "framer-1em3wk1",
+                        "data-framer-name": "Left",
+                      }}
+                    >
+                      <div {...{ className: "framer-fv2fjm-container" }}>
+                        <div
+                          {...{
+                            className:
+                              "framer-Qc3Wu framer-1tjoa6u framer-v-1tjoa6u",
+                            "data-framer-name": "Variant 1",
+                            style: {
+                              height: "100%",
+                              width: "100%",
+                              borderBottomLeftRadius: "8px",
+                              borderBottomRightRadius: "8px",
+                              borderTopLeftRadius: "8px",
+                              borderTopRightRadius: "8px",
+                            },
+                          }}
+                        >
+                          <figure
+                            {...{ as: "figure", className: "framer-33j7u1" }}
+                          >
+                            <div
+                              {...{
+                                style: {
+                                  position: "absolute",
+                                  borderRadius: "inherit",
+                                  cornerShape: "inherit",
+                                  top: "0",
+                                  right: "0",
+                                  bottom: "0",
+                                  left: "0",
+                                },
+                                "data-framer-background-image-wrapper": "true",
+                              }}
+                            >
+                              <img
+                                {...{
+                                  decoding: "async",
+                                  width: "1672",
+                                  height: "941",
+                                  sizes:
+                                    "(min-width: 1200px) min(max((calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 30px) / 2, 1px), (calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 20px) * 0.36), (min-width: 810px) and (max-width: 1199.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 48px) - 16px), (max-width: 809.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 32px) - 16px)",
+                                  srcSet:
+                                    "/assets/9637ff8fea3990788c.png 512w,/assets/0cf1f8650e9c63e6a6.png 1024w,/assets/907481bd0ab22f8752.png 1672w",
+                                  src: "/assets/907481bd0ab22f8752.png",
+                                  alt: "",
+                                  style: {
+                                    display: "block",
+                                    width: "100%",
+                                    height: "100%",
+                                    borderRadius: "inherit",
+                                    cornerShape: "inherit",
+                                    objectPosition: "center",
+                                    objectFit: "cover",
+                                  },
+                                  loading: "eager",
+                                }}
+                              />
+                            </div>
+                          </figure>
+                          <div
+                            {...{
+                              className: "framer-1r6ty9f",
+                              "data-framer-name": "Noise",
+                              style: { opacity: "0.1" },
+                            }}
+                          >
+                            <div
+                              {...{
+                                "data-framer-background-image-wrapper": "true",
+                                style: {
+                                  position: "absolute",
+                                  borderRadius: "inherit",
+                                  cornerShape: "inherit",
+                                  top: "0",
+                                  right: "0",
+                                  bottom: "0",
+                                  left: "0",
+                                  backgroundImage:
+                                    "url(/assets/8526aafaff0d17acbd.png)",
+                                  backgroundRepeat: "repeat",
+                                  backgroundPosition: "left top",
+                                  border: "0",
+                                  backgroundSize: "142px auto",
+                                },
+                              }}
+                            ></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div {...{ className: "framer-1v8zkz4-container" }}>
+                        <div
+                          {...{
+                            className:
+                              "framer-pSh7Y framer-xuZuY framer-Huv4P framer-gi9kxj framer-v-gi9kxj",
+                            "data-border": "true",
+                            "data-framer-name": "Variant 1",
+                            style: {
+                              "--border-bottom-width": "1px",
+                              "--border-color": "rgba(255, 255, 255, 0.24)",
+                              "--border-left-width": "1px",
+                              "--border-right-width": "1px",
+                              "--border-style": "solid",
+                              "--border-top-width": "1px",
+                              backgroundColor: "rgba(255, 255, 255, 0.24)",
+                              width: "100%",
+                              borderBottomLeftRadius: "10px",
+                              borderBottomRightRadius: "10px",
+                              borderTopLeftRadius: "10px",
+                              borderTopRightRadius: "10px",
+                            },
+                          }}
+                        >
+                          <div {...{ className: "framer-16glyyi-container" }}>
+                            <div
+                              {...{
+                                className:
+                                  "framer-znWoI framer-5qi85 framer-1f3rnwv framer-v-1f3rnwv",
+                                "data-framer-name": "Light",
+                              }}
+                            >
+                              <div
+                                {...{
+                                  className: "framer-1bwzge",
+                                  "data-framer-name": "Image",
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    style: {
+                                      position: "absolute",
+                                      borderRadius: "inherit",
+                                      cornerShape: "inherit",
+                                      top: "0",
+                                      right: "0",
+                                      bottom: "0",
+                                      left: "0",
+                                    },
+                                    "data-framer-background-image-wrapper":
+                                      "true",
+                                  }}
+                                >
+                                  <img
+                                    {...{
+                                      decoding: "async",
+                                      width: "1254",
+                                      height: "1254",
+                                      sizes:
+                                        "(min-width: 1200px) 14px, (min-width: 810px) and (max-width: 1199.98px) 14px, (max-width: 809.98px) 14px",
+                                      srcSet:
+                                        "/assets/9289d8358afbbc44ee.png 512w,/assets/07eb7150e998372f64.png 1024w,/assets/0c7dcb48212699c5af.png 1254w",
+                                      src: "/assets/0c7dcb48212699c5af.png",
+                                      alt: "",
+                                      style: {
+                                        display: "block",
+                                        width: "100%",
+                                        height: "100%",
+                                        borderRadius: "inherit",
+                                        cornerShape: "inherit",
+                                        objectPosition: "center",
+                                        objectFit: "cover",
+                                      },
+                                      loading: "eager",
+                                    }}
+                                  />
+                                </div>
+                              </div>
+                              <div
+                                {...{
+                                  className: "framer-1ur96lx",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-1ggpp17",
+                                    "data-styles-preset": "YAcmHqqMw",
+                                    dir: "auto",
+                                  }}
+                                >
+                                  {"Operation Review"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1t1uiwx",
+                              "data-framer-component-type": "RichTextContainer",
+                              style: {
+                                "--extracted-r6o4lv":
+                                  "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline",
+                                transform: "none",
+                              },
+                            }}
+                          >
+                            <p
+                              {...{
+                                className:
+                                  "framer-text framer-styles-preset-djpks0",
+                                "data-styles-preset": "EXwnSUqiT",
+                                dir: "auto",
+                                style: {
+                                  "--framer-text-color":
+                                    "var(--extracted-r6o4lv, var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255)))",
+                                },
+                              }}
+                            >
+                              {
+                                "“Elevra helped us build systems that actually support the growth we were aiming for.”"
+                              }
+                            </p>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1wxh3is",
+                              "data-framer-name": "User Info ",
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-1fojsdj",
+                                style: {
+                                  borderBottomLeftRadius: "2px",
+                                  borderBottomRightRadius: "2px",
+                                  borderTopLeftRadius: "2px",
+                                  borderTopRightRadius: "2px",
+                                },
+                              }}
+                            >
+                              <div
+                                {...{
+                                  style: {
+                                    position: "absolute",
+                                    borderRadius: "inherit",
+                                    cornerShape: "inherit",
+                                    top: "0",
+                                    right: "0",
+                                    bottom: "0",
+                                    left: "0",
+                                  },
+                                  "data-framer-background-image-wrapper":
+                                    "true",
+                                }}
+                              >
+                                <img
+                                  {...{
+                                    decoding: "async",
+                                    width: "896",
+                                    height: "1152",
+                                    sizes:
+                                      "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
+                                    srcSet:
+                                      "/assets/f668226dbeafa11463.jpg 796w,/assets/7a16f44d6bea947ac8.jpg 896w",
+                                    src: "/assets/7a16f44d6bea947ac8.jpg",
+                                    alt: "A young woman with blonde hair wearing a sweater.",
+                                    style: {
+                                      display: "block",
+                                      width: "100%",
+                                      height: "100%",
+                                      borderRadius: "inherit",
+                                      cornerShape: "inherit",
+                                      objectPosition: "center",
+                                      objectFit: "cover",
+                                    },
+                                    loading: "eager",
+                                  }}
+                                />
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-1ksx39i" }}>
+                              <div
+                                {...{
+                                  className: "framer-hytaz4",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-3mw4yz",
+                                    "data-styles-preset": "CA3_gyZiM",
+                                    dir: "auto",
+                                  }}
+                                >
+                                  {"Daniel Brooks"}
+                                </p>
+                              </div>
+                              <div
+                                {...{
+                                  className: "framer-gw1g8p",
+                                  "data-framer-name": "Role",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--extracted-r6o4lv":
+                                      "var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64))",
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-3mw4yz",
+                                    "data-styles-preset": "CA3_gyZiM",
+                                    dir: "auto",
+                                    style: {
+                                      "--framer-text-color":
+                                        "var(--extracted-r6o4lv, var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64)))",
+                                    },
+                                  }}
+                                >
+                                  {"COO"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      {...{
+                        className: "framer-11pskh",
+                        "data-framer-name": "Details",
+                      }}
+                    >
+                      <div
+                        {...{
+                          className: "framer-1fgttix",
+                          "data-framer-name": "Top content",
+                        }}
+                      >
+                        <div
+                          {...{
+                            className: "framer-spu0i7",
+                            "data-framer-name": "Section Header",
+                          }}
+                        >
+                          <div {...{ className: "framer-lz6fhy-container" }}>
+                            <div
+                              {...{
+                                className:
+                                  "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-1wcs0w1",
+                                "data-border": "true",
+                                "data-framer-name": "Filled",
+                                style: {
+                                  "--border-bottom-width": "1px",
+                                  "--border-color":
+                                    "var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64))",
+                                  "--border-left-width": "1px",
+                                  "--border-right-width": "1px",
+                                  "--border-style": "solid",
+                                  "--border-top-width": "1px",
+                                  backgroundColor:
+                                    "var(--token-ef5f21cb-c880-4c9e-b366-3fc1205e6d9b, rgb(242, 244, 246))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            >
+                              <div
+                                {...{
+                                  className: "framer-qabs03",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--extracted-r6o4lv":
+                                      "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-1ggpp17",
+                                    "data-styles-preset": "YAcmHqqMw",
+                                    dir: "auto",
+                                    style: {
+                                      "--framer-text-color":
+                                        "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                    },
+                                  }}
+                                >
+                                  {"03"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1wnhywj",
+                              "data-framer-name": "Titles",
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-4baozq",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <h3
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-17ydio3",
+                                  "data-styles-preset": "FNkR9rdBo",
+                                  dir: "auto",
+                                }}
+                              >
+                                {"Operations Management"}
+                              </h3>
+                            </div>
+                            <div
+                              {...{
+                                className: "framer-1rjxap9",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-djpks0",
+                                  "data-styles-preset": "EXwnSUqiT",
+                                  dir: "auto",
+                                }}
+                              >
+                                {
+                                  "Build stronger systems and processes that make growth easier to execute and scale."
+                                }
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        {...{
+                          className: "framer-rnhdsj",
+                          "data-framer-name": "Bottom content",
+                        }}
+                      >
+                        <div
+                          {...{
+                            className: "framer-xwzmi3",
+                            "data-framer-name": "What we offer",
+                          }}
+                        >
+                          <div
+                            {...{
+                              className: "framer-18iioby",
+                              "data-framer-component-type": "RichTextContainer",
+                              style: {
+                                "--extracted-r6o4lv":
+                                  "var(--token-6afab1c5-2ffa-41d5-9352-ddde60b2de5b, rgb(7, 9, 11))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline",
+                                transform: "none",
+                              },
+                            }}
+                          >
+                            <p
+                              {...{
+                                dir: "auto",
+                                className: "framer-text",
+                                style: {
+                                  "--font-selector":
+                                    "RlM7UGx1cyBKYWthcnRhIFNhbnMtbWVkaXVt",
+                                  "--framer-font-family":
+                                    '"Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif',
+                                  "--framer-font-size": "20px",
+                                  "--framer-font-weight": "500",
+                                  "--framer-letter-spacing": "-0.05em",
+                                  "--framer-line-height": "1.3em",
+                                  "--framer-text-color":
+                                    "var(--extracted-r6o4lv, var(--token-6afab1c5-2ffa-41d5-9352-ddde60b2de5b, rgb(7, 9, 11)))",
+                                },
+                              }}
+                            >
+                              {"What we offer"}
+                            </p>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-b8zntm",
+                              "data-framer-name": "Tags",
+                            }}
+                          >
+                            <div {...{ className: "framer-vu18s4-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Process Design"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-1va1q1a-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Team Structure"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-yn0fn3-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Systems Planning"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-xhe0xo-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Workflow Optimization"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-pm2ppz-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Growth Operations"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-12mzhqj-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Performance Tracking"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div {...{ className: "framer-vlqqua-container" }}>
+                          <a
+                            {...{
+                              className:
+                                "framer-3AhIS framer-FrbCk framer-zbc3f0 framer-v-zbc3f0 framer-14xmqu0",
+                              "data-framer-name": "Button",
+                              href: "https://elevra.framer.media/services/operations-management",
+                              style: {
+                                height: "100%",
+                                width: "100%",
+                                borderBottomLeftRadius: "8px",
+                                borderBottomRightRadius: "8px",
+                                borderTopLeftRadius: "8px",
+                                borderTopRightRadius: "8px",
+                              },
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-1pc4tf4",
+                                "data-framer-name": "BG",
+                                style: {
+                                  backgroundColor:
+                                    "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            ></div>
+                            <div
+                              {...{
+                                className: "framer-1l31mvp",
+                                "data-framer-name": "Label",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--extracted-r6o4lv":
+                                    "var(--variable-reference-Rt210Cf8M-C9yI6ZCUt)",
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  "--variable-reference-Rt210Cf8M-C9yI6ZCUt":
+                                    "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-fttqtt",
+                                  "data-styles-preset": "ql_7o_8Db",
+                                  dir: "auto",
+                                  style: {
+                                    "--framer-text-color":
+                                      "var(--extracted-r6o4lv, var(--variable-reference-Rt210Cf8M-C9yI6ZCUt))",
+                                  },
+                                }}
+                              >
+                                {"Start Scaling Smarter"}
+                              </p>
+                            </div>
+                            <div
+                              {...{
+                                className: "framer-gblk3k",
+                                "data-framer-name": "Another one",
+                                style: {
+                                  backgroundColor:
+                                    "var(--token-ef5f21cb-c880-4c9e-b366-3fc1205e6d9b, rgb(242, 244, 246))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            ></div>
+                            <div
+                              {...{
+                                className: "framer-s6yfgh",
+                                "data-framer-name": "Label",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--extracted-r6o4lv":
+                                    "var(--variable-reference-ZHYLmSTYb-C9yI6ZCUt)",
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  "--variable-reference-ZHYLmSTYb-C9yI6ZCUt":
+                                    "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                  transform: "translateX(-50%)",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-fttqtt",
+                                  "data-styles-preset": "ql_7o_8Db",
+                                  dir: "auto",
+                                  style: {
+                                    "--framer-text-color":
+                                      "var(--extracted-r6o4lv, var(--variable-reference-ZHYLmSTYb-C9yI6ZCUt))",
+                                  },
+                                }}
+                              >
+                                {"Start Scaling Smarter"}
+                              </p>
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                {...{ className: "ssr-variant hidden-13i4q03 hidden-12cu097" }}
+              >
+                <div
+                  {...{
+                    className: "framer-5g12cp-container",
+                    style: { opacity: "1", transform: "none" },
+                  }}
+                >
+                  <div
+                    {...{
+                      className:
+                        "framer-T0Vmd framer-puOxE framer-xuZuY framer-udyzye framer-v-1et1or0",
+                      "data-framer-name": "Mobile",
+                      style: {
+                        backgroundColor:
+                          "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                        width: "100%",
+                        borderBottomLeftRadius: "16px",
+                        borderBottomRightRadius: "16px",
+                        borderTopLeftRadius: "16px",
+                        borderTopRightRadius: "16px",
+                      },
+                    }}
+                  >
+                    <div
+                      {...{
+                        className: "framer-1em3wk1",
+                        "data-framer-name": "Left",
+                      }}
+                    >
+                      <div {...{ className: "framer-fv2fjm-container" }}>
+                        <div
+                          {...{
+                            className:
+                              "framer-Qc3Wu framer-1tjoa6u framer-v-1tjoa6u",
+                            "data-framer-name": "Variant 1",
+                            style: {
+                              height: "100%",
+                              width: "100%",
+                              borderBottomLeftRadius: "8px",
+                              borderBottomRightRadius: "8px",
+                              borderTopLeftRadius: "8px",
+                              borderTopRightRadius: "8px",
+                            },
+                          }}
+                        >
+                          <figure
+                            {...{ as: "figure", className: "framer-33j7u1" }}
+                          >
+                            <div
+                              {...{
+                                style: {
+                                  position: "absolute",
+                                  borderRadius: "inherit",
+                                  cornerShape: "inherit",
+                                  top: "0",
+                                  right: "0",
+                                  bottom: "0",
+                                  left: "0",
+                                },
+                                "data-framer-background-image-wrapper": "true",
+                              }}
+                            >
+                              <img
+                                {...{
+                                  decoding: "async",
+                                  width: "1672",
+                                  height: "941",
+                                  sizes:
+                                    "(min-width: 1200px) min(max((calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 30px) / 2, 1px), (calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 20px) * 0.36), (min-width: 810px) and (max-width: 1199.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 48px) - 16px), (max-width: 809.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 32px) - 16px)",
+                                  srcSet:
+                                    "/assets/9637ff8fea3990788c.png 512w,/assets/0cf1f8650e9c63e6a6.png 1024w,/assets/907481bd0ab22f8752.png 1672w",
+                                  src: "/assets/907481bd0ab22f8752.png",
+                                  alt: "",
+                                  style: {
+                                    display: "block",
+                                    width: "100%",
+                                    height: "100%",
+                                    borderRadius: "inherit",
+                                    cornerShape: "inherit",
+                                    objectPosition: "center",
+                                    objectFit: "cover",
+                                  },
+                                  loading: "eager",
+                                }}
+                              />
+                            </div>
+                          </figure>
+                          <div
+                            {...{
+                              className: "framer-1r6ty9f",
+                              "data-framer-name": "Noise",
+                              style: { opacity: "0.1" },
+                            }}
+                          >
+                            <div
+                              {...{
+                                "data-framer-background-image-wrapper": "true",
+                                style: {
+                                  position: "absolute",
+                                  borderRadius: "inherit",
+                                  cornerShape: "inherit",
+                                  top: "0",
+                                  right: "0",
+                                  bottom: "0",
+                                  left: "0",
+                                  backgroundImage:
+                                    "url(/assets/8526aafaff0d17acbd.png)",
+                                  backgroundRepeat: "repeat",
+                                  backgroundPosition: "left top",
+                                  border: "0",
+                                  backgroundSize: "142px auto",
+                                },
+                              }}
+                            ></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div {...{ className: "framer-1v8zkz4-container" }}>
+                        <div
+                          {...{
+                            className:
+                              "framer-pSh7Y framer-xuZuY framer-Huv4P framer-gi9kxj framer-v-gi9kxj",
+                            "data-border": "true",
+                            "data-framer-name": "Variant 1",
+                            style: {
+                              "--border-bottom-width": "1px",
+                              "--border-color": "rgba(255, 255, 255, 0.24)",
+                              "--border-left-width": "1px",
+                              "--border-right-width": "1px",
+                              "--border-style": "solid",
+                              "--border-top-width": "1px",
+                              backgroundColor: "rgba(255, 255, 255, 0.24)",
+                              width: "100%",
+                              borderBottomLeftRadius: "10px",
+                              borderBottomRightRadius: "10px",
+                              borderTopLeftRadius: "10px",
+                              borderTopRightRadius: "10px",
+                            },
+                          }}
+                        >
+                          <div {...{ className: "framer-16glyyi-container" }}>
+                            <div
+                              {...{
+                                className:
+                                  "framer-znWoI framer-5qi85 framer-1f3rnwv framer-v-1f3rnwv",
+                                "data-framer-name": "Light",
+                              }}
+                            >
+                              <div
+                                {...{
+                                  className: "framer-1bwzge",
+                                  "data-framer-name": "Image",
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    style: {
+                                      position: "absolute",
+                                      borderRadius: "inherit",
+                                      cornerShape: "inherit",
+                                      top: "0",
+                                      right: "0",
+                                      bottom: "0",
+                                      left: "0",
+                                    },
+                                    "data-framer-background-image-wrapper":
+                                      "true",
+                                  }}
+                                >
+                                  <img
+                                    {...{
+                                      decoding: "async",
+                                      width: "1254",
+                                      height: "1254",
+                                      sizes:
+                                        "(min-width: 1200px) 14px, (min-width: 810px) and (max-width: 1199.98px) 14px, (max-width: 809.98px) 14px",
+                                      srcSet:
+                                        "/assets/9289d8358afbbc44ee.png 512w,/assets/07eb7150e998372f64.png 1024w,/assets/0c7dcb48212699c5af.png 1254w",
+                                      src: "/assets/0c7dcb48212699c5af.png",
+                                      alt: "",
+                                      style: {
+                                        display: "block",
+                                        width: "100%",
+                                        height: "100%",
+                                        borderRadius: "inherit",
+                                        cornerShape: "inherit",
+                                        objectPosition: "center",
+                                        objectFit: "cover",
+                                      },
+                                      loading: "eager",
+                                    }}
+                                  />
+                                </div>
+                              </div>
+                              <div
+                                {...{
+                                  className: "framer-1ur96lx",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-1ggpp17",
+                                    "data-styles-preset": "YAcmHqqMw",
+                                    dir: "auto",
+                                  }}
+                                >
+                                  {"Operation Review"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1t1uiwx",
+                              "data-framer-component-type": "RichTextContainer",
+                              style: {
+                                "--extracted-r6o4lv":
+                                  "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline",
+                                transform: "none",
+                              },
+                            }}
+                          >
+                            <p
+                              {...{
+                                className:
+                                  "framer-text framer-styles-preset-djpks0",
+                                "data-styles-preset": "EXwnSUqiT",
+                                dir: "auto",
+                                style: {
+                                  "--framer-text-color":
+                                    "var(--extracted-r6o4lv, var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255)))",
+                                },
+                              }}
+                            >
+                              {
+                                "“Elevra helped us build systems that actually support the growth we were aiming for.”"
+                              }
+                            </p>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1wxh3is",
+                              "data-framer-name": "User Info ",
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-1fojsdj",
+                                style: {
+                                  borderBottomLeftRadius: "2px",
+                                  borderBottomRightRadius: "2px",
+                                  borderTopLeftRadius: "2px",
+                                  borderTopRightRadius: "2px",
+                                },
+                              }}
+                            >
+                              <div
+                                {...{
+                                  style: {
+                                    position: "absolute",
+                                    borderRadius: "inherit",
+                                    cornerShape: "inherit",
+                                    top: "0",
+                                    right: "0",
+                                    bottom: "0",
+                                    left: "0",
+                                  },
+                                  "data-framer-background-image-wrapper":
+                                    "true",
+                                }}
+                              >
+                                <img
+                                  {...{
+                                    decoding: "async",
+                                    width: "896",
+                                    height: "1152",
+                                    sizes:
+                                      "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
+                                    srcSet:
+                                      "/assets/f668226dbeafa11463.jpg 796w,/assets/7a16f44d6bea947ac8.jpg 896w",
+                                    src: "/assets/7a16f44d6bea947ac8.jpg",
+                                    alt: "A young woman with blonde hair wearing a sweater.",
+                                    style: {
+                                      display: "block",
+                                      width: "100%",
+                                      height: "100%",
+                                      borderRadius: "inherit",
+                                      cornerShape: "inherit",
+                                      objectPosition: "center",
+                                      objectFit: "cover",
+                                    },
+                                    loading: "eager",
+                                  }}
+                                />
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-1ksx39i" }}>
+                              <div
+                                {...{
+                                  className: "framer-hytaz4",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-3mw4yz",
+                                    "data-styles-preset": "CA3_gyZiM",
+                                    dir: "auto",
+                                  }}
+                                >
+                                  {"Daniel Brooks"}
+                                </p>
+                              </div>
+                              <div
+                                {...{
+                                  className: "framer-gw1g8p",
+                                  "data-framer-name": "Role",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--extracted-r6o4lv":
+                                      "var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64))",
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-3mw4yz",
+                                    "data-styles-preset": "CA3_gyZiM",
+                                    dir: "auto",
+                                    style: {
+                                      "--framer-text-color":
+                                        "var(--extracted-r6o4lv, var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64)))",
+                                    },
+                                  }}
+                                >
+                                  {"COO"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      {...{
+                        className: "framer-11pskh",
+                        "data-framer-name": "Details",
+                      }}
+                    >
+                      <div
+                        {...{
+                          className: "framer-1fgttix",
+                          "data-framer-name": "Top content",
+                        }}
+                      >
+                        <div
+                          {...{
+                            className: "framer-spu0i7",
+                            "data-framer-name": "Section Header",
+                          }}
+                        >
+                          <div {...{ className: "framer-lz6fhy-container" }}>
+                            <div
+                              {...{
+                                className:
+                                  "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-1wcs0w1",
+                                "data-border": "true",
+                                "data-framer-name": "Filled",
+                                style: {
+                                  "--border-bottom-width": "1px",
+                                  "--border-color":
+                                    "var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64))",
+                                  "--border-left-width": "1px",
+                                  "--border-right-width": "1px",
+                                  "--border-style": "solid",
+                                  "--border-top-width": "1px",
+                                  backgroundColor:
+                                    "var(--token-ef5f21cb-c880-4c9e-b366-3fc1205e6d9b, rgb(242, 244, 246))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            >
+                              <div
+                                {...{
+                                  className: "framer-qabs03",
+                                  "data-framer-component-type":
+                                    "RichTextContainer",
+                                  style: {
+                                    "--extracted-r6o4lv":
+                                      "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                    "--framer-link-text-color":
+                                      "rgb(0, 153, 255)",
+                                    "--framer-link-text-decoration":
+                                      "underline",
+                                    transform: "none",
+                                  },
+                                }}
+                              >
+                                <p
+                                  {...{
+                                    className:
+                                      "framer-text framer-styles-preset-1ggpp17",
+                                    "data-styles-preset": "YAcmHqqMw",
+                                    dir: "auto",
+                                    style: {
+                                      "--framer-text-color":
+                                        "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                    },
+                                  }}
+                                >
+                                  {"03"}
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-1wnhywj",
+                              "data-framer-name": "Titles",
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-4baozq",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <h3
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-17ydio3",
+                                  "data-styles-preset": "FNkR9rdBo",
+                                  dir: "auto",
+                                }}
+                              >
+                                {"Operations Management"}
+                              </h3>
+                            </div>
+                            <div
+                              {...{
+                                className: "framer-1rjxap9",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-djpks0",
+                                  "data-styles-preset": "EXwnSUqiT",
+                                  dir: "auto",
+                                }}
+                              >
+                                {
+                                  "Build stronger systems and processes that make growth easier to execute and scale."
+                                }
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        {...{
+                          className: "framer-rnhdsj",
+                          "data-framer-name": "Bottom content",
+                        }}
+                      >
+                        <div
+                          {...{
+                            className: "framer-xwzmi3",
+                            "data-framer-name": "What we offer",
+                          }}
+                        >
+                          <div
+                            {...{
+                              className: "framer-18iioby",
+                              "data-framer-component-type": "RichTextContainer",
+                              style: {
+                                "--extracted-r6o4lv":
+                                  "var(--token-6afab1c5-2ffa-41d5-9352-ddde60b2de5b, rgb(7, 9, 11))",
+                                "--framer-link-text-color": "rgb(0, 153, 255)",
+                                "--framer-link-text-decoration": "underline",
+                                transform: "none",
+                              },
+                            }}
+                          >
+                            <p
+                              {...{
+                                dir: "auto",
+                                className: "framer-text",
+                                style: {
+                                  "--font-selector":
+                                    "RlM7UGx1cyBKYWthcnRhIFNhbnMtbWVkaXVt",
+                                  "--framer-font-family":
+                                    '"Plus Jakarta Sans", "Plus Jakarta Sans Placeholder", sans-serif',
+                                  "--framer-font-size": "20px",
+                                  "--framer-font-weight": "500",
+                                  "--framer-letter-spacing": "-0.05em",
+                                  "--framer-line-height": "1.3em",
+                                  "--framer-text-color":
+                                    "var(--extracted-r6o4lv, var(--token-6afab1c5-2ffa-41d5-9352-ddde60b2de5b, rgb(7, 9, 11)))",
+                                },
+                              }}
+                            >
+                              {"What we offer"}
+                            </p>
+                          </div>
+                          <div
+                            {...{
+                              className: "framer-b8zntm",
+                              "data-framer-name": "Tags",
+                            }}
+                          >
+                            <div {...{ className: "framer-vu18s4-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Process Design"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-1va1q1a-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Team Structure"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-yn0fn3-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Systems Planning"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-xhe0xo-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Workflow Optimization"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-pm2ppz-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Growth Operations"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div {...{ className: "framer-12mzhqj-container" }}>
+                              <div
+                                {...{
+                                  className:
+                                    "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-r1qvv7",
+                                  "data-border": "true",
+                                  "data-framer-name": "Outlined",
+                                  style: {
+                                    "--border-bottom-width": "1px",
+                                    "--border-color":
+                                      "var(--token-18a7cf5e-3eb5-4366-b0e4-3005d7c530c4, rgb(139, 147, 158))",
+                                    "--border-left-width": "1px",
+                                    "--border-right-width": "1px",
+                                    "--border-style": "solid",
+                                    "--border-top-width": "1px",
+                                    backgroundColor: "rgba(0, 0, 0, 0)",
+                                    borderBottomLeftRadius: "100px",
+                                    borderBottomRightRadius: "100px",
+                                    borderTopLeftRadius: "100px",
+                                    borderTopRightRadius: "100px",
+                                  },
+                                }}
+                              >
+                                <div
+                                  {...{
+                                    className: "framer-qabs03",
+                                    "data-framer-component-type":
+                                      "RichTextContainer",
+                                    style: {
+                                      "--extracted-r6o4lv":
+                                        "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                      "--framer-link-text-color":
+                                        "rgb(0, 153, 255)",
+                                      "--framer-link-text-decoration":
+                                        "underline",
+                                      transform: "none",
+                                    },
+                                  }}
+                                >
+                                  <p
+                                    {...{
+                                      className:
+                                        "framer-text framer-styles-preset-1ggpp17",
+                                      "data-styles-preset": "YAcmHqqMw",
+                                      dir: "auto",
+                                      style: {
+                                        "--framer-text-color":
+                                          "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
+                                      },
+                                    }}
+                                  >
+                                    {"Performance Tracking"}
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div {...{ className: "framer-vlqqua-container" }}>
+                          <a
+                            {...{
+                              className:
+                                "framer-3AhIS framer-FrbCk framer-zbc3f0 framer-v-zbc3f0 framer-14xmqu0",
+                              "data-framer-name": "Button",
+                              href: "https://elevra.framer.media/services/operations-management",
+                              style: {
+                                height: "100%",
+                                width: "100%",
+                                borderBottomLeftRadius: "8px",
+                                borderBottomRightRadius: "8px",
+                                borderTopLeftRadius: "8px",
+                                borderTopRightRadius: "8px",
+                              },
+                            }}
+                          >
+                            <div
+                              {...{
+                                className: "framer-1pc4tf4",
+                                "data-framer-name": "BG",
+                                style: {
+                                  backgroundColor:
+                                    "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            ></div>
+                            <div
+                              {...{
+                                className: "framer-1l31mvp",
+                                "data-framer-name": "Label",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--extracted-r6o4lv":
+                                    "var(--variable-reference-Rt210Cf8M-C9yI6ZCUt)",
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  "--variable-reference-Rt210Cf8M-C9yI6ZCUt":
+                                    "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
+                                  transform: "none",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-fttqtt",
+                                  "data-styles-preset": "ql_7o_8Db",
+                                  dir: "auto",
+                                  style: {
+                                    "--framer-text-color":
+                                      "var(--extracted-r6o4lv, var(--variable-reference-Rt210Cf8M-C9yI6ZCUt))",
+                                  },
+                                }}
+                              >
+                                {"Start Scaling Smarter"}
+                              </p>
+                            </div>
+                            <div
+                              {...{
+                                className: "framer-gblk3k",
+                                "data-framer-name": "Another one",
+                                style: {
+                                  backgroundColor:
+                                    "var(--token-ef5f21cb-c880-4c9e-b366-3fc1205e6d9b, rgb(242, 244, 246))",
+                                  borderBottomLeftRadius: "100px",
+                                  borderBottomRightRadius: "100px",
+                                  borderTopLeftRadius: "100px",
+                                  borderTopRightRadius: "100px",
+                                },
+                              }}
+                            ></div>
+                            <div
+                              {...{
+                                className: "framer-s6yfgh",
+                                "data-framer-name": "Label",
+                                "data-framer-component-type":
+                                  "RichTextContainer",
+                                style: {
+                                  "--extracted-r6o4lv":
+                                    "var(--variable-reference-ZHYLmSTYb-C9yI6ZCUt)",
+                                  "--framer-link-text-color":
+                                    "rgb(0, 153, 255)",
+                                  "--framer-link-text-decoration": "underline",
+                                  "--variable-reference-ZHYLmSTYb-C9yI6ZCUt":
+                                    "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
+                                  transform: "translateX(-50%)",
+                                },
+                              }}
+                            >
+                              <p
+                                {...{
+                                  className:
+                                    "framer-text framer-styles-preset-fttqtt",
+                                  "data-styles-preset": "ql_7o_8Db",
+                                  dir: "auto",
+                                  style: {
+                                    "--framer-text-color":
+                                      "var(--extracted-r6o4lv, var(--variable-reference-ZHYLmSTYb-C9yI6ZCUt))",
+                                  },
+                                }}
+                              >
+                                {"Start Scaling Smarter"}
+                              </p>
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
