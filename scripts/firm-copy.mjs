@@ -189,8 +189,17 @@ export function applyFirmCopy($,slug='home'){
  $('form').filter((_,form)=>$(form).find('textarea').length>0).each((_,form)=>$(form).find('select').first().empty().append(services.map(s=>$('<option>').attr('value',s.name).text(s.name))));
  if(slug==='contact'){
   $('.framer-ZcaIH').each((index,card)=>{
-   const label=['Location','Office Hours','Weekdays'][index%3];
+   const type=index%3;
+   const label=['Location','Office Hours','Office Days'][type];
    $(card).find('.framer-1gf8lh1 p').each((_,e)=>copy($,e,label));
+   if(type===0)$(card).find('.framer-111q8pe p').empty().append($('<span>').text(firm.street+', '),$('<span>').text(firm.city));
+   const icon=$(card).find('.framer-s9accq svg');
+   const paths=[
+    '<path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="3"/>',
+    '<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>',
+    '<rect x="3" y="5" width="18" height="16" rx="2"/><path d="M16 3v4M8 3v4M3 11h18M8 15h2M14 15h2M8 18h2"/>'
+   ];
+   icon.attr({fill:'none',stroke:'currentColor','stroke-width':'1.6','stroke-linecap':'round','stroke-linejoin':'round','aria-hidden':'true'}).html(paths[type]);
   });
  }
  // Existing wordmark slots retain their placement and contain the supplied logo.

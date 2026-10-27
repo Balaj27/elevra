@@ -1776,9 +1776,22 @@ export default function PageContent() {
                                       "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
                                     "--pgex8v": "1.5",
                                   },
+                                  fill: "none",
+                                  stroke: "currentColor",
+                                  strokeWidth: "1.6",
+                                  strokeLinecap: "round",
+                                  strokeLinejoin: "round",
+                                  "aria-hidden": "true",
                                 }}
                               >
-                                <use {...{ href: "#4159562592" }}></use>
+                                <path
+                                  {...{
+                                    d: "M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z",
+                                  }}
+                                ></path>
+                                <circle
+                                  {...{ cx: "12", cy: "10", r: "3" }}
+                                ></circle>
                               </svg>
                             </div>
                             <div
@@ -1855,9 +1868,10 @@ export default function PageContent() {
                                     },
                                   }}
                                 >
-                                  {
-                                    "12808 W Airport Blvd Ste 310, Sugar Land, TX 77478"
-                                  }
+                                  <span>
+                                    {"12808 W Airport Blvd Ste 310, "}
+                                  </span>
+                                  <span>{"Sugar Land, TX 77478"}</span>
                                 </p>
                               </div>
                             </div>
@@ -1920,9 +1934,18 @@ export default function PageContent() {
                                       "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
                                     "--pgex8v": "1.5",
                                   },
+                                  fill: "none",
+                                  stroke: "currentColor",
+                                  strokeWidth: "1.6",
+                                  strokeLinecap: "round",
+                                  strokeLinejoin: "round",
+                                  "aria-hidden": "true",
                                 }}
                               >
-                                <use {...{ href: "#99690465" }}></use>
+                                <circle
+                                  {...{ cx: "12", cy: "12", r: "9" }}
+                                ></circle>
+                                <path {...{ d: "M12 7v5l3 2" }}></path>
                               </svg>
                             </div>
                             <div
@@ -2071,9 +2094,28 @@ export default function PageContent() {
                                       "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
                                     "--pgex8v": "1.5",
                                   },
+                                  fill: "none",
+                                  stroke: "currentColor",
+                                  strokeWidth: "1.6",
+                                  strokeLinecap: "round",
+                                  strokeLinejoin: "round",
+                                  "aria-hidden": "true",
                                 }}
                               >
-                                <use {...{ href: "#986463349" }}></use>
+                                <rect
+                                  {...{
+                                    x: "3",
+                                    y: "5",
+                                    width: "18",
+                                    height: "16",
+                                    rx: "2",
+                                  }}
+                                ></rect>
+                                <path
+                                  {...{
+                                    d: "M16 3v4M8 3v4M3 11h18M8 15h2M14 15h2M8 18h2",
+                                  }}
+                                ></path>
                               </svg>
                             </div>
                             <div
@@ -2117,7 +2159,7 @@ export default function PageContent() {
                                     },
                                   }}
                                 >
-                                  {"Weekdays"}
+                                  {"Office Days"}
                                 </p>
                               </div>
                               <div

@@ -4,6 +4,14 @@ a[data-copy-brand] >img { display:block;width:100%;height:auto;object-fit:contai
 [data-copy-footer-logo] >img { width:100%;height:auto;display:block;object-fit:contain;filter:brightness(0) invert(1); }
 .mobile-navigation .mobile-menu-brand img.firm-logo { width:225px;height:auto;max-width:calc(100vw - 100px); }
 .mobile-menu-details a { white-space:normal; }
+@media(min-width:1200px){
+  nav.framer-UZyYA .framer-9h7trp[data-framer-name="Desktop wrap"] {
+    display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);align-items:center;
+  }
+  nav.framer-UZyYA .framer-9h7trp >.framer-3q4oz5-container {justify-self:start;}
+  nav.framer-UZyYA .framer-9h7trp >.framer-cvw7rl {justify-self:center;}
+  nav.framer-UZyYA .framer-9h7trp >.framer-k7xpra {justify-self:end;}
+}
 .restored-article-nav { position:fixed;top:0;left:0;right:0;z-index:100; }
 .restored-article-nav nav { width:100% !important; }
 .restored-article-content { max-width:900px;margin:0 auto;padding:140px 32px 100px; }
@@ -13,6 +21,22 @@ a[data-copy-brand] >img { display:block;width:100%;height:auto;object-fit:contai
 @media(max-width:1199.98px){.restored-mobile{display:block;}.restored-desktop{display:none;}}
 @media(max-width:809.98px){a[data-copy-brand]{width:205px !important;}}
 /* Let the longer service tags fit beside the consultation button. */
+/* Contact details share the same height and use icons for their actual content. */
+[data-elevra-page="contact"] [data-framer-name="Contact info grid"] {
+  display:grid;grid-template-columns:repeat(3,minmax(0,1fr));align-items:stretch;gap:16px;
+}
+[data-elevra-page="contact"] [data-framer-name="Contact info grid"] >.ssr-variant >div {height:100%;min-width:0;}
+[data-elevra-page="contact"] [data-framer-name="Contact info grid"] .framer-ZcaIH {
+  height:100%;min-height:128px;padding:24px;align-items:center;gap:16px;
+}
+[data-elevra-page="contact"] [data-framer-name="Contact info grid"] .framer-151x8e1 {min-width:0;gap:8px;}
+[data-elevra-page="contact"] [data-framer-name="Contact info grid"] .framer-111q8pe p {font-size:16px;line-height:1.5;}
+[data-elevra-page="contact"] [data-framer-name="Contact info grid"] .framer-111q8pe span {display:block;}
+[data-elevra-page="contact"] [data-framer-name="Contact info grid"] .framer-s9accq svg {width:24px;height:24px;color:white;}
+@media(max-width:999.98px){
+  [data-elevra-page="contact"] [data-framer-name="Contact info grid"] {grid-template-columns:1fr;gap:12px;}
+  [data-elevra-page="contact"] [data-framer-name="Contact info grid"] .framer-ZcaIH {min-height:112px;padding:20px;}
+}
 [data-elevra-page="about"] [data-framer-name="Career"] .framer-PO3ka .framer-1rbw9ju {
   max-width:none;min-width:0;width:auto;flex:0 1 auto;gap:16px;overflow:visible;
 }
