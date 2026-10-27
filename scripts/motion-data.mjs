@@ -4,6 +4,7 @@ export function annotateMotion($) {
   try { appearances = JSON.parse($('#__framer__appearAnimationsContent').text()); } catch {}
   $('[style], [data-framer-appear-id]').each((_, node) => {
     const element = $(node);
+    if (element.is('nav') || element.find('nav').length) return;
     const style = element.attr('style') || '';
     const appearance = appearances[element.attr('data-framer-appear-id')]?.default;
     const reveal = /will-change:\s*transform/.test(style) && /opacity:\s*0(?:\.001)?(?:;|$)/.test(style);

@@ -109,7 +109,7 @@ export default function About() {
                           },
                         }}
                       >
-                        {"About Elevra"}
+                        {"About Our Firm"}
                       </p>
                     </div>
                   </div>
@@ -130,7 +130,7 @@ export default function About() {
                     style: { "--framer-text-alignment": "start" },
                   }}
                 >
-                  {"From financial modeling "}
+                  {"From accounting clarity to "}
                   <span
                     {...{
                       style: {
@@ -140,7 +140,7 @@ export default function About() {
                       className: "framer-text",
                     }}
                   >
-                    {"to technology strategy."}
+                    {"business confidence."}
                   </span>
                 </h2>
               </div>
@@ -315,7 +315,7 @@ export default function About() {
                           },
                         }}
                       >
-                        {"40+"}
+                        {"4"}
                       </p>
                       <p
                         {...{
@@ -338,7 +338,7 @@ export default function About() {
                           },
                         }}
                       >
-                        {"40+"}
+                        {"4"}
                       </p>
                     </div>
                     <div {...{ className: "framer-3iaxmf" }}>
@@ -361,7 +361,7 @@ export default function About() {
                             dir: "auto",
                           }}
                         >
-                          {"Companies Advised"}
+                          {"Core Service Areas"}
                         </h6>
                       </div>
                       <div
@@ -383,7 +383,9 @@ export default function About() {
                             dir: "auto",
                           }}
                         >
-                          {"From ambitious startups to growing enterprises."}
+                          {
+                            "Accounting, tax, business services, and IRS representation."
+                          }
                         </p>
                       </div>
                     </div>
@@ -447,7 +449,7 @@ export default function About() {
                           },
                         }}
                       >
-                        {"40+"}
+                        {"4"}
                       </p>
                       <p
                         {...{
@@ -470,7 +472,7 @@ export default function About() {
                           },
                         }}
                       >
-                        {"40+"}
+                        {"4"}
                       </p>
                     </div>
                     <div {...{ className: "framer-3iaxmf" }}>
@@ -493,7 +495,7 @@ export default function About() {
                             dir: "auto",
                           }}
                         >
-                          {"Companies Advised"}
+                          {"Core Service Areas"}
                         </h6>
                       </div>
                       <div
@@ -521,7 +523,9 @@ export default function About() {
                             },
                           }}
                         >
-                          {"From ambitious startups to growing enterprises."}
+                          {
+                            "Accounting, tax, business services, and IRS representation."
+                          }
                         </p>
                       </div>
                     </div>
@@ -585,7 +589,7 @@ export default function About() {
                           },
                         }}
                       >
-                        {"12+"}
+                        {"2"}
                       </p>
                       <p
                         {...{
@@ -608,7 +612,7 @@ export default function About() {
                           },
                         }}
                       >
-                        {"12+"}
+                        {"2"}
                       </p>
                     </div>
                     <div {...{ className: "framer-3iaxmf" }}>
@@ -631,7 +635,7 @@ export default function About() {
                             dir: "auto",
                           }}
                         >
-                          {"Years of Experience"}
+                          {"Texas Offices"}
                         </h6>
                       </div>
                       <div
@@ -654,7 +658,7 @@ export default function About() {
                           }}
                         >
                           {
-                            "Across strategy, operations, and business transformation."
+                            "Based in Sugar Land and Austin, serving clients nationwide."
                           }
                         </p>
                       </div>
@@ -719,7 +723,7 @@ export default function About() {
                           },
                         }}
                       >
-                        {"12+"}
+                        {"2"}
                       </p>
                       <p
                         {...{
@@ -742,7 +746,7 @@ export default function About() {
                           },
                         }}
                       >
-                        {"12+"}
+                        {"2"}
                       </p>
                     </div>
                     <div {...{ className: "framer-3iaxmf" }}>
@@ -765,7 +769,7 @@ export default function About() {
                             dir: "auto",
                           }}
                         >
-                          {"Years of Experience"}
+                          {"Texas Offices"}
                         </h6>
                       </div>
                       <div
@@ -794,7 +798,7 @@ export default function About() {
                           }}
                         >
                           {
-                            "Across strategy, operations, and business transformation."
+                            "Based in Sugar Land and Austin, serving clients nationwide."
                           }
                         </p>
                       </div>
@@ -859,7 +863,7 @@ export default function About() {
                           },
                         }}
                       >
-                        {"68%"}
+                        {"4"}
                       </p>
                       <p
                         {...{
@@ -882,7 +886,7 @@ export default function About() {
                           },
                         }}
                       >
-                        {"68%"}
+                        {"4"}
                       </p>
                     </div>
                     <div {...{ className: "framer-3iaxmf" }}>
@@ -905,7 +909,7 @@ export default function About() {
                             dir: "auto",
                           }}
                         >
-                          {"Average Growth"}
+                          {"Core Services"}
                         </h6>
                       </div>
                       <div
@@ -928,7 +932,7 @@ export default function About() {
                           }}
                         >
                           {
-                            "Measured improvement after refining strategy and execution."
+                            "Personal attention for individuals and businesses of every size."
                           }
                         </p>
                       </div>
@@ -993,7 +997,7 @@ export default function About() {
                           },
                         }}
                       >
-                        {"68%"}
+                        {"4"}
                       </p>
                       <p
                         {...{
@@ -1016,7 +1020,7 @@ export default function About() {
                           },
                         }}
                       >
-                        {"68%"}
+                        {"4"}
                       </p>
                     </div>
                     <div {...{ className: "framer-3iaxmf" }}>
@@ -1039,7 +1043,7 @@ export default function About() {
                             dir: "auto",
                           }}
                         >
-                          {"Average Growth"}
+                          {"Core Services"}
                         </h6>
                       </div>
                       <div
@@ -1068,7 +1072,7 @@ export default function About() {
                           }}
                         >
                           {
-                            "Measured improvement after refining strategy and execution."
+                            "Personal attention for individuals and businesses of every size."
                           }
                         </p>
                       </div>
@@ -1133,7 +1137,7 @@ export default function About() {
                           },
                         }}
                       >
-                        {"91%"}
+                        {"1"}
                       </p>
                       <p
                         {...{
@@ -1156,7 +1160,7 @@ export default function About() {
                           },
                         }}
                       >
-                        {"91%"}
+                        {"1"}
                       </p>
                     </div>
                     <div {...{ className: "framer-3iaxmf" }}>
@@ -1185,7 +1189,7 @@ export default function About() {
                             },
                           }}
                         >
-                          {"Client Retention"}
+                          {"Client Focus"}
                         </h6>
                       </div>
                       <div
@@ -1214,7 +1218,7 @@ export default function About() {
                           }}
                         >
                           {
-                            "Long-term partnerships built on measurable impact and trust."
+                            "Close relationships, transparent communication, and confidentiality."
                           }
                         </p>
                       </div>
@@ -1348,7 +1352,7 @@ export default function About() {
                           },
                         }}
                       >
-                        {"91%"}
+                        {"1"}
                       </p>
                       <p
                         {...{
@@ -1371,7 +1375,7 @@ export default function About() {
                           },
                         }}
                       >
-                        {"91%"}
+                        {"1"}
                       </p>
                     </div>
                     <div {...{ className: "framer-3iaxmf" }}>
@@ -1400,7 +1404,7 @@ export default function About() {
                             },
                           }}
                         >
-                          {"Client Retention"}
+                          {"Client Focus"}
                         </h6>
                       </div>
                       <div
@@ -1429,7 +1433,7 @@ export default function About() {
                           }}
                         >
                           {
-                            "Long-term partnerships built on measurable impact and trust."
+                            "Close relationships, transparent communication, and confidentiality."
                           }
                         </p>
                       </div>
@@ -1536,7 +1540,7 @@ export default function About() {
                 style: { "--framer-text-alignment": "center" },
               }}
             >
-              {"TRUSTED BY 1,00,000+ CUSTOMERS AROUND WORLDS"}
+              {"SERVING GREATER HOUSTON AND CLIENTS ACROSS THE UNITED STATES"}
             </p>
           </div>
           <div {...{ className: "ssr-variant" }}>

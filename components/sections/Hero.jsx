@@ -36,7 +36,7 @@ export default function Hero() {
                     dir: "auto",
                   }}
                 >
-                  {"Turn complexity into "}
+                  {"Clear accounting for "}
                   <span
                     {...{
                       style: {
@@ -46,7 +46,7 @@ export default function Hero() {
                       className: "framer-text",
                     }}
                   >
-                    {"decisive growth."}
+                    {"confident decisions."}
                   </span>
                 </h1>
               </div>
@@ -72,7 +72,7 @@ export default function Hero() {
                     style: { "--framer-text-alignment": "start" },
                   }}
                 >
-                  {"Turn complexity into "}
+                  {"Clear accounting for "}
                   <span
                     {...{
                       style: {
@@ -82,7 +82,7 @@ export default function Hero() {
                       className: "framer-text",
                     }}
                   >
-                    {"decisive growth."}
+                    {"confident decisions."}
                   </span>
                 </h1>
               </div>
@@ -116,7 +116,7 @@ export default function Hero() {
                   }}
                 >
                   {
-                    "We help ambitious businesses find clarity, build smarter strategies, and turn complex challenges into sustainable growth."
+                    "Personalized accounting, tax, business services, and IRS representation for individuals and businesses in Greater Houston and nationwide."
                   }
                 </p>
               </div>
@@ -138,7 +138,7 @@ export default function Hero() {
                   }}
                 >
                   {
-                    "We help ambitious businesses find clarity, build smarter strategies, and turn complex challenges into sustainable growth."
+                    "Personalized accounting, tax, business services, and IRS representation for individuals and businesses in Greater Houston and nationwide."
                   }
                 </p>
               </div>
@@ -210,7 +210,7 @@ export default function Hero() {
                           },
                         }}
                       >
-                        {"Start a conversation"}
+                        {"Get a free consultation"}
                       </p>
                     </div>
                     <div
@@ -254,7 +254,7 @@ export default function Hero() {
                           },
                         }}
                       >
-                        {"Start a conversation"}
+                        {"Get a free consultation"}
                       </p>
                     </div>
                   </Link>
@@ -319,7 +319,7 @@ export default function Hero() {
                           },
                         }}
                       >
-                        {"Start a conversation"}
+                        {"Get a free consultation"}
                       </p>
                     </div>
                     <div
@@ -363,7 +363,7 @@ export default function Hero() {
                           },
                         }}
                       >
-                        {"Start a conversation"}
+                        {"Get a free consultation"}
                       </p>
                     </div>
                   </Link>
@@ -742,7 +742,7 @@ export default function Hero() {
                             },
                           }}
                         >
-                          {"Average Growth"}
+                          {"Core Services"}
                         </p>
                       </div>
                     </div>
@@ -767,7 +767,7 @@ export default function Hero() {
                       },
                     }}
                   >
-                    {"42%"}
+                    {"4"}
                   </p>
                   <p
                     {...{
@@ -790,7 +790,7 @@ export default function Hero() {
                       },
                     }}
                   >
-                    {"42%"}
+                    {"4"}
                   </p>
                 </div>
               </div>
@@ -809,7 +809,7 @@ export default function Hero() {
                   }}
                 >
                   {
-                    "Sustained growth through strategic planning, operational improvements, and better decisions"
+                    "Accounting Services, Tax Services, Business Services, and IRS Representation, shaped around your needs."
                   }
                 </p>
               </div>
@@ -970,7 +970,7 @@ export default function Hero() {
                             dir: "auto",
                           }}
                         >
-                          {"Elevra Expertise"}
+                          {"Our Expertise"}
                         </p>
                       </div>
                     </div>
@@ -996,7 +996,7 @@ export default function Hero() {
                       }}
                     >
                       {
-                        "From strategy to execution, we bring the clarity and expertise businesses need to grow with confidence."
+                        "Professional accounting and tax support, with close relationships and personal attention at every step."
                       }
                     </p>
                   </div>
@@ -1021,19 +1021,20 @@ export default function Hero() {
                       }}
                     >
                       {
-                        "From strategy to execution, we bring the clarity and expertise businesses need to grow with confidence."
+                        "Professional accounting and tax support, with close relationships and personal attention at every step."
                       }
                     </p>
                   </div>
                 </div>
                 <div {...{ className: "ssr-variant" }}>
                   <div {...{ className: "framer-awk1xc-container" }}>
-                    <a
+                    <Link
+                      prefetch={false}
                       {...{
                         className:
                           "framer-eUgKw framer-FrbCk framer-ac3z8y framer-v-ac3z8y framer-1mb6707",
                         "data-framer-name": "Light ",
-                        href: "https://elevra.framer.media/case-study",
+                        href: "/contact",
                       }}
                     >
                       <div
@@ -1076,7 +1077,7 @@ export default function Hero() {
                                 },
                               }}
                             >
-                              {"Explore Case Studies"}
+                              {"Explore Our Services"}
                             </p>
                           </div>
                         </div>
@@ -1103,7 +1104,7 @@ export default function Hero() {
                           </svg>
                         </div>
                       </div>
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -1319,7 +1320,7 @@ export default function Hero() {
                               },
                             }}
                           >
-                            {"Average Growth"}
+                            {"Core Services"}
                           </p>
                         </div>
                       </div>
@@ -1343,7 +1344,7 @@ export default function Hero() {
                           },
                         }}
                       >
-                        {"42%"}
+                        {"4"}
                       </p>
                       <p
                         {...{
@@ -1366,7 +1367,7 @@ export default function Hero() {
                           },
                         }}
                       >
-                        {"42%"}
+                        {"4"}
                       </p>
                     </div>
                   </div>
@@ -1385,7 +1386,7 @@ export default function Hero() {
                       }}
                     >
                       {
-                        "Sustained growth through strategic planning, operational improvements, and better decisions"
+                        "Accounting Services, Tax Services, Business Services, and IRS Representation, shaped around your needs."
                       }
                     </p>
                   </div>
@@ -1561,7 +1562,7 @@ export default function Hero() {
                               dir: "auto",
                             }}
                           >
-                            {"Elevra Expertise"}
+                            {"Our Expertise"}
                           </p>
                         </div>
                       </div>
@@ -1585,17 +1586,18 @@ export default function Hero() {
                         }}
                       >
                         {
-                          "From strategy to execution, we bring the clarity and expertise businesses need to grow with confidence."
+                          "Professional accounting and tax support, with close relationships and personal attention at every step."
                         }
                       </p>
                     </div>
                     <div {...{ className: "framer-awk1xc-container" }}>
-                      <a
+                      <Link
+                        prefetch={false}
                         {...{
                           className:
                             "framer-eUgKw framer-FrbCk framer-ac3z8y framer-v-ac3z8y framer-1mb6707",
                           "data-framer-name": "Light ",
-                          href: "https://elevra.framer.media/case-study",
+                          href: "/contact",
                         }}
                       >
                         <div
@@ -1640,7 +1642,7 @@ export default function Hero() {
                                   },
                                 }}
                               >
-                                {"Explore Case Studies"}
+                                {"Explore Our Services"}
                               </p>
                             </div>
                           </div>
@@ -1667,7 +1669,7 @@ export default function Hero() {
                             </svg>
                           </div>
                         </div>
-                      </a>
+                      </Link>
                     </div>
                   </div>
                 </div>

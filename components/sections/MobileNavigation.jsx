@@ -35,71 +35,18 @@ export default function MobileNavigation() {
                 "data-framer-name": "Dark",
                 href: "/",
                 "data-framer-page-link-current": "true",
+                "aria-label": "S MAGO CPA, PC home",
+                "data-copy-brand": "",
               }}
             >
-              <div
-                {...{ className: "framer-jvjaub", "data-framer-name": "Image" }}
-              >
-                <div
-                  {...{
-                    style: {
-                      position: "absolute",
-                      borderRadius: "inherit",
-                      cornerShape: "inherit",
-                      top: "0",
-                      right: "0",
-                      bottom: "0",
-                      left: "0",
-                    },
-                    "data-framer-background-image-wrapper": "true",
-                  }}
-                >
-                  <img
-                    {...{
-                      decoding: "async",
-                      width: "1254",
-                      height: "1254",
-                      sizes:
-                        "(min-width: 1200px) 32px, (max-width: 809.98px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px",
-                      srcSet:
-                        "/assets/bb840e4cebe9ab90f4.png 512w,/assets/84d3c263a3e39cc9d8.png 1024w,/assets/bd5a0c313f21046b30.png 1254w",
-                      src: "/assets/bd5a0c313f21046b30.png",
-                      alt: "",
-                      style: {
-                        display: "block",
-                        width: "100%",
-                        height: "100%",
-                        borderRadius: "inherit",
-                        cornerShape: "inherit",
-                        objectPosition: "center",
-                        objectFit: "cover",
-                      },
-                      loading: "eager",
-                    }}
-                  />
-                </div>
-              </div>
-              <div
+              <img
                 {...{
-                  className: "framer-8j36ux",
-                  "data-framer-component-type": "RichTextContainer",
-                  style: {
-                    "--framer-link-text-color": "rgb(0, 153, 255)",
-                    "--framer-link-text-decoration": "underline",
-                    transform: "none",
-                  },
+                  src: "/brand/s-mago-logo.png",
+                  alt: "S MAGO CPA, PC",
+                  width: "606",
+                  height: "158",
                 }}
-              >
-                <p
-                  {...{
-                    className: "framer-text framer-styles-preset-ifqh6f",
-                    "data-styles-preset": "BZ6xDUFj2",
-                    dir: "auto",
-                  }}
-                >
-                  {"Elevra"}
-                </p>
-              </div>
+              />
             </Link>
           </div>
           <div

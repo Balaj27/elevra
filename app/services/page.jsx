@@ -1,14 +1,13 @@
 import "./design.css";
 import PageContent from "../../components/pages/services/PageContent";
 import Interactions from "../../components/Interactions";
-export const metadata = {
-  title: "Business Consulting Services | Elevra",
-  description:
-    "Explore Elevra's consulting services: strategic planning, financial consulting, and operations management built to help your business grow with confidence.",
-};
+import SeoSchema from "../../components/SeoSchema";
+import { pageMetadata } from "../../lib/seo.mjs";
+export const metadata = pageMetadata("/services");
 export default function Page() {
   return (
     <>
+      <SeoSchema path="/services" />
       <PageContent />
       <Interactions />
     </>

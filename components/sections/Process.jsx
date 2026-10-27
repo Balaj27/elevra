@@ -117,7 +117,7 @@ export default function Process() {
                   dir: "auto",
                 }}
               >
-                {"A Structured Approach "}
+                {"A Personal Approach to "}
                 <span
                   {...{
                     style: {
@@ -127,7 +127,7 @@ export default function Process() {
                     className: "framer-text",
                   }}
                 >
-                  {"to Business Growth"}
+                  {"Working Together"}
                 </span>
               </h2>
             </div>
@@ -155,7 +155,7 @@ export default function Process() {
                 }}
               >
                 {
-                  "A structured approach that turns complexity into clear, actionable direction."
+                  "Professionalism, responsiveness, and quality, from the first conversation onward."
                 }
               </p>
             </div>
@@ -419,7 +419,7 @@ export default function Process() {
                                   },
                                 }}
                               >
-                                {"Diagnose"}
+                                {"Understand"}
                               </h4>
                             </div>
                           </div>
@@ -449,7 +449,7 @@ export default function Process() {
                               }}
                             >
                               {
-                                "Deep discovery into your market position, funnel economics, team structure, and strategic constraints. We find the real bottleneck, not just the surface symptoms."
+                                "We begin by understanding your situation, your business, and the accounting or tax services you would like to discuss."
                               }
                             </p>
                           </div>
@@ -679,7 +679,7 @@ export default function Process() {
                                   },
                                 }}
                               >
-                                {"Strategize"}
+                                {"Organize"}
                               </h4>
                             </div>
                           </div>
@@ -709,7 +709,7 @@ export default function Process() {
                               }}
                             >
                               {
-                                "We turn scattered findings into one clear, sequenced plan built around your business, your goals, and the realities of your market."
+                                "We discuss the scope of work, clarify the information involved, and establish a practical approach to your needs."
                               }
                             </p>
                           </div>
@@ -939,7 +939,7 @@ export default function Process() {
                                   },
                                 }}
                               >
-                                {"Execute"}
+                                {"Support"}
                               </h4>
                             </div>
                           </div>
@@ -969,7 +969,7 @@ export default function Process() {
                               }}
                             >
                               {
-                                "Plans only matter when they ship. We stay embedded in the work until the changes take hold and start creating momentum."
+                                "We bring professional attention to your accounting, tax, business, or IRS representation needs, with clear communication throughout."
                               }
                             </p>
                           </div>
@@ -1199,7 +1199,7 @@ export default function Process() {
                                   },
                                 }}
                               >
-                                {"Measure"}
+                                {"Review"}
                               </h4>
                             </div>
                           </div>
@@ -1229,7 +1229,7 @@ export default function Process() {
                               }}
                             >
                               {
-                                "Every engagement ends with a number you can point to — growth, efficiency, or margin, tracked and reported, not assumed."
+                                "We stay responsive to questions and discuss the next steps that fit your circumstances and priorities."
                               }
                             </p>
                           </div>
@@ -1492,7 +1492,7 @@ export default function Process() {
                                   },
                                 }}
                               >
-                                {"Diagnose"}
+                                {"Understand"}
                               </h4>
                             </div>
                           </div>
@@ -1522,7 +1522,7 @@ export default function Process() {
                               }}
                             >
                               {
-                                "Deep discovery into your market position, funnel economics, team structure, and strategic constraints. We find the real bottleneck, not just the surface symptoms."
+                                "We begin by understanding your situation, your business, and the accounting or tax services you would like to discuss."
                               }
                             </p>
                           </div>
@@ -1751,7 +1751,7 @@ export default function Process() {
                                   },
                                 }}
                               >
-                                {"Strategize"}
+                                {"Organize"}
                               </h4>
                             </div>
                           </div>
@@ -1781,7 +1781,7 @@ export default function Process() {
                               }}
                             >
                               {
-                                "We turn scattered findings into one clear, sequenced plan built around your business, your goals, and the realities of your market."
+                                "We discuss the scope of work, clarify the information involved, and establish a practical approach to your needs."
                               }
                             </p>
                           </div>
@@ -2010,7 +2010,7 @@ export default function Process() {
                                   },
                                 }}
                               >
-                                {"Execute"}
+                                {"Support"}
                               </h4>
                             </div>
                           </div>
@@ -2040,7 +2040,7 @@ export default function Process() {
                               }}
                             >
                               {
-                                "Plans only matter when they ship. We stay embedded in the work until the changes take hold and start creating momentum."
+                                "We bring professional attention to your accounting, tax, business, or IRS representation needs, with clear communication throughout."
                               }
                             </p>
                           </div>
@@ -2269,7 +2269,7 @@ export default function Process() {
                                   },
                                 }}
                               >
-                                {"Measure"}
+                                {"Review"}
                               </h4>
                             </div>
                           </div>
@@ -2299,7 +2299,7 @@ export default function Process() {
                               }}
                             >
                               {
-                                "Every engagement ends with a number you can point to — growth, efficiency, or margin, tracked and reported, not assumed."
+                                "We stay responsive to questions and discuss the next steps that fit your circumstances and priorities."
                               }
                             </p>
                           </div>

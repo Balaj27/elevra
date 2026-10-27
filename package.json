@@ -1,5 +1,5 @@
 {
-  "name": "elevra-next",
+  "name": "smago-cpa-website",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -8,7 +8,9 @@
     "start": "next start --hostname 0.0.0.0",
     "convert": "node scripts/convert.mjs",
     "convert:pages": "node scripts/convert-pages.mjs",
-    "verify:routes": "node scripts/verify-routes.mjs"
+    "verify:routes": "node scripts/verify-copy-only.mjs",
+    "verify:seo": "node scripts/verify-seo.mjs",
+    "generate:share": "node scripts/generate-share-card.mjs"
   },
   "dependencies": {
     "next": "^16.4.3",

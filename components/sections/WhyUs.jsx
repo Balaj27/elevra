@@ -118,7 +118,7 @@ export default function WhyUs() {
                   style: { "--framer-text-alignment": "center" },
                 }}
               >
-                {"The only Consult "}
+                {"Professional Support "}
                 <span
                   {...{
                     style: {
@@ -128,7 +128,7 @@ export default function WhyUs() {
                     className: "framer-text",
                   }}
                 >
-                  {"built for scale"}
+                  {"Built Around You"}
                 </span>
               </h2>
             </div>
@@ -156,7 +156,7 @@ export default function WhyUs() {
                 }}
               >
                 {
-                  "Turning complex business challenges into clear growth opportunities."
+                  "Customized accounting and tax services, with practical business guidance."
                 }
               </p>
             </div>
@@ -191,7 +191,7 @@ export default function WhyUs() {
                   dir: "auto",
                 }}
               >
-                {"42%"}
+                {"04"}
               </h1>
             </div>
             <div
@@ -209,7 +209,7 @@ export default function WhyUs() {
                 }}
               >
                 {
-                  "Within six months of working with Elevra, clients experienced an"
+                  "Four connected service areas support individuals and business "
                 }
                 <span
                   {...{
@@ -220,11 +220,9 @@ export default function WhyUs() {
                     className: "framer-text",
                   }}
                 >
-                  {" average 48% increase"}
+                  {"owners: accounting, "}
                 </span>
-                {
-                  " in annual revenue based on pre and post-engagement performance."
-                }
+                {"tax, business services, and IRS representation."}
               </p>
             </div>
           </div>
@@ -284,7 +282,7 @@ export default function WhyUs() {
                               },
                             }}
                           >
-                            {"Traditional Consulting / Legacy approach"}
+                            {"Accounting & Tax Services"}
                           </p>
                         </div>
                         <div
@@ -336,7 +334,7 @@ export default function WhyUs() {
                                   },
                                 }}
                               >
-                                {"18%"}
+                                {"02"}
                               </p>
                             </div>
                             <div
@@ -360,7 +358,7 @@ export default function WhyUs() {
                                   dir: "auto",
                                 }}
                               >
-                                {"avg. efficiency gain"}
+                                {"connected service areas"}
                               </p>
                             </div>
                           </div>
@@ -393,7 +391,7 @@ export default function WhyUs() {
                               },
                             }}
                           >
-                            {"Elevra Growth Framework"}
+                            {"Business Services & IRS Representation"}
                           </p>
                         </div>
                         <div
@@ -445,7 +443,7 @@ export default function WhyUs() {
                                   },
                                 }}
                               >
-                                {"42%"}
+                                {"04"}
                               </p>
                             </div>
                             <div
@@ -469,7 +467,7 @@ export default function WhyUs() {
                                   dir: "auto",
                                 }}
                               >
-                                {"avg. efficiency gain"}
+                                {"connected service areas"}
                               </p>
                             </div>
                           </div>
@@ -501,7 +499,7 @@ export default function WhyUs() {
                           },
                         }}
                       >
-                        {"Operational Efficiency Gain (%)"}
+                        {"A connected approach to your financial needs"}
                       </p>
                     </div>
                   </div>
@@ -1438,7 +1436,7 @@ export default function WhyUs() {
                               },
                             }}
                           >
-                            {"Traditional Consulting / Legacy approach"}
+                            {"Accounting & Tax Services"}
                           </p>
                         </div>
                         <div
@@ -1490,7 +1488,7 @@ export default function WhyUs() {
                                   },
                                 }}
                               >
-                                {"18%"}
+                                {"02"}
                               </p>
                             </div>
                             <div
@@ -1514,7 +1512,7 @@ export default function WhyUs() {
                                   dir: "auto",
                                 }}
                               >
-                                {"avg. efficiency gain"}
+                                {"connected service areas"}
                               </p>
                             </div>
                           </div>
@@ -1547,7 +1545,7 @@ export default function WhyUs() {
                               },
                             }}
                           >
-                            {"Elevra Growth Framework"}
+                            {"Business Services & IRS Representation"}
                           </p>
                         </div>
                         <div
@@ -1599,7 +1597,7 @@ export default function WhyUs() {
                                   },
                                 }}
                               >
-                                {"42%"}
+                                {"04"}
                               </p>
                             </div>
                             <div
@@ -1623,7 +1621,7 @@ export default function WhyUs() {
                                   dir: "auto",
                                 }}
                               >
-                                {"avg. efficiency gain"}
+                                {"connected service areas"}
                               </p>
                             </div>
                           </div>
@@ -1655,7 +1653,7 @@ export default function WhyUs() {
                           },
                         }}
                       >
-                        {"Operational Efficiency Gain (%)"}
+                        {"A connected approach to your financial needs"}
                       </p>
                     </div>
                   </div>

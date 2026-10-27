@@ -1,0 +1,122 @@
+[
+  {
+    "width": 390,
+    "route": "/",
+    "visible": true,
+    "sticky": true
+  },
+  {
+    "width": 390,
+    "route": "/about",
+    "visible": true,
+    "sticky": true
+  },
+  {
+    "width": 390,
+    "route": "/services",
+    "visible": true,
+    "sticky": true
+  },
+  {
+    "width": 390,
+    "route": "/contact",
+    "visible": true,
+    "sticky": true
+  },
+  {
+    "width": 390,
+    "route": "/insights",
+    "visible": true,
+    "sticky": true
+  },
+  {
+    "width": 900,
+    "route": "/",
+    "visible": true,
+    "sticky": true
+  },
+  {
+    "width": 900,
+    "route": "/about",
+    "visible": true,
+    "sticky": true
+  },
+  {
+    "width": 900,
+    "route": "/services",
+    "visible": true,
+    "sticky": true
+  },
+  {
+    "width": 900,
+    "route": "/contact",
+    "visible": true,
+    "sticky": true
+  },
+  {
+    "width": 900,
+    "route": "/insights",
+    "visible": true,
+    "sticky": true
+  },
+  {
+    "width": 1024,
+    "route": "/",
+    "visible": true,
+    "sticky": true
+  },
+  {
+    "width": 1024,
+    "route": "/about",
+    "visible": true,
+    "sticky": true
+  },
+  {
+    "width": 1024,
+    "route": "/services",
+    "visible": true,
+    "sticky": true
+  },
+  {
+    "width": 1024,
+    "route": "/contact",
+    "visible": true,
+    "sticky": true
+  },
+  {
+    "width": 1024,
+    "route": "/insights",
+    "visible": true,
+    "sticky": true
+  },
+  {
+    "width": 1440,
+    "route": "/",
+    "visible": true,
+    "sticky": true
+  },
+  {
+    "width": 1440,
+    "route": "/about",
+    "visible": true,
+    "sticky": true
+  },
+  {
+    "width": 1440,
+    "route": "/services",
+    "visible": true,
+    "sticky": true
+  },
+  {
+    "width": 1440,
+    "route": "/contact",
+    "visible": true,
+    "sticky": true
+  },
+  {
+    "width": 1440,
+    "route": "/insights",
+    "visible": true,
+    "sticky": true
+  }
+]

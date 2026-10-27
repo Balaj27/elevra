@@ -2,7 +2,11 @@ import Link from "next/link";
 export default function Industries() {
   return (
     <section
-      {...{ className: "framer-18t77hx", "data-framer-name": "Industries" }}
+      {...{
+        className: "framer-18t77hx",
+        "data-framer-name": "Industries",
+        id: "industries",
+      }}
     >
       <div
         {...{ className: "framer-2pp9n7", "data-framer-name": "Section wrap" }}
@@ -119,7 +123,7 @@ export default function Industries() {
                   dir: "auto",
                 }}
               >
-                {"Deep Industry Insight "}
+                {"Industry Understanding "}
                 <span
                   {...{
                     style: {
@@ -129,7 +133,7 @@ export default function Industries() {
                     className: "framer-text",
                   }}
                 >
-                  {"Behind Every Strategy"}
+                  {"Behind Every Service"}
                 </span>
               </h2>
             </div>
@@ -157,7 +161,7 @@ export default function Industries() {
                 }}
               >
                 {
-                  "Bringing industry context to every strategy, decision, and solution."
+                  "Serving healthcare, construction, real estate, retail, hospitality, professional services, and other industries."
                 }
               </p>
             </div>
@@ -402,7 +406,7 @@ export default function Industries() {
                                     },
                                   }}
                                 >
-                                  {"Technology"}
+                                  {"Healthcare"}
                                 </p>
                               </div>
                             </div>
@@ -590,7 +594,7 @@ export default function Industries() {
                                     },
                                   }}
                                 >
-                                  {"Retail"}
+                                  {"Construction"}
                                 </p>
                               </div>
                             </div>
@@ -778,7 +782,7 @@ export default function Industries() {
                                     },
                                   }}
                                 >
-                                  {"Finance"}
+                                  {"Real Estate"}
                                 </p>
                               </div>
                             </div>
@@ -966,7 +970,7 @@ export default function Industries() {
                                     },
                                   }}
                                 >
-                                  {"Healthcare"}
+                                  {"Retail/Wholesale"}
                                 </p>
                               </div>
                             </div>
@@ -1154,7 +1158,7 @@ export default function Industries() {
                                     },
                                   }}
                                 >
-                                  {"Real Estate"}
+                                  {"Restaurant & Hospitality"}
                                 </p>
                               </div>
                             </div>
@@ -1342,7 +1346,7 @@ export default function Industries() {
                                     },
                                   }}
                                 >
-                                  {"Manufacturing"}
+                                  {"Professional Services"}
                                 </p>
                               </div>
                             </div>
@@ -1530,195 +1534,7 @@ export default function Industries() {
                                     },
                                   }}
                                 >
-                                  {"Hospitality"}
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div {...{ className: "framer-oskcus" }}>
-                    <div {...{ className: "ssr-variant" }}>
-                      <div {...{ className: "framer-8730r1-container" }}>
-                        <div
-                          {...{
-                            className:
-                              "framer-2I1Ir framer-1w3ilru framer-v-1w3ilru",
-                            "data-framer-name": "Variant 1",
-                            style: {
-                              height: "100%",
-                              width: "100%",
-                              borderBottomLeftRadius: "16px",
-                              borderBottomRightRadius: "16px",
-                              borderTopLeftRadius: "16px",
-                              borderTopRightRadius: "16px",
-                            },
-                          }}
-                        >
-                          <div {...{ className: "framer-o7q2n4-container" }}>
-                            <div
-                              {...{
-                                rootxfgku: "0px",
-                                className:
-                                  "framer-Qc3Wu framer-1tjoa6u framer-v-1tjoa6u",
-                                "data-framer-name": "Variant 1",
-                                style: {
-                                  height: "100%",
-                                  width: "100%",
-                                  borderBottomLeftRadius: "16px",
-                                  borderBottomRightRadius: "16px",
-                                  borderTopLeftRadius: "16px",
-                                  borderTopRightRadius: "16px",
-                                },
-                              }}
-                            >
-                              <figure
-                                {...{
-                                  as: "figure",
-                                  className: "framer-33j7u1",
-                                }}
-                              >
-                                <div
-                                  {...{
-                                    style: {
-                                      position: "absolute",
-                                      borderRadius: "inherit",
-                                      cornerShape: "inherit",
-                                      top: "0",
-                                      right: "0",
-                                      bottom: "0",
-                                      left: "0",
-                                    },
-                                    "data-framer-background-image-wrapper":
-                                      "true",
-                                  }}
-                                >
-                                  <img
-                                    {...{
-                                      decoding: "async",
-                                      loading: "eager",
-                                      width: "1024",
-                                      height: "1024",
-                                      sizes:
-                                        "(min-width: 1200px) 300px, (max-width: 809.98px) 240px, (min-width: 810px) and (max-width: 1199.98px) 280px",
-                                      srcSet:
-                                        "/assets/b4d0cd73cfdcb43d16.jpg 512w,/assets/c7202f69bd44fc3bda.jpg 1024w",
-                                      src: "/assets/c7202f69bd44fc3bda.jpg",
-                                      alt: "",
-                                      style: {
-                                        display: "block",
-                                        width: "100%",
-                                        height: "100%",
-                                        borderRadius: "inherit",
-                                        cornerShape: "inherit",
-                                        objectPosition: "center",
-                                        objectFit: "cover",
-                                      },
-                                    }}
-                                  />
-                                </div>
-                              </figure>
-                              <div
-                                {...{
-                                  className: "framer-1r6ty9f",
-                                  "data-framer-name": "Noise",
-                                  style: { opacity: "0.1" },
-                                }}
-                              >
-                                <div
-                                  {...{
-                                    "data-framer-background-image-wrapper":
-                                      "true",
-                                    style: {
-                                      position: "absolute",
-                                      borderRadius: "inherit",
-                                      cornerShape: "inherit",
-                                      top: "0",
-                                      right: "0",
-                                      bottom: "0",
-                                      left: "0",
-                                      backgroundImage:
-                                        "url(/assets/8526aafaff0d17acbd.png)",
-                                      backgroundRepeat: "repeat",
-                                      backgroundPosition: "left top",
-                                      border: "0",
-                                      backgroundSize: "142px auto",
-                                    },
-                                  }}
-                                ></div>
-                              </div>
-                            </div>
-                          </div>
-                          <div {...{ className: "framer-1m7xqpr-container" }}>
-                            <div
-                              {...{
-                                className:
-                                  "framer-aF8cz framer-5qi85 framer-r1qvv7 framer-v-1wcs0w1",
-                                "data-border": "true",
-                                "data-framer-name": "Filled",
-                                style: {
-                                  "--border-bottom-width": "1px",
-                                  "--border-color":
-                                    "var(--token-4f9c5070-1f78-4fdb-9e56-8223d841bb0b, rgba(255, 255, 255, 0.64))",
-                                  "--border-left-width": "1px",
-                                  "--border-right-width": "1px",
-                                  "--border-style": "solid",
-                                  "--border-top-width": "1px",
-                                  backgroundColor:
-                                    "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
-                                  borderBottomLeftRadius: "100px",
-                                  borderBottomRightRadius: "100px",
-                                  borderTopLeftRadius: "100px",
-                                  borderTopRightRadius: "100px",
-                                },
-                              }}
-                            >
-                              <svg
-                                {...{
-                                  className: "framer-CCPgn framer-1vvx79s",
-                                  role: "presentation",
-                                  viewBox: "0 0 24 24",
-                                  style: {
-                                    "--1m6trwb": "0",
-                                    "--21h8s6":
-                                      "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
-                                    "--pgex8v": "1.5",
-                                  },
-                                }}
-                              >
-                                <use {...{ href: "#654422706" }}></use>
-                              </svg>
-                              <div
-                                {...{
-                                  className: "framer-qabs03",
-                                  "data-framer-component-type":
-                                    "RichTextContainer",
-                                  style: {
-                                    "--extracted-r6o4lv":
-                                      "var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61))",
-                                    "--framer-link-text-color":
-                                      "rgb(0, 153, 255)",
-                                    "--framer-link-text-decoration":
-                                      "underline",
-                                    transform: "none",
-                                  },
-                                }}
-                              >
-                                <p
-                                  {...{
-                                    className:
-                                      "framer-text framer-styles-preset-1ggpp17",
-                                    "data-styles-preset": "YAcmHqqMw",
-                                    dir: "auto",
-                                    style: {
-                                      "--framer-text-color":
-                                        "var(--extracted-r6o4lv, var(--token-a502d7ad-2e01-4367-90e6-f868d55e1579, rgb(33, 45, 61)))",
-                                    },
-                                  }}
-                                >
-                                  {"Professional Services"}
+                                  {"Other Industries"}
                                 </p>
                               </div>
                             </div>

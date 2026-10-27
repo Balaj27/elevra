@@ -196,7 +196,7 @@ export default function Experties3() {
                         },
                       }}
                     >
-                      {"Elevra Expertise"}
+                      {"Our Expertise"}
                     </p>
                   </div>
                 </div>
@@ -218,7 +218,7 @@ export default function Experties3() {
                 }}
               >
                 {
-                  "We combine strategic thinking with practical action to help businesses move forward with confidence."
+                  "We provide professional services at an affordable cost, with close, transparent relationships and confidentiality as a priority."
                 }
               </h4>
             </div>
@@ -317,7 +317,7 @@ export default function Experties3() {
                           },
                         }}
                       >
-                        {"Clear Direction"}
+                        {"Professionalism"}
                       </p>
                     </div>
                     <div
@@ -344,7 +344,7 @@ export default function Experties3() {
                         }}
                       >
                         {
-                          "Turning complex challenges into focused priorities and clear decisions that move your business forward."
+                          "Our combination of professionalism and the energy of our staff shapes the way we work. We hold our ethics and workmanship to high standards, so each client benefits from attentive, professional service."
                         }
                       </p>
                     </div>
@@ -440,7 +440,7 @@ export default function Experties3() {
                           },
                         }}
                       >
-                        {"Built to Scale"}
+                        {"Responsiveness"}
                       </p>
                     </div>
                     <div
@@ -467,7 +467,7 @@ export default function Experties3() {
                         }}
                       >
                         {
-                          "Creating smarter ways of working that improve efficiency and support sustainable business growth."
+                          "We build close, transparent relationships with our clients. By understanding your questions and priorities, we provide practical guidance and keep communication clear throughout our work together."
                         }
                       </p>
                     </div>
@@ -563,7 +563,7 @@ export default function Experties3() {
                           },
                         }}
                       >
-                        {"Measurable Progress"}
+                        {"Quality"}
                       </p>
                     </div>
                     <div
@@ -590,7 +590,7 @@ export default function Experties3() {
                         }}
                       >
                         {
-                          "Focusing on improvements that strengthen performance and create lasting business value."
+                          "We are committed to providing quality services at an affordable cost. Our approach is efficient, dependable, and grounded in the needs of each individual and business we serve."
                         }
                       </p>
                     </div>

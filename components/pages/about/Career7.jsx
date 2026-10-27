@@ -103,7 +103,7 @@ export default function Career7() {
                         },
                       }}
                     >
-                      {"Join Elevra"}
+                      {"Work With Us"}
                     </p>
                   </div>
                 </div>
@@ -124,7 +124,7 @@ export default function Career7() {
                   style: { "--framer-text-alignment": "center" },
                 }}
               >
-                {"Be part of "}
+                {"Let’s Discuss Your "}
                 <span
                   {...{
                     style: {
@@ -134,7 +134,7 @@ export default function Career7() {
                     className: "framer-text",
                   }}
                 >
-                  {"our mission"}
+                  {"Next Step"}
                 </span>
               </h2>
             </div>
@@ -157,7 +157,9 @@ export default function Career7() {
                   style: { "--framer-text-alignment": "center" },
                 }}
               >
-                {"Bring your ideas to work that creates real impact."}
+                {
+                  "Individual needs. Business priorities. One professional conversation."
+                }
               </p>
             </div>
           </div>
@@ -224,7 +226,7 @@ export default function Career7() {
                         style: { "--framer-text-alignment": "start" },
                       }}
                     >
-                      {"Senior Strategy Consultant"}
+                      {"Accounting Services"}
                     </h5>
                   </div>
                 </div>
@@ -289,7 +291,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"Full Time"}
+                            {"Personalized"}
                           </p>
                         </div>
                       </div>
@@ -343,7 +345,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {" New York"}
+                            {"Sugar Land"}
                           </p>
                         </div>
                       </div>
@@ -397,7 +399,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"Strategy"}
+                            {"Accounting"}
                           </p>
                         </div>
                       </div>
@@ -461,7 +463,7 @@ export default function Career7() {
                             },
                           }}
                         >
-                          {"Apply Now"}
+                          {"Get in Touch"}
                         </p>
                       </div>
                       <div
@@ -506,7 +508,7 @@ export default function Career7() {
                             },
                           }}
                         >
-                          {"Apply Now"}
+                          {"Get in Touch"}
                         </p>
                       </div>
                     </Link>
@@ -571,7 +573,7 @@ export default function Career7() {
                         style: { "--framer-text-alignment": "start" },
                       }}
                     >
-                      {"Senior Strategy Consultant"}
+                      {"Accounting Services"}
                     </h5>
                   </div>
                 </div>
@@ -636,7 +638,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"Full Time"}
+                            {"Personalized"}
                           </p>
                         </div>
                       </div>
@@ -690,7 +692,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {" New York"}
+                            {"Sugar Land"}
                           </p>
                         </div>
                       </div>
@@ -744,7 +746,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"Strategy"}
+                            {"Accounting"}
                           </p>
                         </div>
                       </div>
@@ -808,7 +810,7 @@ export default function Career7() {
                             },
                           }}
                         >
-                          {"Apply Now"}
+                          {"Get in Touch"}
                         </p>
                       </div>
                       <div
@@ -853,7 +855,7 @@ export default function Career7() {
                             },
                           }}
                         >
-                          {"Apply Now"}
+                          {"Get in Touch"}
                         </p>
                       </div>
                     </Link>
@@ -918,7 +920,7 @@ export default function Career7() {
                         style: { "--framer-text-alignment": "start" },
                       }}
                     >
-                      {"Finance & Valuation Analyst"}
+                      {"Tax Services"}
                     </h5>
                   </div>
                 </div>
@@ -983,7 +985,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"Full Time"}
+                            {"Personalized"}
                           </p>
                         </div>
                       </div>
@@ -1037,7 +1039,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"London"}
+                            {"Austin"}
                           </p>
                         </div>
                       </div>
@@ -1091,7 +1093,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"Finance"}
+                            {"Tax"}
                           </p>
                         </div>
                       </div>
@@ -1155,7 +1157,7 @@ export default function Career7() {
                             },
                           }}
                         >
-                          {"Apply Now"}
+                          {"Get in Touch"}
                         </p>
                       </div>
                       <div
@@ -1200,7 +1202,7 @@ export default function Career7() {
                             },
                           }}
                         >
-                          {"Apply Now"}
+                          {"Get in Touch"}
                         </p>
                       </div>
                     </Link>
@@ -1265,7 +1267,7 @@ export default function Career7() {
                         style: { "--framer-text-alignment": "start" },
                       }}
                     >
-                      {"Finance & Valuation Analyst"}
+                      {"Tax Services"}
                     </h5>
                   </div>
                 </div>
@@ -1330,7 +1332,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"Full Time"}
+                            {"Personalized"}
                           </p>
                         </div>
                       </div>
@@ -1384,7 +1386,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"London"}
+                            {"Austin"}
                           </p>
                         </div>
                       </div>
@@ -1438,7 +1440,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"Finance"}
+                            {"Tax"}
                           </p>
                         </div>
                       </div>
@@ -1502,7 +1504,7 @@ export default function Career7() {
                             },
                           }}
                         >
-                          {"Apply Now"}
+                          {"Get in Touch"}
                         </p>
                       </div>
                       <div
@@ -1547,7 +1549,7 @@ export default function Career7() {
                             },
                           }}
                         >
-                          {"Apply Now"}
+                          {"Get in Touch"}
                         </p>
                       </div>
                     </Link>
@@ -1612,7 +1614,7 @@ export default function Career7() {
                         style: { "--framer-text-alignment": "start" },
                       }}
                     >
-                      {"Operations Excellence Manager"}
+                      {"Business Services"}
                     </h5>
                   </div>
                 </div>
@@ -1677,7 +1679,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"Full Time"}
+                            {"Personalized"}
                           </p>
                         </div>
                       </div>
@@ -1731,7 +1733,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {" New York"}
+                            {"Sugar Land"}
                           </p>
                         </div>
                       </div>
@@ -1785,7 +1787,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"Operations"}
+                            {"Business"}
                           </p>
                         </div>
                       </div>
@@ -1849,7 +1851,7 @@ export default function Career7() {
                             },
                           }}
                         >
-                          {"Apply Now"}
+                          {"Get in Touch"}
                         </p>
                       </div>
                       <div
@@ -1894,7 +1896,7 @@ export default function Career7() {
                             },
                           }}
                         >
-                          {"Apply Now"}
+                          {"Get in Touch"}
                         </p>
                       </div>
                     </Link>
@@ -1959,7 +1961,7 @@ export default function Career7() {
                         style: { "--framer-text-alignment": "start" },
                       }}
                     >
-                      {"Operations Excellence Manager"}
+                      {"Business Services"}
                     </h5>
                   </div>
                 </div>
@@ -2024,7 +2026,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"Full Time"}
+                            {"Personalized"}
                           </p>
                         </div>
                       </div>
@@ -2078,7 +2080,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {" New York"}
+                            {"Sugar Land"}
                           </p>
                         </div>
                       </div>
@@ -2132,7 +2134,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"Operations"}
+                            {"Business"}
                           </p>
                         </div>
                       </div>
@@ -2196,7 +2198,7 @@ export default function Career7() {
                             },
                           }}
                         >
-                          {"Apply Now"}
+                          {"Get in Touch"}
                         </p>
                       </div>
                       <div
@@ -2241,7 +2243,7 @@ export default function Career7() {
                             },
                           }}
                         >
-                          {"Apply Now"}
+                          {"Get in Touch"}
                         </p>
                       </div>
                     </Link>
@@ -2306,7 +2308,7 @@ export default function Career7() {
                         style: { "--framer-text-alignment": "start" },
                       }}
                     >
-                      {"\tEngagement Manager"}
+                      {"IRS Representation"}
                     </h5>
                   </div>
                 </div>
@@ -2371,7 +2373,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"Full Time"}
+                            {"Personalized"}
                           </p>
                         </div>
                       </div>
@@ -2425,7 +2427,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"Remote"}
+                            {"Nationwide"}
                           </p>
                         </div>
                       </div>
@@ -2479,7 +2481,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"Strategy"}
+                            {"Accounting"}
                           </p>
                         </div>
                       </div>
@@ -2543,7 +2545,7 @@ export default function Career7() {
                             },
                           }}
                         >
-                          {"Apply Now"}
+                          {"Get in Touch"}
                         </p>
                       </div>
                       <div
@@ -2588,7 +2590,7 @@ export default function Career7() {
                             },
                           }}
                         >
-                          {"Apply Now"}
+                          {"Get in Touch"}
                         </p>
                       </div>
                     </Link>
@@ -2653,7 +2655,7 @@ export default function Career7() {
                         style: { "--framer-text-alignment": "start" },
                       }}
                     >
-                      {"\tEngagement Manager"}
+                      {"IRS Representation"}
                     </h5>
                   </div>
                 </div>
@@ -2718,7 +2720,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"Full Time"}
+                            {"Personalized"}
                           </p>
                         </div>
                       </div>
@@ -2772,7 +2774,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"Remote"}
+                            {"Nationwide"}
                           </p>
                         </div>
                       </div>
@@ -2826,7 +2828,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"Strategy"}
+                            {"Accounting"}
                           </p>
                         </div>
                       </div>
@@ -2890,7 +2892,7 @@ export default function Career7() {
                             },
                           }}
                         >
-                          {"Apply Now"}
+                          {"Get in Touch"}
                         </p>
                       </div>
                       <div
@@ -2935,7 +2937,7 @@ export default function Career7() {
                             },
                           }}
                         >
-                          {"Apply Now"}
+                          {"Get in Touch"}
                         </p>
                       </div>
                     </Link>
@@ -3000,7 +3002,7 @@ export default function Career7() {
                         style: { "--framer-text-alignment": "start" },
                       }}
                     >
-                      {"Business Analyst (Graduate)"}
+                      {"Initial Consultation"}
                     </h5>
                   </div>
                 </div>
@@ -3065,7 +3067,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"Contract"}
+                            {"Professional"}
                           </p>
                         </div>
                       </div>
@@ -3119,7 +3121,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"London"}
+                            {"Austin"}
                           </p>
                         </div>
                       </div>
@@ -3173,7 +3175,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"Operations"}
+                            {"Business"}
                           </p>
                         </div>
                       </div>
@@ -3237,7 +3239,7 @@ export default function Career7() {
                             },
                           }}
                         >
-                          {"Apply Now"}
+                          {"Get in Touch"}
                         </p>
                       </div>
                       <div
@@ -3282,7 +3284,7 @@ export default function Career7() {
                             },
                           }}
                         >
-                          {"Apply Now"}
+                          {"Get in Touch"}
                         </p>
                       </div>
                     </Link>
@@ -3347,7 +3349,7 @@ export default function Career7() {
                         style: { "--framer-text-alignment": "start" },
                       }}
                     >
-                      {"Business Analyst (Graduate)"}
+                      {"Initial Consultation"}
                     </h5>
                   </div>
                 </div>
@@ -3412,7 +3414,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"Contract"}
+                            {"Professional"}
                           </p>
                         </div>
                       </div>
@@ -3466,7 +3468,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"London"}
+                            {"Austin"}
                           </p>
                         </div>
                       </div>
@@ -3520,7 +3522,7 @@ export default function Career7() {
                               },
                             }}
                           >
-                            {"Operations"}
+                            {"Business"}
                           </p>
                         </div>
                       </div>
@@ -3584,7 +3586,7 @@ export default function Career7() {
                             },
                           }}
                         >
-                          {"Apply Now"}
+                          {"Get in Touch"}
                         </p>
                       </div>
                       <div
@@ -3629,7 +3631,7 @@ export default function Career7() {
                             },
                           }}
                         >
-                          {"Apply Now"}
+                          {"Get in Touch"}
                         </p>
                       </div>
                     </Link>

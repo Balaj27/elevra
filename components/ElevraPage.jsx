@@ -180,10 +180,6 @@ export default function ElevraPage() {
               className: "framer-19s2tuj-container",
               "data-framer-appear-id": "19s2tuj",
               style: { opacity: "1", transform: "none" },
-              "data-motion-reveal": "",
-              "data-motion-y": "0",
-              "data-motion-duration": "1000",
-              "data-motion-delay": "800",
             }}
           >
             <div {...{ className: "ssr-variant hidden-5lzm3m hidden-1d8k2m4" }}>

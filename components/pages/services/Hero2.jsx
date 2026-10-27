@@ -96,7 +96,7 @@ export default function Hero2() {
                       },
                     }}
                   >
-                    {"Elevra Services"}
+                    {"Our Services"}
                   </p>
                 </div>
               </div>
@@ -116,7 +116,7 @@ export default function Hero2() {
                   style: { "--framer-text-alignment": "center" },
                 }}
               >
-                {"Expert advice for "}
+                {"Professional support for "}
                 <span
                   {...{
                     style: {
@@ -126,7 +126,7 @@ export default function Hero2() {
                     className: "framer-text",
                   }}
                 >
-                  {"business growth."}
+                  {"financial clarity."}
                 </span>
               </h1>
             </div>
@@ -150,7 +150,7 @@ export default function Hero2() {
                 }}
               >
                 {
-                  "Focused expertise to help you plan, execute, and grow with confidence."
+                  "Accounting, tax, business services, and IRS representation with individual attention."
                 }
               </p>
             </div>

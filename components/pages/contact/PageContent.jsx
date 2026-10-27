@@ -173,7 +173,7 @@ export default function PageContent() {
                             style: { "--framer-text-alignment": "center" },
                           }}
                         >
-                          {"Let's Discuss "}
+                          {"Let’s Discuss Your "}
                           <span
                             {...{
                               style: {
@@ -183,7 +183,7 @@ export default function PageContent() {
                               className: "framer-text",
                             }}
                           >
-                            {"Your Next Move."}
+                            {"Financial Needs."}
                           </span>
                         </h1>
                       </div>
@@ -211,7 +211,7 @@ export default function PageContent() {
                           }}
                         >
                           {
-                            "Bring us your challenge, and we'll help turn it into a clear plan of action."
+                            "Request a free consultation to discuss accounting, tax, business services, or IRS representation."
                           }
                         </p>
                       </div>
@@ -410,7 +410,7 @@ export default function PageContent() {
                                         dir: "auto",
                                       }}
                                     >
-                                      {"From the Founder"}
+                                      {"Our Commitment"}
                                     </p>
                                   </div>
                                 </div>
@@ -437,7 +437,7 @@ export default function PageContent() {
                                 }}
                               >
                                 {
-                                  "“Tell us where you’re stuck. We’ll help you find clarity, build a focused strategy, and move forward with confidence.”"
+                                  "Professionalism, responsiveness, and quality. We take time to understand your needs and build a close, transparent relationship."
                                 }
                               </p>
                             </div>
@@ -827,27 +827,30 @@ export default function PageContent() {
                                             className: "framer-form-input",
                                             "aria-label":
                                               "What services are you interested in?",
-                                            defaultValue: "Strategic Planning",
+                                            defaultValue: "Accounting Services",
                                           }}
                                         >
                                           <option
-                                            {...{ value: "Strategic Planning" }}
-                                          >
-                                            {"Strategic Planning"}
-                                          </option>
-                                          <option
                                             {...{
-                                              value: "Financial Consulting",
+                                              value: "Accounting Services",
                                             }}
                                           >
-                                            {"Financial Consulting"}
+                                            {"Accounting Services"}
                                           </option>
                                           <option
-                                            {...{
-                                              value: "Operations Management",
-                                            }}
+                                            {...{ value: "Tax Services" }}
                                           >
-                                            {"Operations Management"}
+                                            {"Tax Services"}
+                                          </option>
+                                          <option
+                                            {...{ value: "Business Services" }}
+                                          >
+                                            {"Business Services"}
+                                          </option>
+                                          <option
+                                            {...{ value: "IRS Representation" }}
+                                          >
+                                            {"IRS Representation"}
                                           </option>
                                         </select>
                                       </div>
@@ -968,7 +971,7 @@ export default function PageContent() {
                                           },
                                         }}
                                       >
-                                        {"Biggest growth challenge?"}
+                                        {"How can we help?"}
                                       </p>
                                     </div>
                                     <div
@@ -1455,27 +1458,30 @@ export default function PageContent() {
                                             className: "framer-form-input",
                                             "aria-label":
                                               "What services are you interested in?",
-                                            defaultValue: "Strategic Planning",
+                                            defaultValue: "Accounting Services",
                                           }}
                                         >
                                           <option
-                                            {...{ value: "Strategic Planning" }}
-                                          >
-                                            {"Strategic Planning"}
-                                          </option>
-                                          <option
                                             {...{
-                                              value: "Financial Consulting",
+                                              value: "Accounting Services",
                                             }}
                                           >
-                                            {"Financial Consulting"}
+                                            {"Accounting Services"}
                                           </option>
                                           <option
-                                            {...{
-                                              value: "Operations Management",
-                                            }}
+                                            {...{ value: "Tax Services" }}
                                           >
-                                            {"Operations Management"}
+                                            {"Tax Services"}
+                                          </option>
+                                          <option
+                                            {...{ value: "Business Services" }}
+                                          >
+                                            {"Business Services"}
+                                          </option>
+                                          <option
+                                            {...{ value: "IRS Representation" }}
+                                          >
+                                            {"IRS Representation"}
                                           </option>
                                         </select>
                                       </div>
@@ -1596,7 +1602,7 @@ export default function PageContent() {
                                           },
                                         }}
                                       >
-                                        {"Biggest growth challenge?"}
+                                        {"How can we help?"}
                                       </p>
                                     </div>
                                     <div
@@ -1844,7 +1850,9 @@ export default function PageContent() {
                                     },
                                   }}
                                 >
-                                  {"Aspen, Colorado, USA"}
+                                  {
+                                    "12808 W Airport Blvd Ste 310, Sugar Land, TX 77478"
+                                  }
                                 </p>
                               </div>
                             </div>
@@ -1953,7 +1961,7 @@ export default function PageContent() {
                                     },
                                   }}
                                 >
-                                  {"Email"}
+                                  {"Office Hours"}
                                 </p>
                               </div>
                               <div
@@ -1988,14 +1996,13 @@ export default function PageContent() {
                                 >
                                   <a
                                     {...{
-                                      href: "mailto:hello@elevra.com",
                                       style: {
                                         color: "inherit",
                                         textDecoration: "none",
                                       },
                                     }}
                                   >
-                                    {"hello@elevra.com"}
+                                    {"9:00 AM – 5:00 PM"}
                                   </a>
                                 </p>
                               </div>
@@ -2105,7 +2112,7 @@ export default function PageContent() {
                                     },
                                   }}
                                 >
-                                  {"Phone"}
+                                  {"Weekdays"}
                                 </p>
                               </div>
                               <div
@@ -2140,14 +2147,13 @@ export default function PageContent() {
                                 >
                                   <a
                                     {...{
-                                      href: "tel:+12345678910",
                                       style: {
                                         color: "inherit",
                                         textDecoration: "none",
                                       },
                                     }}
                                   >
-                                    {"+1 234 567 89 10"}
+                                    {"Monday – Friday"}
                                   </a>
                                 </p>
                               </div>
@@ -2279,10 +2285,6 @@ export default function PageContent() {
               className: "framer-19s2tuj-container",
               "data-framer-appear-id": "19s2tuj",
               style: { opacity: "1", transform: "none" },
-              "data-motion-reveal": "",
-              "data-motion-y": "0",
-              "data-motion-duration": "1000",
-              "data-motion-delay": "800",
             }}
           >
             <div {...{ className: "ssr-variant hidden-5lzm3m hidden-1d8k2m4" }}>

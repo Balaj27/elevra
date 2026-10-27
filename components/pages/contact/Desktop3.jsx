@@ -133,7 +133,7 @@ export default function Desktop3() {
                   },
                 }}
               >
-                {"Ready to Strategize "}
+                {"Ready to Discuss Your "}
                 <span
                   {...{
                     className: "framer-text",
@@ -143,7 +143,7 @@ export default function Desktop3() {
                     },
                   }}
                 >
-                  {"Your Next Move?"}
+                  {"Next Step?"}
                 </span>
               </h2>
             </div>
@@ -177,7 +177,7 @@ export default function Desktop3() {
                 }}
               >
                 {
-                  "Explore ideas that challenge assumptions and create better ways forward."
+                  "Explore our approach to accounting, tax, business support, and professional service."
                 }
               </p>
             </div>
@@ -427,13 +427,14 @@ export default function Desktop3() {
                   </Link>
                 </div>
                 <div {...{ className: "framer-14vwmty-container" }}>
-                  <a
+                  <Link
+                    prefetch={false}
                     {...{
                       className:
                         "framer-AdwHz framer-xuZuY framer-puOxE framer-qhn38m framer-v-qhn38m framer-8jd852",
                       "data-framer-name": "Light",
                       "data-highlight": "true",
-                      href: "https://elevra.framer.media/case-study",
+                      href: "/contact",
                       tabIndex: "0",
                     }}
                   >
@@ -462,7 +463,7 @@ export default function Desktop3() {
                         {"Case Studies"}
                       </p>
                     </div>
-                  </a>
+                  </Link>
                 </div>
                 <div {...{ className: "framer-113b52h-container" }}>
                   <Link
@@ -498,7 +499,7 @@ export default function Desktop3() {
                           },
                         }}
                       >
-                        {"Careers"}
+                        {"Our Approach"}
                       </p>
                     </div>
                   </Link>
@@ -539,13 +540,14 @@ export default function Desktop3() {
                 {...{ className: "framer-ur0arf", "data-framer-name": "Tabs" }}
               >
                 <div {...{ className: "framer-ft7hbv-container" }}>
-                  <a
+                  <Link
+                    prefetch={false}
                     {...{
                       className:
                         "framer-AdwHz framer-xuZuY framer-puOxE framer-qhn38m framer-v-qhn38m framer-8jd852",
                       "data-framer-name": "Light",
                       "data-highlight": "true",
-                      href: "https://elevra.framer.media/services/strategic-planning",
+                      href: "/services",
                       tabIndex: "0",
                     }}
                   >
@@ -571,19 +573,20 @@ export default function Desktop3() {
                           },
                         }}
                       >
-                        {"Strategy"}
+                        {"Accounting"}
                       </p>
                     </div>
-                  </a>
+                  </Link>
                 </div>
                 <div {...{ className: "framer-njlpu8-container" }}>
-                  <a
+                  <Link
+                    prefetch={false}
                     {...{
                       className:
                         "framer-AdwHz framer-xuZuY framer-puOxE framer-qhn38m framer-v-qhn38m framer-8jd852",
                       "data-framer-name": "Light",
                       "data-highlight": "true",
-                      href: "https://elevra.framer.media/services/financial-consulting",
+                      href: "/services",
                       tabIndex: "0",
                     }}
                   >
@@ -609,19 +612,20 @@ export default function Desktop3() {
                           },
                         }}
                       >
-                        {"Finance"}
+                        {"Tax"}
                       </p>
                     </div>
-                  </a>
+                  </Link>
                 </div>
                 <div {...{ className: "framer-gp7x1n-container" }}>
-                  <a
+                  <Link
+                    prefetch={false}
                     {...{
                       className:
                         "framer-AdwHz framer-xuZuY framer-puOxE framer-qhn38m framer-v-qhn38m framer-8jd852",
                       "data-framer-name": "Light",
                       "data-highlight": "true",
-                      href: "https://elevra.framer.media/services/operations-management",
+                      href: "/services",
                       tabIndex: "0",
                     }}
                   >
@@ -647,10 +651,10 @@ export default function Desktop3() {
                           },
                         }}
                       >
-                        {"Operations"}
+                        {"Business"}
                       </p>
                     </div>
-                  </a>
+                  </Link>
                 </div>
                 <div {...{ className: "framer-17a6hp7-container" }}>
                   <Link
@@ -809,13 +813,14 @@ export default function Desktop3() {
                   </Link>
                 </div>
                 <div {...{ className: "framer-6fvuah-container" }}>
-                  <a
+                  <Link
+                    prefetch={false}
                     {...{
                       className:
                         "framer-AdwHz framer-xuZuY framer-puOxE framer-qhn38m framer-v-qhn38m framer-8jd852",
                       "data-framer-name": "Light",
                       "data-highlight": "true",
-                      href: "https://elevra.framer.media/404",
+                      href: "/contact",
                       tabIndex: "0",
                     }}
                   >
@@ -844,7 +849,7 @@ export default function Desktop3() {
                         {"404"}
                       </p>
                     </div>
-                  </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -906,7 +911,7 @@ export default function Desktop3() {
                       },
                     }}
                   >
-                    {"hello@elevra.com"}
+                    {"9:00 AM – 5:00 PM"}
                   </p>
                 </div>
                 <div
@@ -934,7 +939,7 @@ export default function Desktop3() {
                       },
                     }}
                   >
-                    {"+1 234 567 89 10"}
+                    {"Monday – Friday"}
                   </p>
                 </div>
                 <div
@@ -962,7 +967,7 @@ export default function Desktop3() {
                       },
                     }}
                   >
-                    {"Aspen, Colorado, USA"}
+                    {"12808 W Airport Blvd Ste 310, Sugar Land, TX 77478"}
                   </p>
                 </div>
               </div>
@@ -984,107 +989,20 @@ export default function Desktop3() {
             }}
           >
             <div
-              {...{ className: "framer-1t1gd4k", "data-framer-name": "Logo" }}
+              {...{
+                className: "framer-1t1gd4k",
+                "data-framer-name": "Logo",
+                "data-copy-footer-logo": "",
+              }}
             >
-              <div
+              <img
                 {...{
-                  className: "framer-iky0nv",
-                  "data-framer-name": "Logo wrap",
+                  src: "/brand/s-mago-logo.png",
+                  alt: "S MAGO CPA, PC",
+                  width: "606",
+                  height: "158",
                 }}
-              >
-                <div
-                  {...{
-                    className: "framer-1itq1zx",
-                    "data-framer-name": "Image",
-                  }}
-                >
-                  <div
-                    {...{
-                      style: {
-                        position: "absolute",
-                        borderRadius: "inherit",
-                        cornerShape: "inherit",
-                        top: "0",
-                        right: "0",
-                        bottom: "0",
-                        left: "0",
-                      },
-                      "data-framer-background-image-wrapper": "true",
-                    }}
-                  >
-                    <img
-                      {...{
-                        decoding: "async",
-                        width: "1254",
-                        height: "1254",
-                        sizes:
-                          "(min-width: 1200px) max(14px, 160px), (max-width: 809.98px) max(14px, 120px), (min-width: 810px) and (max-width: 1199.98px) max(14px, 120px)",
-                        srcSet:
-                          "/assets/9289d8358afbbc44ee.png 512w,/assets/07eb7150e998372f64.png 1024w,/assets/0c7dcb48212699c5af.png 1254w",
-                        src: "/assets/0c7dcb48212699c5af.png",
-                        alt: "",
-                        style: {
-                          display: "block",
-                          width: "100%",
-                          height: "100%",
-                          borderRadius: "inherit",
-                          cornerShape: "inherit",
-                          objectPosition: "center",
-                          objectFit: "cover",
-                        },
-                        loading: "eager",
-                      }}
-                    />
-                  </div>
-                </div>
-              </div>
-              <svg
-                {...{
-                  className: "framer-1cq43in",
-                  "data-framer-component-type": "RichTextContainer",
-                  viewBox: "0 0 61.72 19",
-                  style: {
-                    "--extracted-r6o4lv":
-                      "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
-                    "--framer-link-text-color": "rgb(0, 153, 255)",
-                    "--framer-link-text-decoration": "underline",
-                    transform: "none",
-                  },
-                }}
-              >
-                <foreignObject
-                  {...{
-                    width: "100%",
-                    height: "100%",
-                    className: "framer-fit-text",
-                    transform: "scale(1)",
-                    style: {
-                      overflow: "visible",
-                      transformOrigin: "center center",
-                    },
-                  }}
-                >
-                  <p
-                    {...{
-                      dir: "auto",
-                      className: "framer-text",
-                      style: {
-                        "--font-selector": "RlI7SW50ZXJEaXNwbGF5LU1lZGl1bQ==",
-                        "--framer-font-family":
-                          '"Inter Display", "Inter Display Placeholder", sans-serif',
-                        "--framer-font-size": "24px",
-                        "--framer-font-weight": "500",
-                        "--framer-letter-spacing": "-0.03em",
-                        "--framer-line-height": "0.8em",
-                        "--framer-text-color":
-                          "var(--extracted-r6o4lv, var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255)))",
-                      },
-                    }}
-                  >
-                    {"Elevra"}
-                  </p>
-                </foreignObject>
-              </svg>
+              />
             </div>
             <div
               {...{
@@ -1149,7 +1067,7 @@ export default function Desktop3() {
                     }}
                   >
                     {
-                      "Join our newsletter to stay updated on strategy, finance, and operations insights."
+                      "Stay connected with our firm and learn about accounting, tax, and business services."
                     }
                   </p>
                 </div>
@@ -1305,7 +1223,7 @@ export default function Desktop3() {
                     },
                   }}
                 >
-                  {"© 2026 Elevra. All rights reserved."}
+                  {"© 2026 S MAGO CPA, PC. All rights reserved."}
                 </div>
               </div>
               <div
@@ -1333,17 +1251,18 @@ export default function Desktop3() {
                       },
                     }}
                   >
-                    {"Designed in Framer By"}
+                    {"Professional services by"}
                   </p>
                 </div>
                 <div {...{ className: "framer-115cvl0-container" }}>
-                  <a
+                  <Link
+                    prefetch={false}
                     {...{
                       className:
                         "framer-AdwHz framer-xuZuY framer-puOxE framer-qhn38m framer-v-qhn38m framer-8jd852",
                       "data-framer-name": "Light",
                       "data-highlight": "true",
-                      href: "https://www.framer.com/@arbi-khan/",
+                      href: "/contact",
                       tabIndex: "0",
                     }}
                   >
@@ -1369,10 +1288,10 @@ export default function Desktop3() {
                           },
                         }}
                       >
-                        {"Arbi Khan"}
+                        {"S MAGO CPA, PC"}
                       </p>
                     </div>
-                  </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -1380,13 +1299,14 @@ export default function Desktop3() {
               {...{ className: "framer-12hq1aj", "data-framer-name": "Link" }}
             >
               <div {...{ className: "framer-1rlrevn-container" }}>
-                <a
+                <Link
+                  prefetch={false}
                   {...{
                     className:
                       "framer-AdwHz framer-xuZuY framer-puOxE framer-qhn38m framer-v-qhn38m framer-8jd852",
                     "data-framer-name": "Light",
                     "data-highlight": "true",
-                    href: "https://elevra.framer.media/privcy-policy",
+                    href: "/contact",
                     tabIndex: "0",
                   }}
                 >
@@ -1415,16 +1335,17 @@ export default function Desktop3() {
                       {"Privacy Policy"}
                     </p>
                   </div>
-                </a>
+                </Link>
               </div>
               <div {...{ className: "framer-14dm1us-container" }}>
-                <a
+                <Link
+                  prefetch={false}
                   {...{
                     className:
                       "framer-AdwHz framer-xuZuY framer-puOxE framer-qhn38m framer-v-qhn38m framer-8jd852",
                     "data-framer-name": "Light",
                     "data-highlight": "true",
-                    href: "https://elevra.framer.media/terms-conditions",
+                    href: "/contact",
                     tabIndex: "0",
                   }}
                 >
@@ -1453,7 +1374,7 @@ export default function Desktop3() {
                       {"Term & condition"}
                     </p>
                   </div>
-                </a>
+                </Link>
               </div>
             </div>
             <div
@@ -1463,12 +1384,13 @@ export default function Desktop3() {
               }}
             >
               <div {...{ className: "framer-np1ylu-container" }}>
-                <a
+                <Link
+                  prefetch={false}
                   {...{
                     className:
                       "framer-59SSP framer-1wl70vc framer-v-1wl70vc framer-hk8i3y",
                     "data-framer-name": "Desktop",
-                    href: "https://x.com/ArbiDesign03",
+                    href: "/contact",
                     style: {
                       backgroundColor:
                         "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
@@ -1494,15 +1416,16 @@ export default function Desktop3() {
                   >
                     <use {...{ href: "#1688045918" }}></use>
                   </svg>
-                </a>
+                </Link>
               </div>
               <div {...{ className: "framer-q9kfbd-container" }}>
-                <a
+                <Link
+                  prefetch={false}
                   {...{
                     className:
                       "framer-59SSP framer-1wl70vc framer-v-1wl70vc framer-hk8i3y",
                     "data-framer-name": "Desktop",
-                    href: "https://x.com/ArbiDesign03",
+                    href: "/contact",
                     style: {
                       backgroundColor:
                         "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
@@ -1528,15 +1451,16 @@ export default function Desktop3() {
                   >
                     <use {...{ href: "#4229695659" }}></use>
                   </svg>
-                </a>
+                </Link>
               </div>
               <div {...{ className: "framer-16wctme-container" }}>
-                <a
+                <Link
+                  prefetch={false}
                   {...{
                     className:
                       "framer-59SSP framer-1wl70vc framer-v-1wl70vc framer-hk8i3y",
                     "data-framer-name": "Desktop",
-                    href: "https://www.framer.com/@arbi-khan/",
+                    href: "/contact",
                     style: {
                       backgroundColor:
                         "var(--token-95f89e2c-d1c8-4223-a2ec-3a2897e45fb5, rgb(255, 255, 255))",
@@ -1562,7 +1486,7 @@ export default function Desktop3() {
                   >
                     <use {...{ href: "#1403532491" }}></use>
                   </svg>
-                </a>
+                </Link>
               </div>
             </div>
           </div>

@@ -96,7 +96,7 @@ export default function Hero2() {
                       },
                     }}
                   >
-                    {"Elevra Insight"}
+                    {"Firm Insights"}
                   </p>
                 </div>
               </div>
@@ -116,7 +116,7 @@ export default function Hero2() {
                   style: { "--framer-text-alignment": "center" },
                 }}
               >
-                {"Ideas that move "}
+                {"Ideas for a clearer "}
                 <span
                   {...{
                     style: {
@@ -126,7 +126,7 @@ export default function Hero2() {
                     className: "framer-text",
                   }}
                 >
-                  {"business forward."}
+                  {"financial picture."}
                 </span>
               </h1>
             </div>
@@ -150,7 +150,7 @@ export default function Hero2() {
                 }}
               >
                 {
-                  "Practical perspectives on strategy, finance, operations, and sustainable growth."
+                  "Explore our services and our personal approach to working with individuals and businesses."
                 }
               </p>
             </div>
@@ -163,10 +163,11 @@ export default function Hero2() {
           }}
         >
           <div {...{ className: "framer-1exzqir" }}>
-            <a
+            <Link
+              prefetch={false}
               {...{
                 className: "framer-15czgt9 framer-kcwgve",
-                href: "https://elevra.framer.media/insights/staying-informed-while-the-market-moves",
+                href: "/insights/a-clearer-picture-of-your-business",
                 "data-insight-category": "Industry News",
               }}
             >
@@ -405,7 +406,7 @@ export default function Hero2() {
                               },
                             }}
                           >
-                            {"Apr 30, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -436,14 +437,16 @@ export default function Hero2() {
                             },
                           }}
                         >
-                          {"Staying Informed While the Market Moves"}
+                          {
+                            "A clearer picture of your business starts with the numbers."
+                          }
                         </h4>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </a>
+            </Link>
           </div>
         </div>
       </div>

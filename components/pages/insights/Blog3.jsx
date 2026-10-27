@@ -354,10 +354,11 @@ export default function Blog3() {
           }}
         >
           <div {...{ className: "framer-3oebs8" }}>
-            <a
+            <Link
+              prefetch={false}
               {...{
                 className: "framer-11fau9a framer-kcwgve",
-                href: "https://elevra.framer.media/insights/why-strategy-fails-without-execution-support",
+                href: "/insights/a-personal-approach-to-tax-services",
                 "data-insight-category": "Business",
               }}
             >
@@ -597,7 +598,7 @@ export default function Blog3() {
                               },
                             }}
                           >
-                            {"Sep 16, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -626,7 +627,7 @@ export default function Blog3() {
                             },
                           }}
                         >
-                          {"Why Strategy Fails Without Execution Support"}
+                          {"A personal approach to tax services."}
                         </h5>
                       </div>
                     </div>
@@ -867,7 +868,7 @@ export default function Blog3() {
                               },
                             }}
                           >
-                            {"Sep 16, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -896,18 +897,19 @@ export default function Blog3() {
                             },
                           }}
                         >
-                          {"Why Strategy Fails Without Execution Support"}
+                          {"A personal approach to tax services."}
                         </h5>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </a>
-            <a
+            </Link>
+            <Link
+              prefetch={false}
               {...{
                 className: "framer-11fau9a framer-kcwgve",
-                href: "https://elevra.framer.media/insights/what-rising-interest-rates-mean-for-mid-market-growth",
+                href: "/insights/support-for-your-next-business-chapter",
                 "data-insight-category": "Industry News",
               }}
             >
@@ -1147,7 +1149,7 @@ export default function Blog3() {
                               },
                             }}
                           >
-                            {"Apr 19, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -1176,9 +1178,7 @@ export default function Blog3() {
                             },
                           }}
                         >
-                          {
-                            "What Rising Interest Rates Mean for Mid-Market Growth"
-                          }
+                          {"Support for your next business chapter."}
                         </h5>
                       </div>
                     </div>
@@ -1419,7 +1419,7 @@ export default function Blog3() {
                               },
                             }}
                           >
-                            {"Apr 19, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -1448,20 +1448,19 @@ export default function Blog3() {
                             },
                           }}
                         >
-                          {
-                            "What Rising Interest Rates Mean for Mid-Market Growth"
-                          }
+                          {"Support for your next business chapter."}
                         </h5>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </a>
-            <a
+            </Link>
+            <Link
+              prefetch={false}
               {...{
                 className: "framer-11fau9a framer-kcwgve",
-                href: "https://elevra.framer.media/insights/the-leadership-habit-that-quietly-kills-team-autonomy",
+                href: "/insights/a-confidential-conversation-about-irs-matters",
                 "data-insight-category": "Leadership",
               }}
             >
@@ -1701,7 +1700,7 @@ export default function Blog3() {
                               },
                             }}
                           >
-                            {"Aug 28, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -1730,9 +1729,7 @@ export default function Blog3() {
                             },
                           }}
                         >
-                          {
-                            "The Leadership Habit That Quietly Kills Team Autonomy"
-                          }
+                          {"A confidential conversation about IRS matters."}
                         </h5>
                       </div>
                     </div>
@@ -1973,7 +1970,7 @@ export default function Blog3() {
                               },
                             }}
                           >
-                            {"Aug 28, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -2002,20 +1999,19 @@ export default function Blog3() {
                             },
                           }}
                         >
-                          {
-                            "The Leadership Habit That Quietly Kills Team Autonomy"
-                          }
+                          {"A confidential conversation about IRS matters."}
                         </h5>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </a>
-            <a
+            </Link>
+            <Link
+              prefetch={false}
               {...{
                 className: "framer-11fau9a framer-kcwgve",
-                href: "https://elevra.framer.media/insights/when-growth-plans-ignore-capacity",
+                href: "/insights/a-clearer-picture-of-your-business",
                 "data-insight-category": "Growth",
               }}
             >
@@ -2255,7 +2251,7 @@ export default function Blog3() {
                               },
                             }}
                           >
-                            {"Mar 14, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -2284,7 +2280,9 @@ export default function Blog3() {
                             },
                           }}
                         >
-                          {"When Growth Plans Ignore Capacity"}
+                          {
+                            "A clearer picture of your business starts with the numbers."
+                          }
                         </h5>
                       </div>
                     </div>
@@ -2525,7 +2523,7 @@ export default function Blog3() {
                               },
                             }}
                           >
-                            {"Mar 14, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -2554,18 +2552,21 @@ export default function Blog3() {
                             },
                           }}
                         >
-                          {"When Growth Plans Ignore Capacity"}
+                          {
+                            "A clearer picture of your business starts with the numbers."
+                          }
                         </h5>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </a>
-            <a
+            </Link>
+            <Link
+              prefetch={false}
               {...{
                 className: "framer-11fau9a framer-kcwgve",
-                href: "https://elevra.framer.media/insights/the-forecast-that-never-matches-reality",
+                href: "/insights/a-personal-approach-to-tax-services",
                 "data-insight-category": "Business",
               }}
             >
@@ -2805,7 +2806,7 @@ export default function Blog3() {
                               },
                             }}
                           >
-                            {"Sep 24, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -2834,7 +2835,7 @@ export default function Blog3() {
                             },
                           }}
                         >
-                          {"The Forecast That Never Matches Reality"}
+                          {"A personal approach to tax services."}
                         </h5>
                       </div>
                     </div>
@@ -3075,7 +3076,7 @@ export default function Blog3() {
                               },
                             }}
                           >
-                            {"Sep 24, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -3104,18 +3105,19 @@ export default function Blog3() {
                             },
                           }}
                         >
-                          {"The Forecast That Never Matches Reality"}
+                          {"A personal approach to tax services."}
                         </h5>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </a>
-            <a
+            </Link>
+            <Link
+              prefetch={false}
               {...{
                 className: "framer-11fau9a framer-kcwgve",
-                href: "https://elevra.framer.media/insights/the-cost-of-delaying-a-hard-conversation",
+                href: "/insights/support-for-your-next-business-chapter",
                 "data-insight-category": "Leadership",
               }}
             >
@@ -3355,7 +3357,7 @@ export default function Blog3() {
                               },
                             }}
                           >
-                            {"Sep 6, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -3384,7 +3386,7 @@ export default function Blog3() {
                             },
                           }}
                         >
-                          {"The Cost of Delaying a Hard Conversation"}
+                          {"Support for your next business chapter."}
                         </h5>
                       </div>
                     </div>
@@ -3625,7 +3627,7 @@ export default function Blog3() {
                               },
                             }}
                           >
-                            {"Sep 6, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -3654,18 +3656,19 @@ export default function Blog3() {
                             },
                           }}
                         >
-                          {"The Cost of Delaying a Hard Conversation"}
+                          {"Support for your next business chapter."}
                         </h5>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </a>
-            <a
+            </Link>
+            <Link
+              prefetch={false}
               {...{
                 className: "framer-11fau9a framer-kcwgve",
-                href: "https://elevra.framer.media/insights/the-real-cost-of-slow-decision-making",
+                href: "/insights/a-confidential-conversation-about-irs-matters",
                 "data-insight-category": "Growth",
               }}
             >
@@ -3905,7 +3908,7 @@ export default function Blog3() {
                               },
                             }}
                           >
-                            {"Sep 21, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -3934,7 +3937,7 @@ export default function Blog3() {
                             },
                           }}
                         >
-                          {"The Real Cost of Slow Decision-Making"}
+                          {"A confidential conversation about IRS matters."}
                         </h5>
                       </div>
                     </div>
@@ -4175,7 +4178,7 @@ export default function Blog3() {
                               },
                             }}
                           >
-                            {"Sep 21, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -4204,18 +4207,19 @@ export default function Blog3() {
                             },
                           }}
                         >
-                          {"The Real Cost of Slow Decision-Making"}
+                          {"A confidential conversation about IRS matters."}
                         </h5>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </a>
-            <a
+            </Link>
+            <Link
+              prefetch={false}
               {...{
                 className: "framer-11fau9a framer-kcwgve",
-                href: "https://elevra.framer.media/insights/marketing-without-a-sales-handoff-is-just-noise",
+                href: "/insights/a-clearer-picture-of-your-business",
                 "data-insight-category": "Marketing",
               }}
             >
@@ -4455,7 +4459,7 @@ export default function Blog3() {
                               },
                             }}
                           >
-                            {"May 5, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -4484,7 +4488,9 @@ export default function Blog3() {
                             },
                           }}
                         >
-                          {"Marketing Without a Sales Handoff Is Just Noise"}
+                          {
+                            "A clearer picture of your business starts with the numbers."
+                          }
                         </h5>
                       </div>
                     </div>
@@ -4725,7 +4731,7 @@ export default function Blog3() {
                               },
                             }}
                           >
-                            {"May 5, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -4754,18 +4760,21 @@ export default function Blog3() {
                             },
                           }}
                         >
-                          {"Marketing Without a Sales Handoff Is Just Noise"}
+                          {
+                            "A clearer picture of your business starts with the numbers."
+                          }
                         </h5>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </a>
-            <a
+            </Link>
+            <Link
+              prefetch={false}
               {...{
                 className: "framer-11fau9a framer-kcwgve",
-                href: "https://elevra.framer.media/insights/the-process-that-outlived-its-purpose",
+                href: "/insights/a-personal-approach-to-tax-services",
                 "data-insight-category": "Business",
               }}
             >
@@ -5005,7 +5014,7 @@ export default function Blog3() {
                               },
                             }}
                           >
-                            {"Sep 24, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -5034,7 +5043,7 @@ export default function Blog3() {
                             },
                           }}
                         >
-                          {"The Process That Outlived Its Purpose"}
+                          {"A personal approach to tax services."}
                         </h5>
                       </div>
                     </div>
@@ -5275,7 +5284,7 @@ export default function Blog3() {
                               },
                             }}
                           >
-                            {"Sep 24, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -5304,14 +5313,14 @@ export default function Blog3() {
                             },
                           }}
                         >
-                          {"The Process That Outlived Its Purpose"}
+                          {"A personal approach to tax services."}
                         </h5>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </a>
+            </Link>
           </div>
         </div>
       </div>

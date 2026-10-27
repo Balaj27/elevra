@@ -6,6 +6,9 @@ import prettier from 'prettier';
 import postcss from 'postcss';
 import { resolveHref } from '../lib/routes.mjs';
 import { annotateMotion } from './motion-data.mjs';
+import { applyFirmCopy } from './firm-copy.mjs';
+import { writeGenerated } from './write-generated.mjs';
+import {firm} from '../lib/firm-content.js';
 
 const pages = ['about', 'services', 'insights', 'contact'];
 const voidTags = new Set(['area','base','br','col','embed','hr','img','input','meta','param','source','track','wbr']);
@@ -32,8 +35,8 @@ for (const slug of pages) {
     } catch (error) { console.warn(`${slug}: using supplied capture (${error.message})`); }
   }
   const $ = load(source);
-  const title = $('title').text();
-  const description = $('meta[name="description"]').attr('content') || '';
+  const title = firm.name+' | '+slug.charAt(0).toUpperCase()+slug.slice(1);
+  const description = firm.description;
   let css = $('style').map((_, e) => $(e).text()).get().join('\n');
   annotateMotion($);
   $('script,link,style,noscript,#__framer-editorbar,#__framer-badge-container').remove();
@@ -88,6 +91,7 @@ for (const slug of pages) {
     }
   });
 
+  applyFirmCopy($,slug);
   const urls = [...new Set([...(css + $.html()).matchAll(assetPattern)].map(m=>m[0].replaceAll('&amp;','&')))];
   const pending = [...urls];
   await Promise.all(Array.from({length:6},async()=>{
@@ -126,7 +130,7 @@ for (const slug of pages) {
   });
   await fs.mkdir(`app/${slug}`,{recursive:true});
   await fs.mkdir(`components/pages/${slug}`,{recursive:true});
-  await fs.writeFile(`app/${slug}/design.css`,cssTree.toString());
+  await writeGenerated(`app/${slug}/design.css`,cssTree.toString());
 
   const replacements = new Map();
   function jsx(node) {
@@ -157,7 +161,7 @@ for (const slug of pages) {
     const label=$(node).attr('data-framer-name') || node.tagName;
     const name=(label.replace(/[^a-zA-Z0-9]+(.)/g,(_,c)=>c.toUpperCase()).replace(/[^a-zA-Z0-9]/g,'') || 'Section').replace(/^./,c=>c.toUpperCase())+index;
     const markup=jsx(node);
-    await fs.writeFile(`components/pages/${slug}/${name}.jsx`,await prettier.format(`import Link from 'next/link'; export default function ${name}(){return (${markup});}`,{parser:'babel'}));
+    await writeGenerated(`components/pages/${slug}/${name}.jsx`,await prettier.format(`import Link from 'next/link'; export default function ${name}(){return (${markup});}`,{parser:'babel'}));
     replacements.set(node,name);
     imports.push(`import ${name} from './${name}';`);
   }
@@ -165,11 +169,11 @@ for (const slug of pages) {
   if(!root) throw new Error(`Missing page content in ${slug}`);
   const svg=$('#svg-templates')[0];
   const markup=`<div data-elevra-page="${slug}">${jsx(root)}${svg?jsx(svg):''}</div>`;
-  await fs.writeFile(`components/pages/${slug}/PageContent.jsx`,await prettier.format(`import Link from 'next/link';${imports.join('\n')} export default function PageContent(){return (${markup});}`,{parser:'babel'}));
-  const pageCode=`import './design.css'; import PageContent from '../../components/pages/${slug}/PageContent'; import Interactions from '../../components/Interactions'; export const metadata=${JSON.stringify({title,description})}; export default function Page(){return <><PageContent/><Interactions/></>;}`;
-  await fs.writeFile(`app/${slug}/page.jsx`,await prettier.format(pageCode,{parser:'babel'}));
+  await writeGenerated(`components/pages/${slug}/PageContent.jsx`,await prettier.format(`import Link from 'next/link';${imports.join('\n')} export default function PageContent(){return (${markup});}`,{parser:'babel'}));
+  const pageCode=`import './design.css'; import PageContent from '../../components/pages/${slug}/PageContent'; import Interactions from '../../components/Interactions'; import SeoSchema from '../../components/SeoSchema'; import {pageMetadata} from '../../lib/seo.mjs'; export const metadata=pageMetadata('/${slug}'); export default function Page(){return <><SeoSchema path="/${slug}"/><PageContent/><Interactions/></>;}`;
+  await writeGenerated(`app/${slug}/page.jsx`,await prettier.format(pageCode,{parser:'babel'}));
   report.push({route:`/${slug}`,title,components:imports.length,assets:urls.length});
   console.log(`Converted /${slug}: ${imports.length} components, ${urls.length} local asset references.`);
 }
-await fs.writeFile('public/assets/manifest.json',JSON.stringify(manifest,null,2));
-await fs.writeFile('reference/routes.json',JSON.stringify(report,null,2));
+await writeGenerated('public/assets/manifest.json',JSON.stringify(manifest,null,2));
+await writeGenerated('reference/routes.json',JSON.stringify(report,null,2));

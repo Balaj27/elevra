@@ -99,7 +99,7 @@ export default function Testimonial8() {
                         },
                       }}
                     >
-                      {"Testimonial"}
+                      {"Our Commitment"}
                     </p>
                   </div>
                 </div>
@@ -119,7 +119,7 @@ export default function Testimonial8() {
                   dir: "auto",
                 }}
               >
-                {"Real Perspectives "}
+                {"Professional Values That "}
                 <span
                   {...{
                     style: {
@@ -129,7 +129,7 @@ export default function Testimonial8() {
                     className: "framer-text",
                   }}
                 >
-                  {"From Our Clients"}
+                  {"Guide Our Work"}
                 </span>
               </h2>
             </div>
@@ -157,7 +157,7 @@ export default function Testimonial8() {
                 }}
               >
                 {
-                  "Real experiences from businesses that trusted us with their challenges."
+                  "Professionalism, responsiveness, and quality are at the heart of our client relationships."
                 }
               </p>
             </div>
@@ -279,7 +279,7 @@ export default function Testimonial8() {
                             },
                           }}
                         >
-                          {"Daniel Carter"}
+                          {"Professionalism"}
                         </p>
                       </div>
                       <div
@@ -308,7 +308,7 @@ export default function Testimonial8() {
                             },
                           }}
                         >
-                          {"Founder, Northfield"}
+                          {"Our commitment"}
                         </p>
                       </div>
                     </div>
@@ -488,7 +488,7 @@ export default function Testimonial8() {
                       }}
                     >
                       {
-                        "“Elevra gave us the clarity we needed to make better decisions and move forward with confidence.”"
+                        "Our combination of professionalism and the energy of our staff shapes the way we work. We hold our ethics and workmanship to high standards, so each client benefits from attentive, professional service."
                       }
                     </h6>
                   </div>
@@ -601,7 +601,7 @@ export default function Testimonial8() {
                             },
                           }}
                         >
-                          {"Daniel Carter"}
+                          {"Professionalism"}
                         </p>
                       </div>
                       <div
@@ -630,7 +630,7 @@ export default function Testimonial8() {
                             },
                           }}
                         >
-                          {"Founder, Northfield"}
+                          {"Our commitment"}
                         </p>
                       </div>
                     </div>
@@ -810,7 +810,7 @@ export default function Testimonial8() {
                       }}
                     >
                       {
-                        "“Elevra gave us the clarity we needed to make better decisions and move forward with confidence.”"
+                        "Our combination of professionalism and the energy of our staff shapes the way we work. We hold our ethics and workmanship to high standards, so each client benefits from attentive, professional service."
                       }
                     </h6>
                   </div>
@@ -923,7 +923,7 @@ export default function Testimonial8() {
                             },
                           }}
                         >
-                          {"Sophia Bennett"}
+                          {"Responsiveness"}
                         </p>
                       </div>
                       <div
@@ -952,7 +952,7 @@ export default function Testimonial8() {
                             },
                           }}
                         >
-                          {"CEO, Ashgrove Group"}
+                          {"Our approach"}
                         </p>
                       </div>
                     </div>
@@ -1132,7 +1132,7 @@ export default function Testimonial8() {
                       }}
                     >
                       {
-                        "“They helped us turn a complex growth problem into a clear, practical strategy our team could actually execute.”"
+                        "We build close, transparent relationships with our clients. By understanding your questions and priorities, we provide practical guidance and keep communication clear throughout our work together."
                       }
                     </h6>
                   </div>
@@ -1245,7 +1245,7 @@ export default function Testimonial8() {
                             },
                           }}
                         >
-                          {"Sophia Bennett"}
+                          {"Responsiveness"}
                         </p>
                       </div>
                       <div
@@ -1274,7 +1274,7 @@ export default function Testimonial8() {
                             },
                           }}
                         >
-                          {"CEO, Ashgrove Group"}
+                          {"Our approach"}
                         </p>
                       </div>
                     </div>
@@ -1454,7 +1454,7 @@ export default function Testimonial8() {
                       }}
                     >
                       {
-                        "“They helped us turn a complex growth problem into a clear, practical strategy our team could actually execute.”"
+                        "We build close, transparent relationships with our clients. By understanding your questions and priorities, we provide practical guidance and keep communication clear throughout our work together."
                       }
                     </h6>
                   </div>
@@ -1569,7 +1569,7 @@ export default function Testimonial8() {
                           },
                         }}
                       >
-                        {"Marcus Reed"}
+                        {"Quality"}
                       </p>
                     </div>
                     <div
@@ -1597,7 +1597,7 @@ export default function Testimonial8() {
                           },
                         }}
                       >
-                        {"COO, Halden Co."}
+                        {"Our priority"}
                       </p>
                     </div>
                   </div>
@@ -1777,7 +1777,7 @@ export default function Testimonial8() {
                     }}
                   >
                     {
-                      "“From strategy to execution, Elevra brought structure to our operations and helped us build a stronger business.”"
+                      "We are committed to providing quality services at an affordable cost. Our approach is efficient, dependable, and grounded in the needs of each individual and business we serve."
                     }
                   </h6>
                 </div>
@@ -1844,7 +1844,7 @@ export default function Testimonial8() {
                             },
                           }}
                         >
-                          {"4.9"}
+                          {"4"}
                         </h3>
                       </div>
                       <div
@@ -1872,7 +1872,7 @@ export default function Testimonial8() {
                             },
                           }}
                         >
-                          {"/5"}
+                          {"areas"}
                         </h5>
                       </div>
                     </div>
@@ -1911,10 +1911,10 @@ export default function Testimonial8() {
                             },
                           }}
                         >
-                          {"50+ projects "}
+                          {"Four core service "}
                         </span>
                         {
-                          "helping companies make smarter decisions, improve operations, and build sustainable growth."
+                          "areas for individuals and businesses: accounting, tax, business services, and IRS representation."
                         }
                       </p>
                     </div>
@@ -2265,7 +2265,7 @@ export default function Testimonial8() {
                               },
                             }}
                           >
-                            {"Trusted by ambitious teams worldwide"}
+                            {"Personal attention. Professional service."}
                           </p>
                         </div>
                       </div>
@@ -2330,7 +2330,7 @@ export default function Testimonial8() {
                               },
                             }}
                           >
-                            {"Work With Elevra"}
+                            {"Work With Our Firm"}
                           </p>
                         </div>
                         <div
@@ -2375,7 +2375,7 @@ export default function Testimonial8() {
                               },
                             }}
                           >
-                            {"Work With Elevra"}
+                            {"Work With Our Firm"}
                           </p>
                         </div>
                       </Link>
@@ -2512,7 +2512,7 @@ export default function Testimonial8() {
                             },
                           }}
                         >
-                          {"4.9"}
+                          {"4"}
                         </h3>
                       </div>
                       <div
@@ -2540,7 +2540,7 @@ export default function Testimonial8() {
                             },
                           }}
                         >
-                          {"/5"}
+                          {"areas"}
                         </h5>
                       </div>
                     </div>
@@ -2579,10 +2579,10 @@ export default function Testimonial8() {
                             },
                           }}
                         >
-                          {"50+ projects "}
+                          {"Four core service "}
                         </span>
                         {
-                          "helping companies make smarter decisions, improve operations, and build sustainable growth."
+                          "areas for individuals and businesses: accounting, tax, business services, and IRS representation."
                         }
                       </p>
                     </div>
@@ -2933,7 +2933,7 @@ export default function Testimonial8() {
                               },
                             }}
                           >
-                            {"Trusted by ambitious teams worldwide"}
+                            {"Personal attention. Professional service."}
                           </p>
                         </div>
                       </div>
@@ -2998,7 +2998,7 @@ export default function Testimonial8() {
                               },
                             }}
                           >
-                            {"Work With Elevra"}
+                            {"Work With Our Firm"}
                           </p>
                         </div>
                         <div
@@ -3043,7 +3043,7 @@ export default function Testimonial8() {
                               },
                             }}
                           >
-                            {"Work With Elevra"}
+                            {"Work With Our Firm"}
                           </p>
                         </div>
                       </Link>

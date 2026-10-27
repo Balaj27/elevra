@@ -5,6 +5,8 @@ import { attributesToProps } from 'html-react-parser';
 import prettier from 'prettier';
 import { resolveHref } from '../lib/routes.mjs';
 import { annotateMotion } from './motion-data.mjs';
+import { applyFirmCopy } from './firm-copy.mjs';
+import { writeGenerated } from './write-generated.mjs';
 
 const source = await fs.readFile('reference/original.html', 'utf8').catch(() => fs.readFile('index.html', 'utf8'));
 const $ = load(source);
@@ -61,6 +63,7 @@ $('nav a[href*="/case-study"]').each((_,link)=>{
  if(parent.attr('class')?.includes('-container') && parent.children().length===1) parent.remove(); else $(link).remove();
 });
 
+applyFirmCopy($,'home');
 const urls = new Set();
 const assetPattern = /https:\/\/framerusercontent\.com\/(?:images|assets|third-party-assets)\/[^\s"'<>),]+/g;
 for (const match of (css + $.html()).matchAll(assetPattern)) urls.add(match[0].replaceAll('&amp;', '&'));
@@ -92,13 +95,13 @@ await Promise.all(Array.from({length: 6}, async () => {
  }
 }));
 console.log(`Saved ${completed} image and font assets.`);
-await fs.writeFile('public/assets/manifest.json', JSON.stringify(manifest, null, 2));
+await writeGenerated('public/assets/manifest.json', JSON.stringify(manifest, null, 2));
 function localize(value) {
  for (const [remote, local] of Object.entries(manifest).sort((a,b) => b[0].length-a[0].length)) value = value.replaceAll(remote, local);
  return value;
 }
 css = localize(css);
-await fs.writeFile('app/design.css', css);
+await writeGenerated('app/design.css', css);
 const replacements = new Map();
 const voidTags = new Set(['area','base','br','col','embed','hr','img','input','meta','param','source','track','wbr']);
 function jsx(node) {
@@ -119,7 +122,7 @@ function jsx(node) {
 }
 async function saveComponent(name, node) {
  const code = `import Link from 'next/link';\nexport default function ${name}() { return (${jsx(node)}); }`;
- await fs.writeFile(`components/sections/${name}.jsx`, await prettier.format(code, { parser: 'babel' }));
+ await writeGenerated(`components/sections/${name}.jsx`, await prettier.format(code, { parser: 'babel' }));
  replacements.set(node, name);
 }
 const names = {'Hero section':'Hero','Who we are':'About','Brands':'Brands','Service':'Services','Why us':'WhyUs','Process':'Process','Industries':'Industries','Case study':'CaseStudy','Testimonial':'Testimonials','FAQ':'Faq','Insights':'Insights'};
@@ -146,5 +149,5 @@ if (svgDefinitions) {
  imports.push("import SvgDefinitions from './sections/SvgDefinitions';");
 }
 const pageCode = `import Link from 'next/link';\n${imports.join('\n')}\nexport default function ElevraPage() { return (<>${jsx(main)}${svgDefinitions ? '<SvgDefinitions />' : ''}</>); }`;
-await fs.writeFile('components/ElevraPage.jsx', await prettier.format(pageCode, { parser:'babel' }));
+await writeGenerated('components/ElevraPage.jsx', await prettier.format(pageCode, { parser:'babel' }));
 console.log(`Generated ${imports.length} React section components.`);

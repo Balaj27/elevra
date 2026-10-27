@@ -1,25 +1,25 @@
 [
   {
     "route": "/about",
-    "title": "About Elevra | Strategy, Finance & Operations Consultants",
+    "title": "S MAGO CPA, PC | About",
     "components": 13,
     "assets": 94
   },
   {
     "route": "/services",
-    "title": "Business Consulting Services | Elevra",
+    "title": "S MAGO CPA, PC | Services",
     "components": 9,
-    "assets": 96
+    "assets": 93
   },
   {
     "route": "/insights",
-    "title": "Insights on Strategy, Finance & Operations | Elevra",
+    "title": "S MAGO CPA, PC | Insights",
     "components": 7,
     "assets": 100
   },
   {
     "route": "/contact",
-    "title": "Contact Elevra | Talk to a Business Consultant",
+    "title": "S MAGO CPA, PC | Contact",
     "components": 6,
     "assets": 74
   }

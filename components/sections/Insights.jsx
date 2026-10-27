@@ -99,7 +99,7 @@ export default function Insights() {
                         },
                       }}
                     >
-                      {"Elevra Insights"}
+                      {"Firm Insights"}
                     </p>
                   </div>
                 </div>
@@ -119,7 +119,7 @@ export default function Insights() {
                   dir: "auto",
                 }}
               >
-                {"Insights Built Around Real "}
+                {"Insights for Your Financial "}
                 <span
                   {...{
                     style: {
@@ -129,7 +129,7 @@ export default function Insights() {
                     className: "framer-text",
                   }}
                 >
-                  {"Business Challenges"}
+                  {"World"}
                 </span>
               </h2>
             </div>
@@ -157,7 +157,7 @@ export default function Insights() {
                 }}
               >
                 {
-                  "Explore ideas that challenge assumptions and create better ways forward."
+                  "Explore our approach to accounting, tax, business support, and professional service."
                 }
               </p>
             </div>
@@ -174,10 +174,11 @@ export default function Insights() {
           }}
         >
           <div {...{ className: "ssr-variant hidden-qr4xh1" }}>
-            <a
+            <Link
+              prefetch={false}
               {...{
                 className: "framer-1wm4kfk framer-lux5qc",
-                href: "https://elevra.framer.media/insights/staying-informed-while-the-market-moves",
+                href: "/insights/a-clearer-picture-of-your-business",
               }}
             >
               <div {...{ className: "ssr-variant hidden-1fgkepf" }}>
@@ -401,7 +402,7 @@ export default function Insights() {
                               },
                             }}
                           >
-                            {"Apr 30, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -430,7 +431,9 @@ export default function Insights() {
                             },
                           }}
                         >
-                          {"Staying Informed While the Market Moves"}
+                          {
+                            "A clearer picture of your business starts with the numbers."
+                          }
                         </h5>
                       </div>
                     </div>
@@ -658,7 +661,7 @@ export default function Insights() {
                               },
                             }}
                           >
-                            {"Apr 30, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -687,18 +690,21 @@ export default function Insights() {
                             },
                           }}
                         >
-                          {"Staying Informed While the Market Moves"}
+                          {
+                            "A clearer picture of your business starts with the numbers."
+                          }
                         </h5>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </a>
-            <a
+            </Link>
+            <Link
+              prefetch={false}
               {...{
                 className: "framer-1wm4kfk framer-lux5qc",
-                href: "https://elevra.framer.media/insights/why-strategy-fails-without-execution-support",
+                href: "/insights/a-personal-approach-to-tax-services",
               }}
             >
               <div {...{ className: "ssr-variant hidden-1fgkepf" }}>
@@ -922,7 +928,7 @@ export default function Insights() {
                               },
                             }}
                           >
-                            {"Sep 16, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -951,7 +957,7 @@ export default function Insights() {
                             },
                           }}
                         >
-                          {"Why Strategy Fails Without Execution Support"}
+                          {"A personal approach to tax services."}
                         </h5>
                       </div>
                     </div>
@@ -1179,7 +1185,7 @@ export default function Insights() {
                               },
                             }}
                           >
-                            {"Sep 16, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -1208,18 +1214,19 @@ export default function Insights() {
                             },
                           }}
                         >
-                          {"Why Strategy Fails Without Execution Support"}
+                          {"A personal approach to tax services."}
                         </h5>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </a>
-            <a
+            </Link>
+            <Link
+              prefetch={false}
               {...{
                 className: "framer-1wm4kfk framer-lux5qc",
-                href: "https://elevra.framer.media/insights/what-rising-interest-rates-mean-for-mid-market-growth",
+                href: "/insights/support-for-your-next-business-chapter",
               }}
             >
               <div {...{ className: "ssr-variant hidden-1fgkepf" }}>
@@ -1443,7 +1450,7 @@ export default function Insights() {
                               },
                             }}
                           >
-                            {"Apr 19, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -1472,9 +1479,7 @@ export default function Insights() {
                             },
                           }}
                         >
-                          {
-                            "What Rising Interest Rates Mean for Mid-Market Growth"
-                          }
+                          {"Support for your next business chapter."}
                         </h5>
                       </div>
                     </div>
@@ -1702,7 +1707,7 @@ export default function Insights() {
                               },
                             }}
                           >
-                            {"Apr 19, 2026"}
+                            {"Firm Insight"}
                           </p>
                         </div>
                       </div>
@@ -1731,22 +1736,21 @@ export default function Insights() {
                             },
                           }}
                         >
-                          {
-                            "What Rising Interest Rates Mean for Mid-Market Growth"
-                          }
+                          {"Support for your next business chapter."}
                         </h5>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </a>
+            </Link>
           </div>
           <div {...{ className: "ssr-variant hidden-1fgkepf hidden-72rtr7" }}>
-            <a
+            <Link
+              prefetch={false}
               {...{
                 className: "framer-1wm4kfk framer-lux5qc",
-                href: "https://elevra.framer.media/insights/staying-informed-while-the-market-moves",
+                href: "/insights/a-confidential-conversation-about-irs-matters",
               }}
             >
               <div {...{ className: "framer-9h283d-container" }}>
@@ -1965,7 +1969,7 @@ export default function Insights() {
                             },
                           }}
                         >
-                          {"Apr 30, 2026"}
+                          {"Firm Insight"}
                         </p>
                       </div>
                     </div>
@@ -1993,17 +1997,18 @@ export default function Insights() {
                           },
                         }}
                       >
-                        {"Staying Informed While the Market Moves"}
+                        {"A confidential conversation about IRS matters."}
                       </h5>
                     </div>
                   </div>
                 </div>
               </div>
-            </a>
-            <a
+            </Link>
+            <Link
+              prefetch={false}
               {...{
                 className: "framer-1wm4kfk framer-lux5qc",
-                href: "https://elevra.framer.media/insights/why-strategy-fails-without-execution-support",
+                href: "/insights/a-clearer-picture-of-your-business",
               }}
             >
               <div {...{ className: "framer-9h283d-container" }}>
@@ -2222,7 +2227,7 @@ export default function Insights() {
                             },
                           }}
                         >
-                          {"Sep 16, 2026"}
+                          {"Firm Insight"}
                         </p>
                       </div>
                     </div>
@@ -2250,13 +2255,15 @@ export default function Insights() {
                           },
                         }}
                       >
-                        {"Why Strategy Fails Without Execution Support"}
+                        {
+                          "A clearer picture of your business starts with the numbers."
+                        }
                       </h5>
                     </div>
                   </div>
                 </div>
               </div>
-            </a>
+            </Link>
           </div>
         </div>
       </div>

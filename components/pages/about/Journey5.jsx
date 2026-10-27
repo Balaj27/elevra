@@ -99,7 +99,7 @@ export default function Journey5() {
                         },
                       }}
                     >
-                      {"Elevra Journey"}
+                      {"Our Approach"}
                     </p>
                   </div>
                 </div>
@@ -120,7 +120,7 @@ export default function Journey5() {
                   style: { "--framer-text-alignment": "center" },
                 }}
               >
-                {"Experience That Moves "}
+                {"A Relationship Built Around "}
                 <span
                   {...{
                     style: {
@@ -130,7 +130,7 @@ export default function Journey5() {
                     className: "framer-text",
                   }}
                 >
-                  {"Business Forward"}
+                  {"Your Needs"}
                 </span>
               </h2>
             </div>
@@ -154,7 +154,7 @@ export default function Journey5() {
                 }}
               >
                 {
-                  "A look at the milestones that shaped Elevra and continue to move us forward."
+                  "From understanding your needs to providing responsive professional support."
                 }
               </p>
             </div>
@@ -218,7 +218,7 @@ export default function Journey5() {
                         },
                       }}
                     >
-                      {" The Beginning"}
+                      {"The Conversation"}
                     </p>
                   </div>
                   <div
@@ -272,7 +272,7 @@ export default function Journey5() {
                         },
                       }}
                     >
-                      {"2018"}
+                      {"01"}
                     </p>
                   </div>
                 </div>
@@ -321,7 +321,7 @@ export default function Journey5() {
                         },
                       }}
                     >
-                      {"Building Expertise"}
+                      {"Understanding Your Needs"}
                     </p>
                   </div>
                   <div
@@ -375,7 +375,7 @@ export default function Journey5() {
                         },
                       }}
                     >
-                      {"2020"}
+                      {"02"}
                     </p>
                   </div>
                 </div>
@@ -424,7 +424,7 @@ export default function Journey5() {
                         },
                       }}
                     >
-                      {"Growing Our Impact"}
+                      {"Organizing the Work"}
                     </p>
                   </div>
                   <div
@@ -478,7 +478,7 @@ export default function Journey5() {
                         },
                       }}
                     >
-                      {"2022"}
+                      {"03"}
                     </p>
                   </div>
                 </div>
@@ -527,7 +527,7 @@ export default function Journey5() {
                         },
                       }}
                     >
-                      {"Going Further"}
+                      {"Professional Support"}
                     </p>
                   </div>
                   <div
@@ -581,7 +581,7 @@ export default function Journey5() {
                         },
                       }}
                     >
-                      {"2024"}
+                      {"04"}
                     </p>
                   </div>
                 </div>
@@ -630,7 +630,7 @@ export default function Journey5() {
                         },
                       }}
                     >
-                      {"A Global Ambition"}
+                      {"A Continuing Relationship"}
                     </p>
                   </div>
                   <div
@@ -684,7 +684,7 @@ export default function Journey5() {
                         },
                       }}
                     >
-                      {"2026"}
+                      {"05"}
                     </p>
                   </div>
                 </div>
@@ -761,7 +761,7 @@ export default function Journey5() {
                           },
                         }}
                       >
-                        {"2018"}
+                        {"01"}
                       </p>
                     </div>
                   </div>
@@ -796,7 +796,7 @@ export default function Journey5() {
                           },
                         }}
                       >
-                        {" The Beginning"}
+                        {"The Conversation"}
                       </p>
                     </div>
                     <div
@@ -825,7 +825,7 @@ export default function Journey5() {
                         }}
                       >
                         {
-                          "Elevra begins with a simple goal: help businesses make smarter, more confident decisions."
+                          "We begin with a conversation about your situation and the services you would like to discuss."
                         }
                       </p>
                     </div>
@@ -891,7 +891,7 @@ export default function Journey5() {
                           },
                         }}
                       >
-                        {"2018"}
+                        {"01"}
                       </p>
                     </div>
                   </div>
@@ -926,7 +926,7 @@ export default function Journey5() {
                           },
                         }}
                       >
-                        {" The Beginning"}
+                        {"The Conversation"}
                       </p>
                     </div>
                     <div
@@ -955,7 +955,7 @@ export default function Journey5() {
                         }}
                       >
                         {
-                          "Elevra begins with a simple goal: help businesses make smarter, more confident decisions."
+                          "We begin with a conversation about your situation and the services you would like to discuss."
                         }
                       </p>
                     </div>
@@ -1021,7 +1021,7 @@ export default function Journey5() {
                           },
                         }}
                       >
-                        {"2020"}
+                        {"02"}
                       </p>
                     </div>
                   </div>
@@ -1056,7 +1056,7 @@ export default function Journey5() {
                           },
                         }}
                       >
-                        {"Building Expertise"}
+                        {"Understanding Your Needs"}
                       </p>
                     </div>
                     <div
@@ -1085,7 +1085,7 @@ export default function Journey5() {
                         }}
                       >
                         {
-                          "We expand our expertise across strategy, operations, and business transformation."
+                          "We take time to understand your circumstances, business operations, and priorities."
                         }
                       </p>
                     </div>
@@ -1151,7 +1151,7 @@ export default function Journey5() {
                           },
                         }}
                       >
-                        {"2020"}
+                        {"02"}
                       </p>
                     </div>
                   </div>
@@ -1186,7 +1186,7 @@ export default function Journey5() {
                           },
                         }}
                       >
-                        {"Building Expertise"}
+                        {"Understanding Your Needs"}
                       </p>
                     </div>
                     <div
@@ -1215,7 +1215,7 @@ export default function Journey5() {
                         }}
                       >
                         {
-                          "We expand our expertise across strategy, operations, and business transformation."
+                          "We take time to understand your circumstances, business operations, and priorities."
                         }
                       </p>
                     </div>
@@ -1281,7 +1281,7 @@ export default function Journey5() {
                           },
                         }}
                       >
-                        {"2022"}
+                        {"03"}
                       </p>
                     </div>
                   </div>
@@ -1316,7 +1316,7 @@ export default function Journey5() {
                           },
                         }}
                       >
-                        {"Growing Our Impact"}
+                        {"Organizing the Work"}
                       </p>
                     </div>
                     <div
@@ -1345,7 +1345,7 @@ export default function Journey5() {
                         }}
                       >
                         {
-                          "More businesses turn to Elevra to solve complex challenges and unlock new opportunities."
+                          "We discuss a scope of work and the information involved in moving forward."
                         }
                       </p>
                     </div>
@@ -1411,7 +1411,7 @@ export default function Journey5() {
                           },
                         }}
                       >
-                        {"2022"}
+                        {"03"}
                       </p>
                     </div>
                   </div>
@@ -1446,7 +1446,7 @@ export default function Journey5() {
                           },
                         }}
                       >
-                        {"Growing Our Impact"}
+                        {"Organizing the Work"}
                       </p>
                     </div>
                     <div
@@ -1475,7 +1475,7 @@ export default function Journey5() {
                         }}
                       >
                         {
-                          "More businesses turn to Elevra to solve complex challenges and unlock new opportunities."
+                          "We discuss a scope of work and the information involved in moving forward."
                         }
                       </p>
                     </div>
@@ -1541,7 +1541,7 @@ export default function Journey5() {
                           },
                         }}
                       >
-                        {"2024"}
+                        {"04"}
                       </p>
                     </div>
                   </div>
@@ -1576,7 +1576,7 @@ export default function Journey5() {
                           },
                         }}
                       >
-                        {"Going Further"}
+                        {"Professional Support"}
                       </p>
                     </div>
                     <div
@@ -1605,7 +1605,7 @@ export default function Journey5() {
                         }}
                       >
                         {
-                          "We deepen our approach, combining strategic insight with practical solutions built for lasting growth."
+                          "We bring professional attention to the accounting, tax, business, or IRS matters within your engagement."
                         }
                       </p>
                     </div>
@@ -1671,7 +1671,7 @@ export default function Journey5() {
                           },
                         }}
                       >
-                        {"2024"}
+                        {"04"}
                       </p>
                     </div>
                   </div>
@@ -1706,7 +1706,7 @@ export default function Journey5() {
                           },
                         }}
                       >
-                        {"Going Further"}
+                        {"Professional Support"}
                       </p>
                     </div>
                     <div
@@ -1735,7 +1735,7 @@ export default function Journey5() {
                         }}
                       >
                         {
-                          "We deepen our approach, combining strategic insight with practical solutions built for lasting growth."
+                          "We bring professional attention to the accounting, tax, business, or IRS matters within your engagement."
                         }
                       </p>
                     </div>
@@ -1801,7 +1801,7 @@ export default function Journey5() {
                           },
                         }}
                       >
-                        {"2026"}
+                        {"05"}
                       </p>
                     </div>
                   </div>
@@ -1836,7 +1836,7 @@ export default function Journey5() {
                           },
                         }}
                       >
-                        {"A Global Ambition"}
+                        {"A Continuing Relationship"}
                       </p>
                     </div>
                     <div
@@ -1865,7 +1865,7 @@ export default function Journey5() {
                         }}
                       >
                         {
-                          "Elevra continues helping businesses worldwide navigate change, grow stronger, and build what comes next."
+                          "We stay responsive to questions and value close, transparent client relationships."
                         }
                       </p>
                     </div>
@@ -1931,7 +1931,7 @@ export default function Journey5() {
                           },
                         }}
                       >
-                        {"2026"}
+                        {"05"}
                       </p>
                     </div>
                   </div>
@@ -1966,7 +1966,7 @@ export default function Journey5() {
                           },
                         }}
                       >
-                        {"A Global Ambition"}
+                        {"A Continuing Relationship"}
                       </p>
                     </div>
                     <div
@@ -1995,7 +1995,7 @@ export default function Journey5() {
                         }}
                       >
                         {
-                          "Elevra continues helping businesses worldwide navigate change, grow stronger, and build what comes next."
+                          "We stay responsive to questions and value close, transparent client relationships."
                         }
                       </p>
                     </div>

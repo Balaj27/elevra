@@ -99,7 +99,7 @@ export default function CaseStudy4() {
                         },
                       }}
                     >
-                      {"Case Study"}
+                      {"How We Help"}
                     </p>
                   </div>
                 </div>
@@ -119,7 +119,7 @@ export default function CaseStudy4() {
                   dir: "auto",
                 }}
               >
-                {"What Better Strategy "}
+                {"A Clearer Financial Picture "}
                 <span
                   {...{
                     style: {
@@ -129,7 +129,7 @@ export default function CaseStudy4() {
                     className: "framer-text",
                   }}
                 >
-                  {"Looks Like in Practice"}
+                  {"for Your Business"}
                 </span>
               </h2>
             </div>
@@ -157,7 +157,7 @@ export default function CaseStudy4() {
                 }}
               >
                 {
-                  "A closer look at the challenges we solved and the results we delivered."
+                  "Accounting and business support focused on organization, clarity, and confidence."
                 }
               </p>
             </div>
@@ -430,7 +430,7 @@ export default function CaseStudy4() {
                                   },
                                 }}
                               >
-                                {"400 employees"}
+                                {"Nationwide Service"}
                               </p>
                             </div>
                           </div>
@@ -462,7 +462,7 @@ export default function CaseStudy4() {
                             }}
                           >
                             {
-                              "How Northfield cut client onboarding time by 62% in four months"
+                              "Professional accounting support for your next business chapter"
                             }
                           </h4>
                         </div>
@@ -486,7 +486,7 @@ export default function CaseStudy4() {
                             }}
                           >
                             {
-                              "Fragmented handoffs and duplicate documentation were bleeding time out of every engagement."
+                              "We help business owners understand their numbers and build a dependable financial foundation."
                             }
                           </p>
                         </div>
@@ -582,7 +582,7 @@ export default function CaseStudy4() {
                                     }}
                                   >
                                     {
-                                      "Fragmented handoffs between sales and delivery teams"
+                                      "Financial information that needs greater structure"
                                     }
                                   </p>
                                 </div>
@@ -678,7 +678,7 @@ export default function CaseStudy4() {
                                     }}
                                   >
                                     {
-                                      "Unified onboarding playbook with automated triggers"
+                                      "Personalized accounting and business support"
                                     }
                                   </p>
                                 </div>
@@ -693,12 +693,13 @@ export default function CaseStudy4() {
                           }}
                         >
                           <div {...{ className: "framer-1vm9ncl-container" }}>
-                            <a
+                            <Link
+                              prefetch={false}
                               {...{
                                 className:
                                   "framer-3AhIS framer-FrbCk framer-zbc3f0 framer-v-zbc3f0 framer-14xmqu0",
                                 "data-framer-name": "Button",
-                                href: "https://elevra.framer.media/case-study/northfield",
+                                href: "/contact",
                                 style: {
                                   width: "100%",
                                   borderBottomLeftRadius: "8px",
@@ -753,7 +754,7 @@ export default function CaseStudy4() {
                                     },
                                   }}
                                 >
-                                  {"View Case Study"}
+                                  {"Discuss Your Needs"}
                                 </p>
                               </div>
                               <div
@@ -801,10 +802,10 @@ export default function CaseStudy4() {
                                     },
                                   }}
                                 >
-                                  {"View Case Study"}
+                                  {"Discuss Your Needs"}
                                 </p>
                               </div>
-                            </a>
+                            </Link>
                           </div>
                           <div
                             {...{
@@ -854,7 +855,7 @@ export default function CaseStudy4() {
                                   },
                                 }}
                               >
-                                {"4-month engagement"}
+                                {"Personal attention"}
                               </p>
                             </div>
                           </div>
@@ -910,14 +911,12 @@ export default function CaseStudy4() {
                                 <img
                                   {...{
                                     decoding: "async",
-                                    width: "1462",
-                                    height: "293",
+                                    width: "606",
+                                    height: "158",
                                     sizes:
                                       "(min-width: 1200px) 80px, (min-width: 810px) and (max-width: 1199.98px) 80px, (max-width: 809.98px) 80px",
-                                    srcSet:
-                                      "/assets/3d54095dfcc3b6be49.png 512w,/assets/0d5993233264c008d7.png 1024w,/assets/4849a379f86d940bb5.png 1462w",
-                                    src: "/assets/4849a379f86d940bb5.png",
-                                    alt: "",
+                                    src: "/brand/s-mago-logo.png",
+                                    alt: "S MAGO CPA, PC",
                                     style: {
                                       display: "block",
                                       width: "100%",
@@ -958,7 +957,7 @@ export default function CaseStudy4() {
                                 },
                               }}
                             >
-                              {"- Case study"}
+                              {"S MAGO CPA, PC"}
                             </p>
                           </div>
                         </div>
@@ -1111,7 +1110,7 @@ export default function CaseStudy4() {
                                   },
                                 }}
                               >
-                                {"62%"}
+                                {"4"}
                               </p>
                               <p
                                 {...{
@@ -1134,7 +1133,7 @@ export default function CaseStudy4() {
                                   },
                                 }}
                               >
-                                {"62%"}
+                                {"4"}
                               </p>
                             </div>
                             <div
@@ -1158,7 +1157,9 @@ export default function CaseStudy4() {
                                   dir: "auto",
                                 }}
                               >
-                                {"Down from 47 days to 18 per account."}
+                                {
+                                  "Four core service areas, one professional relationship."
+                                }
                               </p>
                             </div>
                           </div>
@@ -1209,7 +1210,7 @@ export default function CaseStudy4() {
                                   },
                                 }}
                               >
-                                {"3.3x"}
+                                {"2"}
                               </p>
                               <p
                                 {...{
@@ -1232,7 +1233,7 @@ export default function CaseStudy4() {
                                   },
                                 }}
                               >
-                                {"3.3x"}
+                                {"2"}
                               </p>
                             </div>
                             <div
@@ -1256,7 +1257,7 @@ export default function CaseStudy4() {
                                   dir: "auto",
                                 }}
                               >
-                                {"Day-30 survey scores after go-live."}
+                                {"Offices in Sugar Land and Austin, Texas."}
                               </p>
                             </div>
                           </div>
@@ -1525,7 +1526,7 @@ export default function CaseStudy4() {
                                   },
                                 }}
                               >
-                                {"400 employees"}
+                                {"Nationwide Service"}
                               </p>
                             </div>
                           </div>
@@ -1557,7 +1558,7 @@ export default function CaseStudy4() {
                             }}
                           >
                             {
-                              "How Northfield cut client onboarding time by 62% in four months"
+                              "Professional accounting support for your next business chapter"
                             }
                           </h4>
                         </div>
@@ -1581,7 +1582,7 @@ export default function CaseStudy4() {
                             }}
                           >
                             {
-                              "Fragmented handoffs and duplicate documentation were bleeding time out of every engagement."
+                              "We help business owners understand their numbers and build a dependable financial foundation."
                             }
                           </p>
                         </div>
@@ -1599,12 +1600,13 @@ export default function CaseStudy4() {
                           }}
                         >
                           <div {...{ className: "framer-1vm9ncl-container" }}>
-                            <a
+                            <Link
+                              prefetch={false}
                               {...{
                                 className:
                                   "framer-3AhIS framer-FrbCk framer-zbc3f0 framer-v-17ff84l framer-14xmqu0",
                                 "data-framer-name": "Button only text",
-                                href: "https://elevra.framer.media/case-study/northfield",
+                                href: "/contact",
                                 style: {
                                   width: "100%",
                                   borderBottomLeftRadius: "8px",
@@ -1659,7 +1661,7 @@ export default function CaseStudy4() {
                                     },
                                   }}
                                 >
-                                  {"View Case Study"}
+                                  {"Discuss Your Needs"}
                                 </p>
                               </div>
                               <div
@@ -1707,10 +1709,10 @@ export default function CaseStudy4() {
                                     },
                                   }}
                                 >
-                                  {"View Case Study"}
+                                  {"Discuss Your Needs"}
                                 </p>
                               </div>
-                            </a>
+                            </Link>
                           </div>
                           <div
                             {...{
@@ -1760,7 +1762,7 @@ export default function CaseStudy4() {
                                   },
                                 }}
                               >
-                                {"4-month engagement"}
+                                {"Personal attention"}
                               </p>
                             </div>
                           </div>
@@ -1816,14 +1818,12 @@ export default function CaseStudy4() {
                                 <img
                                   {...{
                                     decoding: "async",
-                                    width: "1462",
-                                    height: "293",
+                                    width: "606",
+                                    height: "158",
                                     sizes:
                                       "(min-width: 1200px) 80px, (min-width: 810px) and (max-width: 1199.98px) 80px, (max-width: 809.98px) 80px",
-                                    srcSet:
-                                      "/assets/3d54095dfcc3b6be49.png 512w,/assets/0d5993233264c008d7.png 1024w,/assets/4849a379f86d940bb5.png 1462w",
-                                    src: "/assets/4849a379f86d940bb5.png",
-                                    alt: "",
+                                    src: "/brand/s-mago-logo.png",
+                                    alt: "S MAGO CPA, PC",
                                     style: {
                                       display: "block",
                                       width: "100%",
@@ -1864,7 +1864,7 @@ export default function CaseStudy4() {
                                 },
                               }}
                             >
-                              {"- Case study"}
+                              {"S MAGO CPA, PC"}
                             </p>
                           </div>
                         </div>
@@ -2017,7 +2017,7 @@ export default function CaseStudy4() {
                                   },
                                 }}
                               >
-                                {"62%"}
+                                {"4"}
                               </p>
                               <p
                                 {...{
@@ -2040,7 +2040,7 @@ export default function CaseStudy4() {
                                   },
                                 }}
                               >
-                                {"62%"}
+                                {"4"}
                               </p>
                             </div>
                             <div
@@ -2064,7 +2064,9 @@ export default function CaseStudy4() {
                                   dir: "auto",
                                 }}
                               >
-                                {"Down from 47 days to 18 per account."}
+                                {
+                                  "Four core service areas, one professional relationship."
+                                }
                               </p>
                             </div>
                           </div>
@@ -2115,7 +2117,7 @@ export default function CaseStudy4() {
                                   },
                                 }}
                               >
-                                {"3.3x"}
+                                {"2"}
                               </p>
                               <p
                                 {...{
@@ -2138,7 +2140,7 @@ export default function CaseStudy4() {
                                   },
                                 }}
                               >
-                                {"3.3x"}
+                                {"2"}
                               </p>
                             </div>
                             <div
@@ -2162,7 +2164,7 @@ export default function CaseStudy4() {
                                   dir: "auto",
                                 }}
                               >
-                                {"Day-30 survey scores after go-live."}
+                                {"Offices in Sugar Land and Austin, Texas."}
                               </p>
                             </div>
                           </div>
@@ -2431,7 +2433,7 @@ export default function CaseStudy4() {
                                   },
                                 }}
                               >
-                                {"400 employees"}
+                                {"Nationwide Service"}
                               </p>
                             </div>
                           </div>
@@ -2463,7 +2465,7 @@ export default function CaseStudy4() {
                             }}
                           >
                             {
-                              "How Northfield cut client onboarding time by 62% in four months"
+                              "Professional accounting support for your next business chapter"
                             }
                           </h4>
                         </div>
@@ -2487,7 +2489,7 @@ export default function CaseStudy4() {
                             }}
                           >
                             {
-                              "Fragmented handoffs and duplicate documentation were bleeding time out of every engagement."
+                              "We help business owners understand their numbers and build a dependable financial foundation."
                             }
                           </p>
                         </div>
@@ -2505,12 +2507,13 @@ export default function CaseStudy4() {
                           }}
                         >
                           <div {...{ className: "framer-1vm9ncl-container" }}>
-                            <a
+                            <Link
+                              prefetch={false}
                               {...{
                                 className:
                                   "framer-3AhIS framer-FrbCk framer-zbc3f0 framer-v-17ff84l framer-14xmqu0",
                                 "data-framer-name": "Button only text",
-                                href: "https://elevra.framer.media/case-study/northfield",
+                                href: "/contact",
                                 style: {
                                   width: "100%",
                                   borderBottomLeftRadius: "8px",
@@ -2565,7 +2568,7 @@ export default function CaseStudy4() {
                                     },
                                   }}
                                 >
-                                  {"View Case Study"}
+                                  {"Discuss Your Needs"}
                                 </p>
                               </div>
                               <div
@@ -2613,10 +2616,10 @@ export default function CaseStudy4() {
                                     },
                                   }}
                                 >
-                                  {"View Case Study"}
+                                  {"Discuss Your Needs"}
                                 </p>
                               </div>
-                            </a>
+                            </Link>
                           </div>
                           <div
                             {...{
@@ -2666,7 +2669,7 @@ export default function CaseStudy4() {
                                   },
                                 }}
                               >
-                                {"4-month engagement"}
+                                {"Personal attention"}
                               </p>
                             </div>
                           </div>
@@ -2722,14 +2725,12 @@ export default function CaseStudy4() {
                                 <img
                                   {...{
                                     decoding: "async",
-                                    width: "1462",
-                                    height: "293",
+                                    width: "606",
+                                    height: "158",
                                     sizes:
                                       "(min-width: 1200px) 80px, (min-width: 810px) and (max-width: 1199.98px) 80px, (max-width: 809.98px) 80px",
-                                    srcSet:
-                                      "/assets/3d54095dfcc3b6be49.png 512w,/assets/0d5993233264c008d7.png 1024w,/assets/4849a379f86d940bb5.png 1462w",
-                                    src: "/assets/4849a379f86d940bb5.png",
-                                    alt: "",
+                                    src: "/brand/s-mago-logo.png",
+                                    alt: "S MAGO CPA, PC",
                                     style: {
                                       display: "block",
                                       width: "100%",
@@ -2770,7 +2771,7 @@ export default function CaseStudy4() {
                                 },
                               }}
                             >
-                              {"- Case study"}
+                              {"S MAGO CPA, PC"}
                             </p>
                           </div>
                         </div>

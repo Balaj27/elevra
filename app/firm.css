@@ -1,0 +1,223 @@
+:root { --firm-navy:#092a61;--firm-ink:#212d3d;--firm-muted:#838d99;--firm-paper:#f2f4f6; }
+body { background:var(--firm-paper);color:var(--firm-ink);font-family:'Inter Display',sans-serif;font-size:16px; }
+.firm-page,.firm-footer { max-width:1440px;margin:0 auto; }
+.firm-page { padding:80px 32px 0; }
+.firm-page h1,.firm-page h2,.firm-footer h2 { font-family:'Plus Jakarta Sans',sans-serif;font-weight:400;letter-spacing:-.055em;line-height:1.12; }
+.firm-page h1 { font-size:64px; }
+.firm-page h2,.firm-footer h2 { font-size:48px; }
+.firm-page h1 span,.firm-page h2 span { color:var(--firm-muted); }
+.firm-page h3 { font-family:'Plus Jakarta Sans',sans-serif;font-size:26px;font-weight:400;letter-spacing:-.045em;line-height:1.25; }
+.firm-page p { line-height:1.65;color:#687484; }
+.firm-header { position:fixed;inset:0 0 auto;z-index:100;max-width:1440px;height:80px;margin:auto;padding:16px 32px;display:flex;align-items:center;justify-content:space-between;background:#f2f4f6f5;backdrop-filter:blur(14px);gap:28px; }
+.firm-logo { display:block;width:240px;height:auto;max-width:100%;object-fit:contain; }
+.firm-logo-light { filter:brightness(0) invert(1); }
+.firm-desktop-nav { display:flex;gap:26px;align-items:center; }
+.firm-desktop-nav a { color:var(--firm-ink);text-decoration:none;font-size:16px; }
+.firm-desktop-nav a:hover { color:var(--firm-navy); }
+.firm-menu-toggle { display:none;border:0;background:none;padding:4px;color:var(--firm-ink);cursor:pointer; }
+.firm-button { display:inline-flex;align-items:center;justify-content:center;gap:14px;width:fit-content;max-width:100%;min-height:46px;padding:13px 22px;border:0;border-radius:100px;background:var(--firm-navy);color:white;text-decoration:none;font:500 15px 'Inter Display',sans-serif;line-height:1.3;cursor:pointer;transition:background .25s,transform .25s; }
+.firm-button:hover { background:#183e7d;transform:translateY(-2px); }
+.firm-button-light { background:white;color:var(--firm-ink); }
+.firm-button-light:hover { background:#e6ebf1; }
+.firm-eyebrow { display:flex;align-items:center;gap:7px;color:inherit;font-size:13px;line-height:1.5;letter-spacing:-.02em; }
+.firm-eyebrow > span { color:var(--firm-navy);font-size:17px; }
+.firm-section { margin:0 0 130px;scroll-margin-top:105px; }
+.firm-section-heading { max-width:770px;margin:0 auto 56px;text-align:center; }
+.firm-section-heading .firm-eyebrow,.firm-page-hero .firm-eyebrow { justify-content:center;margin-bottom:18px; }
+.firm-section-heading p { margin:20px auto 0;max-width:620px; }
+.firm-home-hero { padding:80px 0 0;margin-bottom:130px; }
+.firm-hero-heading { display:grid;grid-template-columns:1.3fr 1fr;gap:80px;align-items:center;margin-bottom:64px; }
+.firm-hero-intro { max-width:500px;justify-self:end; }
+.firm-button-row { display:flex;gap:12px;flex-wrap:wrap;margin-top:26px; }
+.firm-hero-cards { display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px; }
+.firm-hero-cards > div { min-height:440px;border-radius:16px;overflow:hidden; }
+.firm-hero-photo img { width:100%;height:100%;object-fit:cover; }
+.firm-hero-fact { background:white;padding:24px;display:flex;flex-direction:column;align-items:flex-start; }
+.firm-hero-fact >span { font-size:14px; }
+.firm-hero-fact strong { font:400 100px/1.2 'Plus Jakarta Sans',sans-serif;letter-spacing:-.08em;margin:12px 0; }
+.firm-hero-fact h2 { font-size:28px;letter-spacing:-.045em;margin-bottom:auto; }
+.firm-hero-fact p { margin-top:24px; }
+.firm-hero-fact a { margin-top:18px;color:var(--firm-navy);font-size:14px;text-decoration:none; }
+.firm-hero-feature { background:linear-gradient(160deg,#082d63,#0f4f7c);padding:32px;display:flex;flex-direction:column;justify-content:center;align-items:flex-start;gap:24px;color:white; }
+.firm-hero-feature .firm-eyebrow >span { color:#c8dff5; }
+.firm-hero-feature h2 { font-size:34px;letter-spacing:-.05em; }
+.firm-hero-feature p { color:#d2deeb; }
+.firm-about-preview,.firm-two-column { display:grid;grid-template-columns:1fr 1fr;gap:80px; }
+.firm-about-preview .firm-eyebrow,.firm-two-column .firm-eyebrow { margin-bottom:20px; }
+.firm-about-preview .firm-button { margin-top:28px; }
+.firm-values-mini { display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:40px; }
+.firm-values-mini >div { padding:18px;background:white;border-radius:12px; }
+.firm-values-mini span { display:block;color:var(--firm-navy);margin-bottom:18px; }
+.firm-values-mini h3 { font:15px 'Inter Display',sans-serif;letter-spacing:-.03em; }
+.firm-service-list { display:grid;gap:12px; }
+.firm-service-card { display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.65fr);background:white;border-radius:16px;overflow:hidden;scroll-margin-top:110px; }
+.firm-service-image { min-height:410px;position:relative;overflow:hidden; }
+.firm-service-image >img { position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform .8s cubic-bezier(.22,1,.36,1); }
+.firm-service-card:hover .firm-service-image >img { transform:scale(1.025); }
+.firm-image-note { position:absolute;bottom:20px;left:20px;right:20px;max-width:320px;padding:20px;background:#0a2d626e;backdrop-filter:blur(16px);color:white;border:1px solid #fff5;border-radius:10px; }
+.firm-image-note p { color:white;margin-top:18px;font-size:20px;line-height:1.3; }
+.firm-image-note .firm-eyebrow >span { color:white; }
+.firm-service-copy { padding:30px;display:flex;flex-direction:column;align-items:flex-start; }
+.firm-index { color:#8b95a1;font-size:14px;margin-bottom:14px; }
+.firm-service-copy h3 { font-size:32px;margin-bottom:12px; }
+.firm-service-copy >p { max-width:620px; }
+.firm-service-offerings { margin-top:auto;padding-top:30px; }
+.firm-service-offerings >span { font-size:14px; }
+.firm-chips { display:flex;gap:8px;flex-wrap:wrap;margin-top:12px; }
+.firm-chips span { border:1px solid #d8dfe7;border-radius:100px;font-size:12px;padding:6px 10px;color:#5f6b7a; }
+.firm-service-copy .firm-button { margin-top:20px;width:100%; }
+.firm-why-grid { display:grid;grid-template-columns:1.1fr 1fr;gap:80px; }
+.firm-why-grid >p { font-size:19px; }
+.firm-why-grid >div { background:white;padding:32px;border-radius:16px; }
+.firm-why-grid h3 { margin-bottom:24px; }
+.firm-why-grid ul { padding-left:20px;line-height:2;color:#667382; }
+.firm-industry-grid { display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px; }
+.firm-industry-card { background:white;padding:30px;border-radius:16px; }
+.firm-industry-icon { display:grid;place-items:center;background:var(--firm-navy);color:white;width:50px;height:50px;border-radius:50%;font-size:14px;margin-bottom:36px; }
+.firm-industry-card h3 { font-size:24px;margin-bottom:16px; }
+.firm-industry-card p { font-size:15px; }
+.firm-consultation { display:flex;align-items:center;justify-content:space-between;gap:32px;background:#e6ecf3;border:1px solid #d7e0ec;border-radius:16px;padding:48px;margin-bottom:130px; }
+.firm-consultation .firm-eyebrow { margin-bottom:20px; }
+.firm-consultation h2 { font-size:38px; }
+.firm-faq-list { max-width:810px;margin:auto;display:grid;gap:10px; }
+.firm-faq-list details { background:white;padding:24px;border-radius:12px; }
+.firm-faq-list summary { display:flex;align-items:center;justify-content:space-between;gap:24px;list-style:none;cursor:pointer;line-height:1.5; }
+.firm-faq-list summary::-webkit-details-marker { display:none; }
+.firm-faq-list summary >span { font-size:22px;transition:transform .25s; }
+.firm-faq-list details[open] summary >span { transform:rotate(45deg); }
+.firm-faq-list details p { margin-top:18px; }
+.firm-insight-grid { display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px; }
+.firm-insight-card a { color:inherit;text-decoration:none;display:block; }
+.firm-insight-image { height:270px;position:relative;border-radius:16px;overflow:hidden;margin-bottom:22px; }
+.firm-insight-image img { width:100%;height:100%;object-fit:cover;transition:transform .6s; }
+.firm-insight-card:hover img { transform:scale(1.04); }
+.firm-insight-image >span { position:absolute;top:16px;left:16px;border-radius:100px;background:white;padding:6px 10px;font-size:12px; }
+.firm-insight-card h3 { font-size:24px;margin-bottom:12px; }
+.firm-insight-card p { font-size:15px; }
+.firm-text-link { display:inline-block;margin-top:20px;font-size:14px;color:var(--firm-navy); }
+.firm-page-hero { text-align:center;max-width:870px;margin:48px auto 64px;padding-top:12px; }
+.firm-page-hero h1 { margin-bottom:24px; }
+.firm-page-hero p { max-width:650px;margin:0 auto; }
+.firm-page-hero h1 span { display:block; }
+.firm-about-banner { height:470px;border-radius:16px;overflow:hidden;margin-bottom:100px; }
+.firm-about-banner img { width:100%;height:100%;object-fit:cover; }
+.firm-prose p+p { margin-top:22px; }
+.firm-values-grid { display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px; }
+.firm-values-grid >article { padding:32px;background:white;border-radius:16px; }
+.firm-values-grid h3 { margin:24px 0 20px; }
+.firm-services-page { margin-top:80px; }
+.firm-industries-page { margin-top:80px; }
+.firm-contact-layout { display:grid;grid-template-columns:1fr 1.3fr;gap:48px;align-items:start;margin:70px 0 110px; }
+.firm-contact-aside h2 { font-size:36px;margin:20px 0 28px; }
+.firm-office-grid { display:grid;gap:12px;margin-top:38px; }
+.firm-office-grid >div { background:white;border-radius:12px;padding:22px; }
+.firm-office-grid >div >span { display:block;color:#7b8795;font-size:14px;margin-bottom:10px; }
+.firm-office-grid p { color:var(--firm-ink); }
+.firm-form-card { background:white;border-radius:16px;padding:32px; }
+.firm-form-grid { display:grid;grid-template-columns:1fr 1fr;gap:24px; }
+.firm-contact-form label { display:flex;flex-wrap:wrap;gap:8px;font-size:14px;line-height:1.5; }
+.firm-contact-form label >span { color:var(--firm-navy); }
+.firm-contact-form input,.firm-contact-form select,.firm-contact-form textarea { display:block;width:100%;border:1px solid transparent;border-radius:8px;padding:14px;font:16px 'Inter Display',sans-serif;color:var(--firm-ink);background:var(--firm-paper);min-width:0; }
+.firm-contact-form textarea { resize:vertical;min-height:180px; }
+.firm-form-wide { grid-column:1 / -1; }
+.firm-form-note { font-size:13px;margin:22px 0; }
+.firm-contact-form .firm-button { width:100%; }
+.firm-location-section { display:grid;grid-template-columns:1fr 1.5fr;gap:12px; }
+.firm-location-card { padding:36px;background:white;border-radius:16px; }
+.firm-location-card h2 { font-size:38px;margin:22px 0; }
+.firm-location-card .firm-button { margin-top:24px; }
+.firm-location-hours { margin-top:24px; }
+.firm-map { width:100%;height:100%;min-height:440px;border:0;border-radius:16px; }
+.firm-article { max-width:850px;margin:0 auto 100px; }
+.firm-article img { width:100%;height:400px;object-fit:cover;border-radius:16px;margin-bottom:40px; }
+.firm-article p { font-size:19px;margin:0 0 26px; }
+.firm-footer { padding:60px 32px 22px;background:var(--firm-navy);color:white;border-radius:20px 20px 0 0; }
+.firm-footer-top { display:flex;justify-content:space-between;align-items:center;gap:32px;padding-bottom:64px;border-bottom:1px solid #ffffff29; }
+.firm-footer-top h2 { margin:18px 0; }
+.firm-footer-top h2 span { color:#a7bedb; }
+.firm-footer-top p { line-height:1.6;color:#cad6e7; }
+.firm-footer-grid { display:grid;grid-template-columns:1.3fr .65fr .9fr 1fr 1fr;gap:30px;padding:50px 0; }
+.firm-footer h3 { font:400 15px 'Inter Display',sans-serif;margin-bottom:22px;color:#afc4df; }
+.firm-footer-grid a { display:block;width:fit-content;color:white;text-decoration:none;font-size:13px;margin:0 0 13px;line-height:1.5; }
+.firm-footer-grid p { font-size:13px;line-height:1.8;color:#d6e0ef;margin-bottom:16px; }
+.firm-footer-about .firm-logo { margin-bottom:24px; }
+.firm-footer input { width:100%;max-width:100%;border:1px solid #ffffff30;border-radius:7px;background:#ffffff0d;padding:12px;margin-bottom:12px;color:white;font:13px 'Inter Display',sans-serif; }
+.firm-footer input::placeholder { color:#c2cee0; }
+.firm-footer form .firm-button { font-size:13px;min-height:38px;padding:10px 16px; }
+.firm-footer-bottom { border-top:1px solid #ffffff29;display:flex;justify-content:space-between;gap:20px;padding-top:22px;font-size:12px;color:#afc4df;line-height:1.6; }
+.firm-sr-only { position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0; }
+.mobile-navigation .mobile-menu-brand .firm-logo { width:225px;height:auto;filter:brightness(0) invert(1); }
+.mobile-menu-brand img.firm-logo { width:225px;height:auto; }
+.mobile-menu-details a { white-space:normal; }
+@media(max-width:1199.98px){
+ .firm-header { padding:14px 24px; }
+ .firm-desktop-nav,.firm-header-cta { display:none; }
+ .firm-menu-toggle { display:grid;place-items:center; }
+ .firm-page { padding:80px 24px 0; }
+ .firm-hero-heading { gap:40px;grid-template-columns:1.1fr 1fr; }
+ .firm-page h1 { font-size:52px; }
+ .firm-hero-cards >div { min-height:380px; }
+ .firm-hero-feature { padding:24px; }
+ .firm-hero-feature h2 { font-size:28px; }
+ .firm-about-preview,.firm-two-column,.firm-why-grid { gap:40px; }
+ .firm-values-mini { grid-template-columns:1fr;gap:8px; }
+ .firm-values-mini >div { display:flex;align-items:center;gap:15px;padding:14px; }
+ .firm-values-mini span { margin:0; }
+ .firm-industry-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
+ .firm-contact-layout { gap:24px;grid-template-columns:1fr 1.1fr; }
+ .firm-footer-grid { grid-template-columns:repeat(3,minmax(0,1fr)); }
+}
+@media(max-width:809.98px){
+ .firm-header { height:72px;padding:12px 16px;gap:12px; }
+ .firm-header .firm-logo { width:205px; }
+ .firm-page { padding:72px 16px 0; }
+ .firm-page h1 { font-size:42px;letter-spacing:-.06em; }
+ .firm-page h2,.firm-footer h2 { font-size:34px; }
+ .firm-page h3 { font-size:25px; }
+ .firm-section { margin-bottom:85px; }
+ .firm-home-hero { padding-top:48px;margin-bottom:85px; }
+ .firm-hero-heading { grid-template-columns:1fr;gap:28px;margin-bottom:36px; }
+ .firm-hero-intro { max-width:none;justify-self:stretch; }
+ .firm-hero-cards { grid-template-columns:1fr;gap:10px; }
+ .firm-hero-cards >div { min-height:320px; }
+ .firm-hero-photo { height:380px; }
+ .firm-hero-fact h2 { font-size:28px; }
+ .firm-hero-feature { padding:28px; }
+ .firm-hero-feature h2 { font-size:34px; }
+ .firm-about-preview,.firm-two-column,.firm-why-grid { grid-template-columns:1fr;gap:28px; }
+ .firm-section-heading { margin-bottom:34px; }
+ .firm-section-heading p { margin-top:18px; }
+ .firm-service-card { grid-template-columns:1fr; }
+ .firm-service-image { min-height:300px; }
+ .firm-service-copy { padding:24px 20px; }
+ .firm-service-copy h3 { font-size:30px; }
+ .firm-service-offerings { padding-top:28px; }
+ .firm-industry-grid,.firm-values-grid,.firm-insight-grid { grid-template-columns:1fr; }
+ .firm-industry-card { padding:26px; }
+ .firm-industry-icon { margin-bottom:26px; }
+ .firm-consultation { padding:28px;flex-direction:column;align-items:flex-start;margin-bottom:85px; }
+ .firm-consultation h2 { font-size:32px; }
+ .firm-insight-grid { gap:36px; }
+ .firm-page-hero { margin:40px auto 40px;padding-top:0; }
+ .firm-page-hero p { font-size:16px; }
+ .firm-about-banner { height:310px;margin-bottom:70px; }
+ .firm-values-grid >article { padding:26px; }
+ .firm-services-page,.firm-industries-page { margin-top:50px; }
+ .firm-contact-layout { grid-template-columns:1fr;gap:30px;margin:50px 0 70px; }
+ .firm-form-card { padding:24px 18px; }
+ .firm-form-grid { grid-template-columns:1fr;gap:20px; }
+ .firm-location-section { grid-template-columns:1fr; }
+ .firm-location-card { padding:26px; }
+ .firm-map { min-height:320px; }
+ .firm-faq-list details { padding:20px; }
+ .firm-faq-list summary { font-size:15px; }
+ .firm-article img { height:280px; }
+ .firm-article p { font-size:17px; }
+ .firm-footer { padding:40px 20px 22px; }
+ .firm-footer-top { align-items:flex-start;flex-direction:column;padding-bottom:40px; }
+ .firm-footer-grid { grid-template-columns:1fr 1fr;gap:30px 20px;padding:40px 0; }
+ .firm-footer-about { grid-column:1 / -1; }
+ .firm-footer-grid >div:last-child { grid-column:1 / -1; }
+ .firm-footer-bottom { flex-direction:column;gap:8px; }
+}
+@media(prefers-reduced-motion:reduce){.firm-button,.firm-service-image >img,.firm-insight-image img { transition:none; }}

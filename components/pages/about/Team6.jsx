@@ -97,7 +97,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Our Team"}
+                      {"Our Expertise"}
                     </p>
                   </div>
                 </div>
@@ -119,7 +119,7 @@ export default function Team6() {
                     style: { "--framer-text-alignment": "start" },
                   }}
                 >
-                  {"Meet The Minds "}
+                  {"Professional Support Across "}
                   <span
                     {...{
                       style: {
@@ -129,7 +129,7 @@ export default function Team6() {
                       className: "framer-text",
                     }}
                   >
-                    {"Behind Elevra"}
+                    {"Your Financial Needs"}
                   </span>
                 </h2>
               </div>
@@ -150,7 +150,7 @@ export default function Team6() {
                     style: { "--framer-text-alignment": "center" },
                   }}
                 >
-                  {"Meet The Minds "}
+                  {"Professional Support Across "}
                   <span
                     {...{
                       style: {
@@ -160,7 +160,7 @@ export default function Team6() {
                       className: "framer-text",
                     }}
                   >
-                    {"Behind Elevra"}
+                    {"Your Financial Needs"}
                   </span>
                 </h2>
               </div>
@@ -186,7 +186,7 @@ export default function Team6() {
                   }}
                 >
                   {
-                    "A team of thinkers, strategists, and problem-solvers focused on creating meaningful business impact."
+                    "A closely held firm bringing personal attention to accounting, tax, business services, and IRS representation."
                   }
                 </p>
               </div>
@@ -208,7 +208,7 @@ export default function Team6() {
                   }}
                 >
                   {
-                    "A team of thinkers, strategists, and problem-solvers focused on creating meaningful business impact."
+                    "A closely held firm bringing personal attention to accounting, tax, business services, and IRS representation."
                   }
                 </p>
               </div>
@@ -536,7 +536,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Daniel Reyes"}
+                      {"Accounting Services"}
                     </h6>
                   </div>
                   <div
@@ -562,7 +562,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Managing Partner"}
+                      {"Financial clarity"}
                     </p>
                   </div>
                 </div>
@@ -889,7 +889,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Daniel Reyes"}
+                      {"Accounting Services"}
                     </h6>
                   </div>
                   <div
@@ -915,7 +915,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Managing Partner"}
+                      {"Financial clarity"}
                     </p>
                   </div>
                 </div>
@@ -1242,7 +1242,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Mei Lin Zhao"}
+                      {"Tax Services"}
                     </h6>
                   </div>
                   <div
@@ -1268,7 +1268,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Head of Strategy"}
+                      {"Tax preparation & planning"}
                     </p>
                   </div>
                 </div>
@@ -1595,7 +1595,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Mei Lin Zhao"}
+                      {"Tax Services"}
                     </h6>
                   </div>
                   <div
@@ -1621,7 +1621,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Head of Strategy"}
+                      {"Tax preparation & planning"}
                     </p>
                   </div>
                 </div>
@@ -1948,7 +1948,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Arjun Mehta"}
+                      {"Business Services"}
                     </h6>
                   </div>
                   <div
@@ -1974,7 +1974,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Finance Lead"}
+                      {"Business guidance"}
                     </p>
                   </div>
                 </div>
@@ -2301,7 +2301,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Arjun Mehta"}
+                      {"Business Services"}
                     </h6>
                   </div>
                   <div
@@ -2327,7 +2327,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Finance Lead"}
+                      {"Business guidance"}
                     </p>
                   </div>
                 </div>
@@ -2654,7 +2654,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Sofia Marchetti"}
+                      {"IRS Representation"}
                     </h6>
                   </div>
                   <div
@@ -2680,7 +2680,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Director of Operations"}
+                      {"Professional representation"}
                     </p>
                   </div>
                 </div>
@@ -3007,7 +3007,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Sofia Marchetti"}
+                      {"IRS Representation"}
                     </h6>
                   </div>
                   <div
@@ -3033,7 +3033,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Director of Operations"}
+                      {"Professional representation"}
                     </p>
                   </div>
                 </div>
@@ -3360,7 +3360,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Kwame Boateng"}
+                      {"Personal Attention"}
                     </h6>
                   </div>
                   <div
@@ -3386,7 +3386,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Senior Strategist"}
+                      {"Close relationships"}
                     </p>
                   </div>
                 </div>
@@ -3713,7 +3713,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Kwame Boateng"}
+                      {"Personal Attention"}
                     </h6>
                   </div>
                   <div
@@ -3739,7 +3739,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Senior Strategist"}
+                      {"Close relationships"}
                     </p>
                   </div>
                 </div>
@@ -4066,7 +4066,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Hannah Lindqvist"}
+                      {"Confidential Service"}
                     </h6>
                   </div>
                   <div
@@ -4092,7 +4092,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Senior Analyst"}
+                      {"Quality service"}
                     </p>
                   </div>
                 </div>
@@ -4419,7 +4419,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Hannah Lindqvist"}
+                      {"Confidential Service"}
                     </h6>
                   </div>
                   <div
@@ -4445,7 +4445,7 @@ export default function Team6() {
                         },
                       }}
                     >
-                      {"Senior Analyst"}
+                      {"Quality service"}
                     </p>
                   </div>
                 </div>

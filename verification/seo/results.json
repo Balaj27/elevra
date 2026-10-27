@@ -1,0 +1,85 @@
+{
+  "siteUrl": "https://elevra-h2gy.vercel.app",
+  "pages": [
+    {
+      "path": "/",
+      "title": "S MAGO CPA, PC | Sugar Land CPA & Tax Services",
+      "description": "Accounting, tax, business services and IRS representation in Sugar Land and Greater Houston. S MAGO CPA, PC serves individuals and businesses nationwide.",
+      "canonical": "https://elevra-h2gy.vercel.app",
+      "image": "https://elevra-h2gy.vercel.app/og/s-mago-cpa-share-v1.jpg",
+      "structuredData": true
+    },
+    {
+      "path": "/about",
+      "title": "About Our CPA Firm | S MAGO CPA, PC",
+      "description": "Meet S MAGO CPA, PC, with offices in Sugar Land and Austin, Texas. Professional, responsive accounting and tax support for individuals and businesses nationwide.",
+      "canonical": "https://elevra-h2gy.vercel.app/about",
+      "image": "https://elevra-h2gy.vercel.app/og/s-mago-cpa-share-v1.jpg",
+      "structuredData": true
+    },
+    {
+      "path": "/services",
+      "title": "Accounting, Tax & Business Services | S MAGO CPA, PC",
+      "description": "Explore accounting services, tax preparation and planning, business support and IRS representation from S MAGO CPA, PC. Request a free consultation.",
+      "canonical": "https://elevra-h2gy.vercel.app/services",
+      "image": "https://elevra-h2gy.vercel.app/og/s-mago-cpa-share-v1.jpg",
+      "structuredData": true
+    },
+    {
+      "path": "/contact",
+      "title": "Contact a Sugar Land CPA | S MAGO CPA, PC",
+      "description": "Request a free consultation with S MAGO CPA, PC. Visit 12808 W Airport Blvd Ste 310, Sugar Land, TX 77478. Open Monday–Friday, 9 AM–5 PM.",
+      "canonical": "https://elevra-h2gy.vercel.app/contact",
+      "image": "https://elevra-h2gy.vercel.app/og/s-mago-cpa-share-v1.jpg",
+      "structuredData": true
+    },
+    {
+      "path": "/insights",
+      "title": "Accounting & Tax Insights | S MAGO CPA, PC",
+      "description": "Explore the S MAGO CPA, PC approach to accounting, tax services, business support and IRS representation for individuals and businesses.",
+      "canonical": "https://elevra-h2gy.vercel.app/insights",
+      "image": "https://elevra-h2gy.vercel.app/og/s-mago-cpa-share-v1.jpg",
+      "structuredData": true
+    },
+    {
+      "path": "/insights/a-clearer-picture-of-your-business",
+      "title": "A clearer picture of your business starts with the numbers. | S MAGO CPA, PC",
+      "description": "How organized accounting supports a more useful conversation about your operations.",
+      "canonical": "https://elevra-h2gy.vercel.app/insights/a-clearer-picture-of-your-business",
+      "image": "https://elevra-h2gy.vercel.app/og/s-mago-cpa-share-v1.jpg",
+      "structuredData": true
+    },
+    {
+      "path": "/insights/a-personal-approach-to-tax-services",
+      "title": "A personal approach to tax services. | S MAGO CPA, PC",
+      "description": "Why understanding the individual or business matters to our approach.",
+      "canonical": "https://elevra-h2gy.vercel.app/insights/a-personal-approach-to-tax-services",
+      "image": "https://elevra-h2gy.vercel.app/og/s-mago-cpa-share-v1.jpg",
+      "structuredData": true
+    },
+    {
+      "path": "/insights/support-for-your-next-business-chapter",
+      "title": "Support for your next business chapter. | S MAGO CPA, PC",
+      "description": "Practical business services with your industry and goals in view.",
+      "canonical": "https://elevra-h2gy.vercel.app/insights/support-for-your-next-business-chapter",
+      "image": "https://elevra-h2gy.vercel.app/og/s-mago-cpa-share-v1.jpg",
+      "structuredData": true
+    },
+    {
+      "path": "/insights/a-confidential-conversation-about-irs-matters",
+      "title": "A confidential conversation about IRS matters. | S MAGO CPA, PC",
+      "description": "An introduction to professional support and a more organized discussion.",
+      "canonical": "https://elevra-h2gy.vercel.app/insights/a-confidential-conversation-about-irs-matters",
+      "image": "https://elevra-h2gy.vercel.app/og/s-mago-cpa-share-v1.jpg",
+      "structuredData": true
+    }
+  ],
+  "robots": true,
+  "sitemap": true,
+  "image": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 80708,
+    "type": "image/jpeg"
+  }
+}

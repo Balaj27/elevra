@@ -96,7 +96,7 @@ export default function Hero2() {
                       },
                     }}
                   >
-                    {"About Elevra"}
+                    {"About Our Firm"}
                   </p>
                 </div>
               </div>
@@ -116,7 +116,7 @@ export default function Hero2() {
                   style: { "--framer-text-alignment": "center" },
                 }}
               >
-                {"Where clear thinking "}
+                {"Where personal service creates "}
                 <span
                   {...{
                     style: {
@@ -126,7 +126,7 @@ export default function Hero2() {
                     className: "framer-text",
                   }}
                 >
-                  {"creates momentum."}
+                  {"confidence."}
                 </span>
               </h1>
             </div>
@@ -150,7 +150,7 @@ export default function Hero2() {
                 }}
               >
                 {
-                  "We help businesses turn complex challenges into clear, actionable opportunities."
+                  "Professional accounting and tax support from Sugar Land and Austin, Texas, serving clients across the United States."
                 }
               </p>
             </div>

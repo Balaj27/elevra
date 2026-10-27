@@ -1,0 +1,14 @@
+/* The captured Framer stylesheet controls the design. Only logo fitting is new. */
+a[data-copy-brand] { width:220px !important;height:auto !important;max-width:100%;padding:0 !important; }
+a[data-copy-brand] >img { display:block;width:100%;height:auto;object-fit:contain; }
+[data-copy-footer-logo] >img { width:100%;height:auto;display:block;object-fit:contain;filter:brightness(0) invert(1); }
+.mobile-navigation .mobile-menu-brand img.firm-logo { width:225px;height:auto;max-width:calc(100vw - 100px); }
+.mobile-menu-details a { white-space:normal; }
+.restored-article-nav { position:fixed;top:0;left:0;right:0;z-index:100; }
+.restored-article-nav nav { width:100% !important; }
+.restored-article-content { max-width:900px;margin:0 auto;padding:140px 32px 100px; }
+.restored-article-content >* { margin-bottom:30px !important; }
+.restored-article-content >img { width:100%;max-height:450px;object-fit:cover;border-radius:16px; }
+.restored-mobile { display:none; }
+@media(max-width:1199.98px){.restored-mobile{display:block;}.restored-desktop{display:none;}}
+@media(max-width:809.98px){a[data-copy-brand]{width:205px !important;}}

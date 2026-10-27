@@ -248,7 +248,7 @@ export default function FAQ2() {
                               dir: "auto",
                             }}
                           >
-                            {"What type of businesses do you work with?"}
+                            {"Who do you work with?"}
                           </h6>
                         </div>
                         <div
@@ -294,7 +294,7 @@ export default function FAQ2() {
                             }}
                           >
                             {
-                              "We work with businesses looking to improve their strategy, financial clarity, operations, or prepare for their next stage of growth."
+                              "We work with individuals and business owners, including clients in hospitality, healthcare, construction, real estate, retail and wholesale, professional services, and other industries."
                             }
                           </p>
                         </div>
@@ -348,7 +348,7 @@ export default function FAQ2() {
                               dir: "auto",
                             }}
                           >
-                            {"What can Elevra help my business with?"}
+                            {"Where are your offices?"}
                           </h6>
                         </div>
                         <div
@@ -394,7 +394,7 @@ export default function FAQ2() {
                             }}
                           >
                             {
-                              "Our consulting services focus on three areas: Strategy, Finance, and Operations, tailored around your business goals and challenges."
+                              "Our firm has offices in Sugar Land and Austin, Texas. The Sugar Land office is at 12808 W Airport Blvd Ste 310, Sugar Land, TX 77478."
                             }
                           </p>
                         </div>
@@ -448,7 +448,7 @@ export default function FAQ2() {
                               dir: "auto",
                             }}
                           >
-                            {"How do I know if my business needs consulting?"}
+                            {"Do you work with clients outside Texas?"}
                           </h6>
                         </div>
                         <div
@@ -494,7 +494,7 @@ export default function FAQ2() {
                             }}
                           >
                             {
-                              "If growth feels difficult to manage, decisions lack clarity, or your current systems are holding you back, an outside perspective can help identify what needs to change."
+                              "Yes. Our locations do not limit our work. We serve clients throughout the United States."
                             }
                           </p>
                         </div>
@@ -548,7 +548,7 @@ export default function FAQ2() {
                               dir: "auto",
                             }}
                           >
-                            {"What does the consulting process look like?"}
+                            {"What services do you offer?"}
                           </h6>
                         </div>
                         <div
@@ -594,7 +594,7 @@ export default function FAQ2() {
                             }}
                           >
                             {
-                              "We start by understanding your business and its challenges, then identify priorities, develop a practical strategy, and turn it into clear, measurable actions."
+                              "Our four core service areas are Accounting Services, Tax Services, Business Services, and IRS Representation. We discuss the right scope of work with each client."
                             }
                           </p>
                         </div>
@@ -648,9 +648,7 @@ export default function FAQ2() {
                               dir: "auto",
                             }}
                           >
-                            {
-                              "How long does a typical consulting engagement take?"
-                            }
+                            {"How do I get started?"}
                           </h6>
                         </div>
                         <div
@@ -696,7 +694,7 @@ export default function FAQ2() {
                             }}
                           >
                             {
-                              "Every engagement is different. The timeline depends on the scope, complexity, and goals of the project, from focused strategic work to ongoing support."
+                              "Request a free consultation through our contact page. Tell us a little about yourself, your business, and the service you would like to discuss."
                             }
                           </p>
                         </div>
@@ -750,7 +748,7 @@ export default function FAQ2() {
                               dir: "auto",
                             }}
                           >
-                            {"Will you work with my existing team?"}
+                            {"What are your office hours?"}
                           </h6>
                         </div>
                         <div
@@ -796,7 +794,7 @@ export default function FAQ2() {
                             }}
                           >
                             {
-                              "Yes. We collaborate directly with your team to ensure recommendations are practical, understood, and built to work within your existing business."
+                              "Our listed office hours are 9:00 AM to 5:00 PM, Monday through Friday."
                             }
                           </p>
                         </div>
@@ -850,7 +848,7 @@ export default function FAQ2() {
                               dir: "auto",
                             }}
                           >
-                            {"How much does consulting with Elevra cost?"}
+                            {"How is the scope of work determined?"}
                           </h6>
                         </div>
                         <div
@@ -896,7 +894,7 @@ export default function FAQ2() {
                             }}
                           >
                             {
-                              "Pricing depends on the scope and complexity of the engagement. After understanding your needs, we can recommend an approach that fits the work required."
+                              "We discuss your needs and an appropriate scope of work during your initial consultation."
                             }
                           </p>
                         </div>
@@ -1250,7 +1248,7 @@ export default function FAQ2() {
                               dir: "auto",
                             }}
                           >
-                            {"What type of businesses do you work with?"}
+                            {"Who do you work with?"}
                           </h6>
                         </div>
                         <div
@@ -1296,7 +1294,7 @@ export default function FAQ2() {
                             }}
                           >
                             {
-                              "We work with businesses looking to improve their strategy, financial clarity, operations, or prepare for their next stage of growth."
+                              "We work with individuals and business owners, including clients in hospitality, healthcare, construction, real estate, retail and wholesale, professional services, and other industries."
                             }
                           </p>
                         </div>
@@ -1350,7 +1348,7 @@ export default function FAQ2() {
                               dir: "auto",
                             }}
                           >
-                            {"What can Elevra help my business with?"}
+                            {"Where are your offices?"}
                           </h6>
                         </div>
                         <div
@@ -1396,7 +1394,7 @@ export default function FAQ2() {
                             }}
                           >
                             {
-                              "Our consulting services focus on three areas: Strategy, Finance, and Operations, tailored around your business goals and challenges."
+                              "Our firm has offices in Sugar Land and Austin, Texas. The Sugar Land office is at 12808 W Airport Blvd Ste 310, Sugar Land, TX 77478."
                             }
                           </p>
                         </div>
@@ -1450,7 +1448,7 @@ export default function FAQ2() {
                               dir: "auto",
                             }}
                           >
-                            {"How do I know if my business needs consulting?"}
+                            {"Do you work with clients outside Texas?"}
                           </h6>
                         </div>
                         <div
@@ -1496,7 +1494,7 @@ export default function FAQ2() {
                             }}
                           >
                             {
-                              "If growth feels difficult to manage, decisions lack clarity, or your current systems are holding you back, an outside perspective can help identify what needs to change."
+                              "Yes. Our locations do not limit our work. We serve clients throughout the United States."
                             }
                           </p>
                         </div>
@@ -1550,7 +1548,7 @@ export default function FAQ2() {
                               dir: "auto",
                             }}
                           >
-                            {"What does the consulting process look like?"}
+                            {"What services do you offer?"}
                           </h6>
                         </div>
                         <div
@@ -1596,7 +1594,7 @@ export default function FAQ2() {
                             }}
                           >
                             {
-                              "We start by understanding your business and its challenges, then identify priorities, develop a practical strategy, and turn it into clear, measurable actions."
+                              "Our four core service areas are Accounting Services, Tax Services, Business Services, and IRS Representation. We discuss the right scope of work with each client."
                             }
                           </p>
                         </div>
@@ -1650,9 +1648,7 @@ export default function FAQ2() {
                               dir: "auto",
                             }}
                           >
-                            {
-                              "How long does a typical consulting engagement take?"
-                            }
+                            {"How do I get started?"}
                           </h6>
                         </div>
                         <div
@@ -1698,7 +1694,7 @@ export default function FAQ2() {
                             }}
                           >
                             {
-                              "Every engagement is different. The timeline depends on the scope, complexity, and goals of the project, from focused strategic work to ongoing support."
+                              "Request a free consultation through our contact page. Tell us a little about yourself, your business, and the service you would like to discuss."
                             }
                           </p>
                         </div>
@@ -1752,7 +1748,7 @@ export default function FAQ2() {
                               dir: "auto",
                             }}
                           >
-                            {"Will you work with my existing team?"}
+                            {"What are your office hours?"}
                           </h6>
                         </div>
                         <div
@@ -1798,7 +1794,7 @@ export default function FAQ2() {
                             }}
                           >
                             {
-                              "Yes. We collaborate directly with your team to ensure recommendations are practical, understood, and built to work within your existing business."
+                              "Our listed office hours are 9:00 AM to 5:00 PM, Monday through Friday."
                             }
                           </p>
                         </div>
@@ -1852,7 +1848,7 @@ export default function FAQ2() {
                               dir: "auto",
                             }}
                           >
-                            {"How much does consulting with Elevra cost?"}
+                            {"How is the scope of work determined?"}
                           </h6>
                         </div>
                         <div
@@ -1898,7 +1894,7 @@ export default function FAQ2() {
                             }}
                           >
                             {
-                              "Pricing depends on the scope and complexity of the engagement. After understanding your needs, we can recommend an approach that fits the work required."
+                              "We discuss your needs and an appropriate scope of work during your initial consultation."
                             }
                           </p>
                         </div>

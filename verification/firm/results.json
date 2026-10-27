@@ -1,0 +1,162 @@
+[
+  {
+    "route": "/",
+    "width": 1440,
+    "status": 200,
+    "brand": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "route": "/about",
+    "width": 1440,
+    "status": 200,
+    "brand": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "route": "/services",
+    "width": 1440,
+    "status": 200,
+    "brand": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "route": "/industries",
+    "width": 1440,
+    "status": 200,
+    "brand": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "route": "/insights",
+    "width": 1440,
+    "status": 200,
+    "brand": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "route": "/contact",
+    "width": 1440,
+    "status": 200,
+    "brand": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "route": "/insights/a-clearer-picture-of-your-business",
+    "width": 1440,
+    "status": 200,
+    "brand": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "route": "/insights/a-personal-approach-to-tax-services",
+    "width": 1440,
+    "status": 200,
+    "brand": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "route": "/insights/support-for-your-next-business-chapter",
+    "width": 1440,
+    "status": 200,
+    "brand": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "route": "/insights/a-confidential-conversation-about-irs-matters",
+    "width": 1440,
+    "status": 200,
+    "brand": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "route": "/",
+    "width": 390,
+    "status": 200,
+    "brand": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "route": "/about",
+    "width": 390,
+    "status": 200,
+    "brand": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "route": "/services",
+    "width": 390,
+    "status": 200,
+    "brand": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "route": "/industries",
+    "width": 390,
+    "status": 200,
+    "brand": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "route": "/insights",
+    "width": 390,
+    "status": 200,
+    "brand": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "route": "/contact",
+    "width": 390,
+    "status": 200,
+    "brand": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "route": "/insights/a-clearer-picture-of-your-business",
+    "width": 390,
+    "status": 200,
+    "brand": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "route": "/insights/a-personal-approach-to-tax-services",
+    "width": 390,
+    "status": 200,
+    "brand": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "route": "/insights/support-for-your-next-business-chapter",
+    "width": 390,
+    "status": 200,
+    "brand": true,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "route": "/insights/a-confidential-conversation-about-irs-matters",
+    "width": 390,
+    "status": 200,
+    "brand": true,
+    "overflow": false,
+    "errors": []
+  }
+]

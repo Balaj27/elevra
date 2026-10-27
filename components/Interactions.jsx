@@ -138,8 +138,8 @@ export default function Interactions() {
           form.after(status);
         }
         status.textContent = form.querySelector('textarea')
-          ? 'Message delivery is not connected yet. Please email hello@elevra.com directly.'
-          : 'Newsletter signup is not connected yet. Please contact hello@elevra.com.';
+          ? 'Message delivery is not connected yet. Your inquiry has not been sent. Please arrange a consultation through our Sugar Land office.'
+          : 'Newsletter signup is not connected yet. Your email has not been subscribed.';
       });
     });
     document.documentElement.dataset.elevraReady = 'true';

@@ -118,7 +118,7 @@ export default function About4() {
                   style: { "--framer-text-alignment": "center" },
                 }}
               >
-                {"Driven by Purpose, "}
+                {"Professional Service, "}
                 <span
                   {...{
                     style: {
@@ -128,7 +128,7 @@ export default function About4() {
                     className: "framer-text",
                   }}
                 >
-                  {"Focused on Results"}
+                  {"Focused on You"}
                 </span>
               </h2>
             </div>
@@ -152,7 +152,7 @@ export default function About4() {
                 }}
               >
                 {
-                  "We help businesses turn complex challenges into clear, actionable opportunities."
+                  "Professional accounting and tax support from Sugar Land and Austin, Texas, serving clients across the United States."
                 }
               </p>
             </div>
@@ -250,7 +250,7 @@ export default function About4() {
                     },
                   }}
                 >
-                  {"Smarter Growth, Everywhere"}
+                  {"Personal Relationships, Nationwide"}
                 </h5>
               </div>
               <div
@@ -273,7 +273,7 @@ export default function About4() {
                   }}
                 >
                   {
-                    "We’re on a mission to help businesses around the world make better decisions, solve complex challenges, and build stronger foundations for sustainable growth."
+                    "Our Sugar Land and Austin offices serve individuals and business owners throughout the United States. Our locations do not limit our commitment to you."
                   }
                 </p>
               </div>
@@ -410,7 +410,7 @@ export default function About4() {
                     }}
                   >
                     {
-                      "We help businesses worldwide navigate complexity, unlock opportunities, and grow with greater clarity and confidence."
+                      "We work to provide dependable, efficient, and affordable professional services, supported by personal attention."
                     }
                   </p>
                 </div>
@@ -541,7 +541,7 @@ export default function About4() {
                     }}
                   >
                     {
-                      "We envision a world where businesses can think bigger, adapt faster, and build lasting success with confidence."
+                      "We aim to be a financial foundation that supports our clients, their businesses, and their next steps."
                     }
                   </p>
                 </div>
