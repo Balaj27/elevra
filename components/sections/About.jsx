@@ -658,7 +658,7 @@ export default function About() {
                           }}
                         >
                           {
-                            "Based in Sugar Land and Austin, serving clients nationwide."
+                            "Based in Stafford and Austin, serving clients nationwide."
                           }
                         </p>
                       </div>
@@ -798,7 +798,7 @@ export default function About() {
                           }}
                         >
                           {
-                            "Based in Sugar Land and Austin, serving clients nationwide."
+                            "Based in Stafford and Austin, serving clients nationwide."
                           }
                         </p>
                       </div>

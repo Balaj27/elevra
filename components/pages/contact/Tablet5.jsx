@@ -967,7 +967,7 @@ export default function Tablet5() {
                       },
                     }}
                   >
-                    {"12808 W Airport Blvd Ste 310, Sugar Land, TX 77478"}
+                    {"12603 Southwest Fwy Ste 695, Stafford, TX 77477"}
                   </p>
                 </div>
               </div>

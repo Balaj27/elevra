@@ -35,11 +35,11 @@ Firm facts are taken from the supplied screenshots. Supporting service and edito
 
 `app/robots.js` and `app/sitemap.js` generate crawler files. The sitemap includes canonical pages and the four article pages; the `/industries` redirect is intentionally excluded.
 
-`public/og/s-mago-cpa-share-v1.jpg` is the 1200×630 public social-preview image used by WhatsApp/Open Graph. A lossless PNG is saved alongside it. Run `npm run generate:share` to regenerate the card from the exact supplied logo and current service names. Use a new versioned filename when replacing a previously shared image to avoid stale social caches.
+`public/og/s-mago-cpa-share-v2.jpg` is the 1200×630 public social-preview image used by WhatsApp/Open Graph. A lossless PNG is saved alongside it. Run `npm run generate:share` to regenerate the card from the exact supplied logo and current service names. Use a new versioned filename when replacing a previously shared image to avoid stale social caches.
 
 Run `npm run verify:seo` against the local preview to verify crawler-visible head tags, structured data, sitemap, robots, and the image response. Results are saved in `verification/seo/results.json`.
 
-Deploy the latest code and public assets to activate the live preview. Its image URL will be https://elevra-h2gy.vercel.app/og/s-mago-cpa-share-v1.jpg. A localhost URL cannot be fetched by public sharing crawlers. The image route must remain public, without deployment protection or authentication.
+Deploy the latest code and public assets to activate the live preview. Its image URL will be https://elevra-h2gy.vercel.app/og/s-mago-cpa-share-v2.jpg. A localhost URL cannot be fetched by public sharing crawlers. The image route must remain public, without deployment protection or authentication.
 
 ## Pexels photography
 

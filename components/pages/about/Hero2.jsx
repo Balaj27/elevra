@@ -150,7 +150,7 @@ export default function Hero2() {
                 }}
               >
                 {
-                  "Professional accounting and tax support from Sugar Land and Austin, Texas, serving clients across the United States."
+                  "Professional accounting and tax support from Stafford and Austin, Texas, serving clients across the United States."
                 }
               </p>
             </div>

@@ -70,7 +70,7 @@ export default function MobileMenu({ open, onClose, pathname }) {
         {links.map(([label,href],index) => <Link key={href} prefetch={false} href={href} aria-current={pathname === href ? 'page' : undefined} onClick={onClose} style={{'--menu-item':index}}>{label}</Link>)}
       </nav>
       <div className="mobile-menu-details">
-        <div><span className="mobile-menu-detail-label">Sugar Land Office</span><span>{firm.street}<br/>{firm.city}</span></div>
+        <div><span className="mobile-menu-detail-label">Stafford Office</span><span>{firm.street}<br/>{firm.city}</span></div>
         <div><span className="mobile-menu-detail-label">Office Hours</span><span>{firm.hours}<br/>{firm.days}</span></div>
         <div><span className="mobile-menu-detail-label">Service Area</span><span>Greater Houston<br/>Nationwide</span></div>
         <div><span className="mobile-menu-detail-label">Get Started</span><Link href="/contact" onClick={onClose}>Free consultation <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true" focusable="false" style={{display:'inline-block',verticalAlign:'-2px'}}><path d="M6 18 18 6M6 6h12v12" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" /></svg></Link></div>

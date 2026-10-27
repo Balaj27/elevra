@@ -394,7 +394,7 @@ export default function FAQ5() {
                             }}
                           >
                             {
-                              "Our firm has offices in Sugar Land and Austin, Texas. The Sugar Land office is at 12808 W Airport Blvd Ste 310, Sugar Land, TX 77478."
+                              "Our firm has offices in Stafford and Austin, Texas. The Stafford office is at 12603 Southwest Fwy Ste 695, Stafford, TX 77477."
                             }
                           </p>
                         </div>
@@ -1398,7 +1398,7 @@ export default function FAQ5() {
                             }}
                           >
                             {
-                              "Our firm has offices in Sugar Land and Austin, Texas. The Sugar Land office is at 12808 W Airport Blvd Ste 310, Sugar Land, TX 77478."
+                              "Our firm has offices in Stafford and Austin, Texas. The Stafford office is at 12603 Southwest Fwy Ste 695, Stafford, TX 77477."
                             }
                           </p>
                         </div>

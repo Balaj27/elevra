@@ -1260,7 +1260,7 @@ export default function CaseStudy() {
                                   dir: "auto",
                                 }}
                               >
-                                {"Offices in Sugar Land and Austin, Texas."}
+                                {"Offices in Stafford and Austin, Texas."}
                               </p>
                             </div>
                           </div>
@@ -2869,7 +2869,7 @@ export default function CaseStudy() {
                                   dir: "auto",
                                 }}
                               >
-                                {"Offices in Sugar Land and Austin, Texas."}
+                                {"Offices in Stafford and Austin, Texas."}
                               </p>
                             </div>
                           </div>

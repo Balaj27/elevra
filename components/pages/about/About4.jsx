@@ -152,7 +152,7 @@ export default function About4() {
                 }}
               >
                 {
-                  "Professional accounting and tax support from Sugar Land and Austin, Texas, serving clients across the United States."
+                  "Professional accounting and tax support from Stafford and Austin, Texas, serving clients across the United States."
                 }
               </p>
             </div>
@@ -276,7 +276,7 @@ export default function About4() {
                   }}
                 >
                   {
-                    "Our Sugar Land and Austin offices serve individuals and business owners throughout the United States. Our locations do not limit our commitment to you."
+                    "Our Stafford and Austin offices serve individuals and business owners throughout the United States. Our locations do not limit our commitment to you."
                   }
                 </p>
               </div>
