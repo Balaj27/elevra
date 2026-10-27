@@ -12,3 +12,16 @@ a[data-copy-brand] >img { display:block;width:100%;height:auto;object-fit:contai
 .restored-mobile { display:none; }
 @media(max-width:1199.98px){.restored-mobile{display:block;}.restored-desktop{display:none;}}
 @media(max-width:809.98px){a[data-copy-brand]{width:205px !important;}}
+/* Let the longer service tags fit beside the consultation button. */
+[data-elevra-page="about"] [data-framer-name="Career"] .framer-PO3ka .framer-1rbw9ju {
+  max-width:none;min-width:0;width:auto;flex:0 1 auto;gap:16px;overflow:visible;
+}
+[data-elevra-page="about"] [data-framer-name="Career"] .framer-PO3ka .framer-1mus9a1 {
+  flex:0 1 auto;min-width:0;width:max-content;max-width:100%;flex-wrap:wrap;justify-content:flex-end;gap:4px;
+}
+[data-elevra-page="about"] [data-framer-name="Career"] .framer-PO3ka .framer-2oy9yb-container { flex-shrink:0; }
+[data-elevra-page="about"] [data-framer-name="Career"] .framer-PO3ka .framer-z1rbfa { min-width:0; }
+@media(max-width:809.98px){
+  [data-elevra-page="about"] [data-framer-name="Career"] .framer-PO3ka .framer-1rbw9ju {width:100%;align-items:flex-start;}
+  [data-elevra-page="about"] [data-framer-name="Career"] .framer-PO3ka .framer-1mus9a1 {justify-content:flex-start;}
+}

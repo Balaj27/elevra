@@ -237,18 +237,21 @@ export default function Testimonials() {
                             sizes:
                               "(min-width: 1200px) max(32px, 28px), (max-width: 809.98px) max(32px, 28px), (min-width: 810px) and (max-width: 1199.98px) max(32px, 28px)",
                             srcSet:
-                              "/assets/dbbe44c6e929b78484.jpg 796w,/assets/87c75e28db4edaff1c.jpg 896w",
-                            src: "/assets/87c75e28db4edaff1c.jpg",
-                            alt: "A young woman with blonde hair wearing a sweater.",
+                              "/photos/pexels-33175651-480.jpg 480w, /photos/pexels-33175651-960.jpg 960w, /photos/pexels-33175651-1600.jpg 1600w",
+                            src: "/photos/pexels-33175651-1600.jpg",
+                            alt: "Close-up of financial analysis using a calculator and documents",
                             style: {
                               display: "block",
                               width: "100%",
                               height: "100%",
                               borderRadius: "inherit",
                               cornerShape: "inherit",
-                              objectPosition: "center",
                               objectFit: "cover",
+                              objectPosition: "50% 50%",
                             },
+                            "data-pexels-photo": "33175651",
+                            "data-photo-source":
+                              "https://www.pexels.com/photo/financial-analysis-with-calculator-and-documents-33175651/",
                           }}
                         />
                       </div>
@@ -559,18 +562,21 @@ export default function Testimonials() {
                             sizes:
                               "(min-width: 1200px) max(32px, 28px), (max-width: 809.98px) max(32px, 28px), (min-width: 810px) and (max-width: 1199.98px) max(32px, 28px)",
                             srcSet:
-                              "/assets/dbbe44c6e929b78484.jpg 796w,/assets/87c75e28db4edaff1c.jpg 896w",
-                            src: "/assets/87c75e28db4edaff1c.jpg",
-                            alt: "A young woman with blonde hair wearing a sweater.",
+                              "/photos/pexels-33175651-480.jpg 480w, /photos/pexels-33175651-960.jpg 960w, /photos/pexels-33175651-1600.jpg 1600w",
+                            src: "/photos/pexels-33175651-1600.jpg",
+                            alt: "Close-up of financial analysis using a calculator and documents",
                             style: {
                               display: "block",
                               width: "100%",
                               height: "100%",
                               borderRadius: "inherit",
                               cornerShape: "inherit",
-                              objectPosition: "center",
                               objectFit: "cover",
+                              objectPosition: "50% 50%",
                             },
+                            "data-pexels-photo": "33175651",
+                            "data-photo-source":
+                              "https://www.pexels.com/photo/financial-analysis-with-calculator-and-documents-33175651/",
                           }}
                         />
                       </div>
@@ -881,18 +887,21 @@ export default function Testimonials() {
                             sizes:
                               "(min-width: 1200px) max(32px, 28px), (max-width: 809.98px) max(32px, 28px), (min-width: 810px) and (max-width: 1199.98px) max(32px, 28px)",
                             srcSet:
-                              "/assets/d1ad22164612fee213.jpg 796w,/assets/1b0856962518384dac.jpg 896w",
-                            src: "/assets/1b0856962518384dac.jpg",
-                            alt: "A young woman with blonde hair wearing a sweater.",
+                              "/photos/pexels-33175651-480.jpg 480w, /photos/pexels-33175651-960.jpg 960w, /photos/pexels-33175651-1600.jpg 1600w",
+                            src: "/photos/pexels-33175651-1600.jpg",
+                            alt: "Close-up of financial analysis using a calculator and documents",
                             style: {
                               display: "block",
                               width: "100%",
                               height: "100%",
                               borderRadius: "inherit",
                               cornerShape: "inherit",
-                              objectPosition: "center",
                               objectFit: "cover",
+                              objectPosition: "50% 50%",
                             },
+                            "data-pexels-photo": "33175651",
+                            "data-photo-source":
+                              "https://www.pexels.com/photo/financial-analysis-with-calculator-and-documents-33175651/",
                           }}
                         />
                       </div>
@@ -1203,18 +1212,21 @@ export default function Testimonials() {
                             sizes:
                               "(min-width: 1200px) max(32px, 28px), (max-width: 809.98px) max(32px, 28px), (min-width: 810px) and (max-width: 1199.98px) max(32px, 28px)",
                             srcSet:
-                              "/assets/d1ad22164612fee213.jpg 796w,/assets/1b0856962518384dac.jpg 896w",
-                            src: "/assets/1b0856962518384dac.jpg",
-                            alt: "A young woman with blonde hair wearing a sweater.",
+                              "/photos/pexels-33175651-480.jpg 480w, /photos/pexels-33175651-960.jpg 960w, /photos/pexels-33175651-1600.jpg 1600w",
+                            src: "/photos/pexels-33175651-1600.jpg",
+                            alt: "Close-up of financial analysis using a calculator and documents",
                             style: {
                               display: "block",
                               width: "100%",
                               height: "100%",
                               borderRadius: "inherit",
                               cornerShape: "inherit",
-                              objectPosition: "center",
                               objectFit: "cover",
+                              objectPosition: "50% 50%",
                             },
+                            "data-pexels-photo": "33175651",
+                            "data-photo-source":
+                              "https://www.pexels.com/photo/financial-analysis-with-calculator-and-documents-33175651/",
                           }}
                         />
                       </div>
@@ -1529,18 +1541,21 @@ export default function Testimonials() {
                           sizes:
                             "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
                           srcSet:
-                            "/assets/9d172b29d7b5366cd5.jpg 796w,/assets/f5759c868f5900ba3d.jpg 896w",
-                          src: "/assets/f5759c868f5900ba3d.jpg",
-                          alt: "A young woman with blonde hair wearing a sweater.",
+                            "/photos/pexels-33175651-480.jpg 480w, /photos/pexels-33175651-960.jpg 960w, /photos/pexels-33175651-1600.jpg 1600w",
+                          src: "/photos/pexels-33175651-1600.jpg",
+                          alt: "Close-up of financial analysis using a calculator and documents",
                           style: {
                             display: "block",
                             width: "100%",
                             height: "100%",
                             borderRadius: "inherit",
                             cornerShape: "inherit",
-                            objectPosition: "center",
                             objectFit: "cover",
+                            objectPosition: "50% 50%",
                           },
+                          "data-pexels-photo": "33175651",
+                          "data-photo-source":
+                            "https://www.pexels.com/photo/financial-analysis-with-calculator-and-documents-33175651/",
                         }}
                       />
                     </div>
@@ -1987,18 +2002,21 @@ export default function Testimonials() {
                                   sizes:
                                     "(min-width: 1200px) max(32px, 28px), (max-width: 809.98px) max(32px, 28px), (min-width: 810px) and (max-width: 1199.98px) max(32px, 28px)",
                                   srcSet:
-                                    "/assets/d1ad22164612fee213.jpg 796w,/assets/1b0856962518384dac.jpg 896w",
-                                  src: "/assets/1b0856962518384dac.jpg",
-                                  alt: "man's grey and black shirt",
+                                    "/photos/pexels-33175651-480.jpg 480w, /photos/pexels-33175651-960.jpg 960w, /photos/pexels-33175651-1600.jpg 1600w",
+                                  src: "/photos/pexels-33175651-1600.jpg",
+                                  alt: "Close-up of financial analysis using a calculator and documents",
                                   style: {
                                     display: "block",
                                     width: "100%",
                                     height: "100%",
                                     borderRadius: "inherit",
                                     cornerShape: "inherit",
-                                    objectPosition: "center",
                                     objectFit: "cover",
+                                    objectPosition: "50% 50%",
                                   },
+                                  "data-pexels-photo": "33175651",
+                                  "data-photo-source":
+                                    "https://www.pexels.com/photo/financial-analysis-with-calculator-and-documents-33175651/",
                                 }}
                               />
                             </div>
@@ -2053,18 +2071,21 @@ export default function Testimonials() {
                                   sizes:
                                     "(min-width: 1200px) max(32px, 28px), (max-width: 809.98px) max(32px, 28px), (min-width: 810px) and (max-width: 1199.98px) max(32px, 28px)",
                                   srcSet:
-                                    "/assets/dbbe44c6e929b78484.jpg 796w,/assets/87c75e28db4edaff1c.jpg 896w",
-                                  src: "/assets/87c75e28db4edaff1c.jpg",
-                                  alt: "a man standing on a balcony with his arms crossed",
+                                    "/photos/pexels-33175651-480.jpg 480w, /photos/pexels-33175651-960.jpg 960w, /photos/pexels-33175651-1600.jpg 1600w",
+                                  src: "/photos/pexels-33175651-1600.jpg",
+                                  alt: "Close-up of financial analysis using a calculator and documents",
                                   style: {
                                     display: "block",
                                     width: "100%",
                                     height: "100%",
                                     borderRadius: "inherit",
                                     cornerShape: "inherit",
-                                    objectPosition: "center",
                                     objectFit: "fill",
+                                    objectPosition: "50% 50%",
                                   },
+                                  "data-pexels-photo": "33175651",
+                                  "data-photo-source":
+                                    "https://www.pexels.com/photo/financial-analysis-with-calculator-and-documents-33175651/",
                                 }}
                               />
                             </div>
@@ -2119,18 +2140,21 @@ export default function Testimonials() {
                                   sizes:
                                     "(min-width: 1200px) 28px, (max-width: 809.98px) 28px, (min-width: 810px) and (max-width: 1199.98px) 28px",
                                   srcSet:
-                                    "/assets/8da1a74e52d13e970c.jpg 796w,/assets/3e8163bbd9bdd2259c.jpg 896w",
-                                  src: "/assets/3e8163bbd9bdd2259c.jpg",
-                                  alt: "user pic",
+                                    "/photos/pexels-33175651-480.jpg 480w, /photos/pexels-33175651-960.jpg 960w, /photos/pexels-33175651-1600.jpg 1600w",
+                                  src: "/photos/pexels-33175651-1600.jpg",
+                                  alt: "Close-up of financial analysis using a calculator and documents",
                                   style: {
                                     display: "block",
                                     width: "100%",
                                     height: "100%",
                                     borderRadius: "inherit",
                                     cornerShape: "inherit",
-                                    objectPosition: "center",
                                     objectFit: "cover",
+                                    objectPosition: "50% 50%",
                                   },
+                                  "data-pexels-photo": "33175651",
+                                  "data-photo-source":
+                                    "https://www.pexels.com/photo/financial-analysis-with-calculator-and-documents-33175651/",
                                 }}
                               />
                             </div>
@@ -2398,14 +2422,8 @@ export default function Testimonials() {
                     }}
                   >
                     <div {...{ className: "framer-t4p0bh-container" }}>
-                      <video
+                      <img
                         {...{
-                          src: "/assets/60999496380d17e5ec.mp4",
-                          loop: true,
-                          preload: "none",
-                          poster: "/assets/bbae5e07753bbc4009.jpg",
-                          muted: true,
-                          playsInline: true,
                           style: {
                             cursor: "auto",
                             width: "100%",
@@ -2417,8 +2435,19 @@ export default function Testimonials() {
                               "var(--token-1ad0dd99-5aec-4e1d-804a-3c603649eb34, rgb(255, 255, 255))",
                             objectPosition: "50% 50%",
                           },
+                          width: "1600",
+                          height: "1067",
+                          loading: "eager",
+                          src: "/photos/pexels-33175651-1600.jpg",
+                          srcSet:
+                            "/photos/pexels-33175651-480.jpg 480w, /photos/pexels-33175651-960.jpg 960w, /photos/pexels-33175651-1600.jpg 1600w",
+                          alt: "Close-up of financial analysis using a calculator and documents",
+                          "data-pexels-photo": "33175651",
+                          "data-photo-source":
+                            "https://www.pexels.com/photo/financial-analysis-with-calculator-and-documents-33175651/",
+                          decoding: "async",
                         }}
-                      ></video>
+                      />
                     </div>
                     <div
                       {...{

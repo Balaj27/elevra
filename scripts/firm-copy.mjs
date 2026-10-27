@@ -1,4 +1,5 @@
 import {firm,services,industries,values,faqs,articles} from '../lib/firm-content.js';
+import {applyPexelsPhotos} from './pexels-photos.mjs';
 
 // Change content in the captured DOM without replacing its elements, classes,
 // inline styles, image assets, or responsive variants.
@@ -207,4 +208,5 @@ export function applyFirmCopy($,slug='home'){
  function walk(node){for(const child of node.children||[]){if(child.type==='text')child.data=child.data.replaceAll('Elevra',firm.name).replaceAll('Designed in Framer By','Professional services by');else if(child.type==='tag')walk(child);}}
  walk($('body')[0]);
  $('title').text(firm.name+' | '+({home:'Tax & Accounting in Greater Houston',about:'About Our Firm',services:'Our Services',insights:'Firm Insights',contact:'Contact Us'}[slug]||'Professional Services'));
+ applyPexelsPhotos($,slug);
 }

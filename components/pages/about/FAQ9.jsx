@@ -931,14 +931,8 @@ export default function FAQ9() {
                     }}
                   >
                     <div {...{ className: "framer-t4p0bh-container" }}>
-                      <video
+                      <img
                         {...{
-                          src: "/assets/60999496380d17e5ec.mp4",
-                          loop: true,
-                          preload: "none",
-                          poster: "/assets/bbae5e07753bbc4009.jpg",
-                          muted: true,
-                          playsInline: true,
                           style: {
                             cursor: "auto",
                             width: "100%",
@@ -950,8 +944,19 @@ export default function FAQ9() {
                               "var(--token-1ad0dd99-5aec-4e1d-804a-3c603649eb34, rgb(255, 255, 255))",
                             objectPosition: "50% 50%",
                           },
+                          width: "1600",
+                          height: "1067",
+                          loading: "eager",
+                          src: "/photos/pexels-20843180-1600.jpg",
+                          srcSet:
+                            "/photos/pexels-20843180-480.jpg 480w, /photos/pexels-20843180-960.jpg 960w, /photos/pexels-20843180-1600.jpg 1600w",
+                          alt: "Modern glass office building against a blue sky",
+                          "data-pexels-photo": "20843180",
+                          "data-photo-source":
+                            "https://www.pexels.com/photo/office-building-with-a-glass-facade-against-the-blue-sky-20843180/",
+                          decoding: "async",
                         }}
-                      ></video>
+                      />
                     </div>
                     <div
                       {...{
@@ -1930,14 +1935,8 @@ export default function FAQ9() {
                     }}
                   >
                     <div {...{ className: "framer-t4p0bh-container" }}>
-                      <video
+                      <img
                         {...{
-                          src: "/assets/60999496380d17e5ec.mp4",
-                          loop: true,
-                          preload: "none",
-                          poster: "/assets/bbae5e07753bbc4009.jpg",
-                          muted: true,
-                          playsInline: true,
                           style: {
                             cursor: "auto",
                             width: "100%",
@@ -1949,8 +1948,19 @@ export default function FAQ9() {
                               "var(--token-1ad0dd99-5aec-4e1d-804a-3c603649eb34, rgb(255, 255, 255))",
                             objectPosition: "50% 50%",
                           },
+                          width: "1600",
+                          height: "1067",
+                          loading: "eager",
+                          src: "/photos/pexels-20843180-1600.jpg",
+                          srcSet:
+                            "/photos/pexels-20843180-480.jpg 480w, /photos/pexels-20843180-960.jpg 960w, /photos/pexels-20843180-1600.jpg 1600w",
+                          alt: "Modern glass office building against a blue sky",
+                          "data-pexels-photo": "20843180",
+                          "data-photo-source":
+                            "https://www.pexels.com/photo/office-building-with-a-glass-facade-against-the-blue-sky-20843180/",
+                          decoding: "async",
                         }}
-                      ></video>
+                      />
                     </div>
                     <div
                       {...{

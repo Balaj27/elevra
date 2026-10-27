@@ -209,18 +209,21 @@ export default function About4() {
                       sizes:
                         "(min-width: 1200px) calc(max((min(max(100vw, 1px), 1440px) - 96px) / 3, 1px) - 32px), (max-width: 809.98px) calc(min(max(100vw, 1px), 1440px) - 64px), (min-width: 810px) and (max-width: 1199.98px) calc(max((min(max(100vw, 1px), 1440px) - 56px) / 2, 50px) - 32px)",
                       srcSet:
-                        "/assets/c784de5efa70dbaa3a.png 512w,/assets/1b5ad7ab7982bff65b.png 1024w,/assets/de39da2e61546b9c16.png 1174w",
-                      src: "/assets/de39da2e61546b9c16.png",
-                      alt: "",
+                        "/photos/pexels-20843180-480.jpg 480w, /photos/pexels-20843180-960.jpg 960w, /photos/pexels-20843180-1600.jpg 1600w",
+                      src: "/photos/pexels-20843180-1600.jpg",
+                      alt: "Modern glass office building against a blue sky",
                       style: {
                         display: "block",
                         width: "100%",
                         height: "100%",
                         borderRadius: "inherit",
                         cornerShape: "inherit",
-                        objectPosition: "center",
                         objectFit: "cover",
+                        objectPosition: "50% 50%",
                       },
+                      "data-pexels-photo": "20843180",
+                      "data-photo-source":
+                        "https://www.pexels.com/photo/office-building-with-a-glass-facade-against-the-blue-sky-20843180/",
                     }}
                   />
                 </div>
@@ -580,14 +583,8 @@ export default function About4() {
                   }}
                 >
                   <div {...{ className: "framer-t4p0bh-container" }}>
-                    <video
+                    <img
                       {...{
-                        src: "/assets/81d85c1b9e570992b3.mp4",
-                        loop: true,
-                        preload: "none",
-                        poster: "/assets/df595b238c6e6fb59d.png",
-                        muted: true,
-                        playsInline: true,
                         style: {
                           cursor: "auto",
                           width: "100%",
@@ -599,8 +596,19 @@ export default function About4() {
                             "var(--token-1ad0dd99-5aec-4e1d-804a-3c603649eb34, rgb(255, 255, 255))",
                           objectPosition: "50% 50%",
                         },
+                        width: "1600",
+                        height: "1067",
+                        loading: "eager",
+                        src: "/photos/pexels-20843180-1600.jpg",
+                        srcSet:
+                          "/photos/pexels-20843180-480.jpg 480w, /photos/pexels-20843180-960.jpg 960w, /photos/pexels-20843180-1600.jpg 1600w",
+                        alt: "Modern glass office building against a blue sky",
+                        "data-pexels-photo": "20843180",
+                        "data-photo-source":
+                          "https://www.pexels.com/photo/office-building-with-a-glass-facade-against-the-blue-sky-20843180/",
+                        decoding: "async",
                       }}
-                    ></video>
+                    />
                   </div>
                   <div
                     {...{

@@ -237,14 +237,8 @@ export default function Process() {
                         }}
                       >
                         <div {...{ className: "framer-t4p0bh-container" }}>
-                          <video
+                          <img
                             {...{
-                              src: "/assets/50e8ea33630d93f2b0.mp4",
-                              loop: true,
-                              preload: "none",
-                              poster: "/assets/e4cc2176b5f442df1b.png",
-                              muted: true,
-                              playsInline: true,
                               style: {
                                 cursor: "auto",
                                 width: "100%",
@@ -256,8 +250,19 @@ export default function Process() {
                                   "var(--token-1ad0dd99-5aec-4e1d-804a-3c603649eb34, rgb(255, 255, 255))",
                                 objectPosition: "50% 50%",
                               },
+                              width: "1600",
+                              height: "1067",
+                              loading: "eager",
+                              src: "/photos/pexels-7869102-1600.jpg",
+                              srcSet:
+                                "/photos/pexels-7869102-480.jpg 480w, /photos/pexels-7869102-960.jpg 960w, /photos/pexels-7869102-1600.jpg 1600w",
+                              alt: "Professionals discussing plans around an office meeting table",
+                              "data-pexels-photo": "7869102",
+                              "data-photo-source":
+                                "https://www.pexels.com/photo/people-having-a-meeting-at-the-office-7869102/",
+                              decoding: "async",
                             }}
-                          ></video>
+                          />
                         </div>
                         <div
                           {...{
@@ -497,14 +502,8 @@ export default function Process() {
                         }}
                       >
                         <div {...{ className: "framer-t4p0bh-container" }}>
-                          <video
+                          <img
                             {...{
-                              src: "/assets/50e8ea33630d93f2b0.mp4",
-                              loop: true,
-                              preload: "none",
-                              poster: "/assets/e4cc2176b5f442df1b.png",
-                              muted: true,
-                              playsInline: true,
                               style: {
                                 cursor: "auto",
                                 width: "100%",
@@ -516,8 +515,19 @@ export default function Process() {
                                   "var(--token-1ad0dd99-5aec-4e1d-804a-3c603649eb34, rgb(255, 255, 255))",
                                 objectPosition: "50% 50%",
                               },
+                              width: "1600",
+                              height: "1067",
+                              loading: "eager",
+                              src: "/photos/pexels-8296970-1600.jpg",
+                              srcSet:
+                                "/photos/pexels-8296970-480.jpg 480w, /photos/pexels-8296970-960.jpg 960w, /photos/pexels-8296970-1600.jpg 1600w",
+                              alt: "Financial documents being reviewed with a calculator and pen",
+                              "data-pexels-photo": "8296970",
+                              "data-photo-source":
+                                "https://www.pexels.com/photo/a-person-examining-documents-8296970/",
+                              decoding: "async",
                             }}
-                          ></video>
+                          />
                         </div>
                         <div
                           {...{
@@ -757,14 +767,8 @@ export default function Process() {
                         }}
                       >
                         <div {...{ className: "framer-t4p0bh-container" }}>
-                          <video
+                          <img
                             {...{
-                              src: "/assets/50e8ea33630d93f2b0.mp4",
-                              loop: true,
-                              preload: "none",
-                              poster: "/assets/e4cc2176b5f442df1b.png",
-                              muted: true,
-                              playsInline: true,
                               style: {
                                 cursor: "auto",
                                 width: "100%",
@@ -776,8 +780,19 @@ export default function Process() {
                                   "var(--token-1ad0dd99-5aec-4e1d-804a-3c603649eb34, rgb(255, 255, 255))",
                                 objectPosition: "50% 50%",
                               },
+                              width: "1600",
+                              height: "1067",
+                              loading: "eager",
+                              src: "/photos/pexels-6694492-1600.jpg",
+                              srcSet:
+                                "/photos/pexels-6694492-480.jpg 480w, /photos/pexels-6694492-960.jpg 960w, /photos/pexels-6694492-1600.jpg 1600w",
+                              alt: "Accounting workspace with a laptop, financial reports and a calculator",
+                              "data-pexels-photo": "6694492",
+                              "data-photo-source":
+                                "https://www.pexels.com/photo/an-accountant-s-workspace-6694492/",
+                              decoding: "async",
                             }}
-                          ></video>
+                          />
                         </div>
                         <div
                           {...{
@@ -1017,14 +1032,8 @@ export default function Process() {
                         }}
                       >
                         <div {...{ className: "framer-t4p0bh-container" }}>
-                          <video
+                          <img
                             {...{
-                              src: "/assets/50e8ea33630d93f2b0.mp4",
-                              loop: true,
-                              preload: "none",
-                              poster: "/assets/e4cc2176b5f442df1b.png",
-                              muted: true,
-                              playsInline: true,
                               style: {
                                 cursor: "auto",
                                 width: "100%",
@@ -1036,8 +1045,19 @@ export default function Process() {
                                   "var(--token-1ad0dd99-5aec-4e1d-804a-3c603649eb34, rgb(255, 255, 255))",
                                 objectPosition: "50% 50%",
                               },
+                              width: "1600",
+                              height: "1067",
+                              loading: "eager",
+                              src: "/photos/pexels-33175651-1600.jpg",
+                              srcSet:
+                                "/photos/pexels-33175651-480.jpg 480w, /photos/pexels-33175651-960.jpg 960w, /photos/pexels-33175651-1600.jpg 1600w",
+                              alt: "Close-up of financial analysis using a calculator and documents",
+                              "data-pexels-photo": "33175651",
+                              "data-photo-source":
+                                "https://www.pexels.com/photo/financial-analysis-with-calculator-and-documents-33175651/",
+                              decoding: "async",
                             }}
-                          ></video>
+                          />
                         </div>
                         <div
                           {...{
@@ -1310,14 +1330,8 @@ export default function Process() {
                         }}
                       >
                         <div {...{ className: "framer-t4p0bh-container" }}>
-                          <video
+                          <img
                             {...{
-                              src: "/assets/50e8ea33630d93f2b0.mp4",
-                              loop: true,
-                              preload: "none",
-                              poster: "/assets/e4cc2176b5f442df1b.png",
-                              muted: true,
-                              playsInline: true,
                               style: {
                                 cursor: "auto",
                                 width: "100%",
@@ -1329,8 +1343,19 @@ export default function Process() {
                                   "var(--token-1ad0dd99-5aec-4e1d-804a-3c603649eb34, rgb(255, 255, 255))",
                                 objectPosition: "50% 50%",
                               },
+                              width: "1600",
+                              height: "1067",
+                              loading: "eager",
+                              src: "/photos/pexels-7869102-1600.jpg",
+                              srcSet:
+                                "/photos/pexels-7869102-480.jpg 480w, /photos/pexels-7869102-960.jpg 960w, /photos/pexels-7869102-1600.jpg 1600w",
+                              alt: "Professionals discussing plans around an office meeting table",
+                              "data-pexels-photo": "7869102",
+                              "data-photo-source":
+                                "https://www.pexels.com/photo/people-having-a-meeting-at-the-office-7869102/",
+                              decoding: "async",
                             }}
-                          ></video>
+                          />
                         </div>
                         <div
                           {...{
@@ -1569,14 +1594,8 @@ export default function Process() {
                         }}
                       >
                         <div {...{ className: "framer-t4p0bh-container" }}>
-                          <video
+                          <img
                             {...{
-                              src: "/assets/50e8ea33630d93f2b0.mp4",
-                              loop: true,
-                              preload: "none",
-                              poster: "/assets/e4cc2176b5f442df1b.png",
-                              muted: true,
-                              playsInline: true,
                               style: {
                                 cursor: "auto",
                                 width: "100%",
@@ -1588,8 +1607,19 @@ export default function Process() {
                                   "var(--token-1ad0dd99-5aec-4e1d-804a-3c603649eb34, rgb(255, 255, 255))",
                                 objectPosition: "50% 50%",
                               },
+                              width: "1600",
+                              height: "1067",
+                              loading: "eager",
+                              src: "/photos/pexels-8296970-1600.jpg",
+                              srcSet:
+                                "/photos/pexels-8296970-480.jpg 480w, /photos/pexels-8296970-960.jpg 960w, /photos/pexels-8296970-1600.jpg 1600w",
+                              alt: "Financial documents being reviewed with a calculator and pen",
+                              "data-pexels-photo": "8296970",
+                              "data-photo-source":
+                                "https://www.pexels.com/photo/a-person-examining-documents-8296970/",
+                              decoding: "async",
                             }}
-                          ></video>
+                          />
                         </div>
                         <div
                           {...{
@@ -1828,14 +1858,8 @@ export default function Process() {
                         }}
                       >
                         <div {...{ className: "framer-t4p0bh-container" }}>
-                          <video
+                          <img
                             {...{
-                              src: "/assets/50e8ea33630d93f2b0.mp4",
-                              loop: true,
-                              preload: "none",
-                              poster: "/assets/e4cc2176b5f442df1b.png",
-                              muted: true,
-                              playsInline: true,
                               style: {
                                 cursor: "auto",
                                 width: "100%",
@@ -1847,8 +1871,19 @@ export default function Process() {
                                   "var(--token-1ad0dd99-5aec-4e1d-804a-3c603649eb34, rgb(255, 255, 255))",
                                 objectPosition: "50% 50%",
                               },
+                              width: "1600",
+                              height: "1067",
+                              loading: "eager",
+                              src: "/photos/pexels-6694492-1600.jpg",
+                              srcSet:
+                                "/photos/pexels-6694492-480.jpg 480w, /photos/pexels-6694492-960.jpg 960w, /photos/pexels-6694492-1600.jpg 1600w",
+                              alt: "Accounting workspace with a laptop, financial reports and a calculator",
+                              "data-pexels-photo": "6694492",
+                              "data-photo-source":
+                                "https://www.pexels.com/photo/an-accountant-s-workspace-6694492/",
+                              decoding: "async",
                             }}
-                          ></video>
+                          />
                         </div>
                         <div
                           {...{
@@ -2087,14 +2122,8 @@ export default function Process() {
                         }}
                       >
                         <div {...{ className: "framer-t4p0bh-container" }}>
-                          <video
+                          <img
                             {...{
-                              src: "/assets/50e8ea33630d93f2b0.mp4",
-                              loop: true,
-                              preload: "none",
-                              poster: "/assets/e4cc2176b5f442df1b.png",
-                              muted: true,
-                              playsInline: true,
                               style: {
                                 cursor: "auto",
                                 width: "100%",
@@ -2106,8 +2135,19 @@ export default function Process() {
                                   "var(--token-1ad0dd99-5aec-4e1d-804a-3c603649eb34, rgb(255, 255, 255))",
                                 objectPosition: "50% 50%",
                               },
+                              width: "1600",
+                              height: "1067",
+                              loading: "eager",
+                              src: "/photos/pexels-33175651-1600.jpg",
+                              srcSet:
+                                "/photos/pexels-33175651-480.jpg 480w, /photos/pexels-33175651-960.jpg 960w, /photos/pexels-33175651-1600.jpg 1600w",
+                              alt: "Close-up of financial analysis using a calculator and documents",
+                              "data-pexels-photo": "33175651",
+                              "data-photo-source":
+                                "https://www.pexels.com/photo/financial-analysis-with-calculator-and-documents-33175651/",
+                              decoding: "async",
                             }}
-                          ></video>
+                          />
                         </div>
                         <div
                           {...{

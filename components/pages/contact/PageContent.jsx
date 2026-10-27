@@ -264,14 +264,8 @@ export default function PageContent() {
                               <div
                                 {...{ className: "framer-t4p0bh-container" }}
                               >
-                                <video
+                                <img
                                   {...{
-                                    src: "/assets/7310ae5e030a693528.mp4",
-                                    loop: true,
-                                    preload: "none",
-                                    poster: "/assets/8316031300bb4f3418.png",
-                                    muted: true,
-                                    playsInline: true,
                                     style: {
                                       cursor: "auto",
                                       width: "100%",
@@ -283,8 +277,19 @@ export default function PageContent() {
                                         "var(--token-1ad0dd99-5aec-4e1d-804a-3c603649eb34, rgb(255, 255, 255))",
                                       objectPosition: "50% 50%",
                                     },
+                                    width: "1600",
+                                    height: "1067",
+                                    loading: "eager",
+                                    src: "/photos/pexels-6694492-1600.jpg",
+                                    srcSet:
+                                      "/photos/pexels-6694492-480.jpg 480w, /photos/pexels-6694492-960.jpg 960w, /photos/pexels-6694492-1600.jpg 1600w",
+                                    alt: "Accounting workspace with a laptop, financial reports and a calculator",
+                                    "data-pexels-photo": "6694492",
+                                    "data-photo-source":
+                                      "https://www.pexels.com/photo/an-accountant-s-workspace-6694492/",
+                                    decoding: "async",
                                   }}
-                                ></video>
+                                />
                               </div>
                               <div
                                 {...{

@@ -3,24 +3,24 @@
     "route": "/about",
     "title": "S MAGO CPA, PC | About",
     "components": 13,
-    "assets": 94
+    "assets": 70
   },
   {
     "route": "/services",
     "title": "S MAGO CPA, PC | Services",
     "components": 9,
-    "assets": 93
+    "assets": 70
   },
   {
     "route": "/insights",
     "title": "S MAGO CPA, PC | Insights",
     "components": 7,
-    "assets": 100
+    "assets": 70
   },
   {
     "route": "/contact",
     "title": "S MAGO CPA, PC | Contact",
     "components": 6,
-    "assets": 74
+    "assets": 70
   }
 ]

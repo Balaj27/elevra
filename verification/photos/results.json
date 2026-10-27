@@ -1,0 +1,92 @@
+[
+  {
+    "route": "/",
+    "width": 1440,
+    "photos": 67
+  },
+  {
+    "route": "/about",
+    "width": 1440,
+    "photos": 31
+  },
+  {
+    "route": "/services",
+    "width": 1440,
+    "photos": 30
+  },
+  {
+    "route": "/contact",
+    "width": 1440,
+    "photos": 3
+  },
+  {
+    "route": "/insights",
+    "width": 1440,
+    "photos": 19
+  },
+  {
+    "route": "/insights/a-clearer-picture-of-your-business",
+    "width": 1440,
+    "photos": 1
+  },
+  {
+    "route": "/insights/a-personal-approach-to-tax-services",
+    "width": 1440,
+    "photos": 1
+  },
+  {
+    "route": "/insights/support-for-your-next-business-chapter",
+    "width": 1440,
+    "photos": 1
+  },
+  {
+    "route": "/insights/a-confidential-conversation-about-irs-matters",
+    "width": 1440,
+    "photos": 1
+  },
+  {
+    "route": "/",
+    "width": 390,
+    "photos": 67
+  },
+  {
+    "route": "/about",
+    "width": 390,
+    "photos": 31
+  },
+  {
+    "route": "/services",
+    "width": 390,
+    "photos": 30
+  },
+  {
+    "route": "/contact",
+    "width": 390,
+    "photos": 3
+  },
+  {
+    "route": "/insights",
+    "width": 390,
+    "photos": 19
+  },
+  {
+    "route": "/insights/a-clearer-picture-of-your-business",
+    "width": 390,
+    "photos": 1
+  },
+  {
+    "route": "/insights/a-personal-approach-to-tax-services",
+    "width": 390,
+    "photos": 1
+  },
+  {
+    "route": "/insights/support-for-your-next-business-chapter",
+    "width": 390,
+    "photos": 1
+  },
+  {
+    "route": "/insights/a-confidential-conversation-about-irs-matters",
+    "width": 390,
+    "photos": 1
+  }
+]

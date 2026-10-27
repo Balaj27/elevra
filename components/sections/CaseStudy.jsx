@@ -1003,19 +1003,22 @@ export default function CaseStudy() {
                                     sizes:
                                       "(min-width: 1200px) max((max(min(max(100vw, 1px), 1440px) - 68px, 1px) - 84px) / 2, 1px), (max-width: 809.98px) max(max(min(max(100vw, 1px), 1440px) - 32px, 1px) - 20px, 1px), (min-width: 810px) and (max-width: 1199.98px) max(max(min(max(100vw, 1px), 1440px) - 48px, 1px) - 20px, 1px)",
                                     srcSet:
-                                      "/assets/3a7e95f6e307ed08ea.png 512w,/assets/eace6a693ff5cd71b3.png 1024w,/assets/a88d83555f4cb21f89.png 1448w",
-                                    src: "/assets/a88d83555f4cb21f89.png",
-                                    alt: "",
+                                      "/photos/pexels-4342129-480.jpg 480w, /photos/pexels-4342129-960.jpg 960w, /photos/pexels-4342129-1600.jpg 1600w",
+                                    src: "/photos/pexels-4342129-1600.jpg",
+                                    alt: "Business professionals collaborating in an office meeting",
                                     style: {
                                       display: "block",
                                       width: "100%",
                                       height: "100%",
                                       borderRadius: "inherit",
                                       cornerShape: "inherit",
-                                      objectPosition: "center",
                                       objectFit: "cover",
+                                      objectPosition: "50% 50%",
                                     },
                                     loading: "eager",
+                                    "data-pexels-photo": "4342129",
+                                    "data-photo-source":
+                                      "https://www.pexels.com/photo/business-meeting-in-the-office-4342129/",
                                   }}
                                 />
                               </div>
@@ -1910,19 +1913,22 @@ export default function CaseStudy() {
                                     sizes:
                                       "(min-width: 1200px) max((max(min(max(100vw, 1px), 1440px) - 68px, 1px) - 84px) / 2, 1px), (max-width: 809.98px) max(max(min(max(100vw, 1px), 1440px) - 32px, 1px) - 20px, 1px), (min-width: 810px) and (max-width: 1199.98px) max(max(min(max(100vw, 1px), 1440px) - 48px, 1px) - 20px, 1px)",
                                     srcSet:
-                                      "/assets/3a7e95f6e307ed08ea.png 512w,/assets/eace6a693ff5cd71b3.png 1024w,/assets/a88d83555f4cb21f89.png 1448w",
-                                    src: "/assets/a88d83555f4cb21f89.png",
-                                    alt: "",
+                                      "/photos/pexels-4342129-480.jpg 480w, /photos/pexels-4342129-960.jpg 960w, /photos/pexels-4342129-1600.jpg 1600w",
+                                    src: "/photos/pexels-4342129-1600.jpg",
+                                    alt: "Business professionals collaborating in an office meeting",
                                     style: {
                                       display: "block",
                                       width: "100%",
                                       height: "100%",
                                       borderRadius: "inherit",
                                       cornerShape: "inherit",
-                                      objectPosition: "center",
                                       objectFit: "cover",
+                                      objectPosition: "50% 50%",
                                     },
                                     loading: "eager",
+                                    "data-pexels-photo": "4342129",
+                                    "data-photo-source":
+                                      "https://www.pexels.com/photo/business-meeting-in-the-office-4342129/",
                                   }}
                                 />
                               </div>
@@ -2606,19 +2612,22 @@ export default function CaseStudy() {
                                     sizes:
                                       "(min-width: 1200px) max((max(min(max(100vw, 1px), 1440px) - 68px, 1px) - 84px) / 2, 1px), (max-width: 809.98px) max(max(min(max(100vw, 1px), 1440px) - 32px, 1px) - 20px, 1px), (min-width: 810px) and (max-width: 1199.98px) max(max(min(max(100vw, 1px), 1440px) - 48px, 1px) - 20px, 1px)",
                                     srcSet:
-                                      "/assets/3a7e95f6e307ed08ea.png 512w,/assets/eace6a693ff5cd71b3.png 1024w,/assets/a88d83555f4cb21f89.png 1448w",
-                                    src: "/assets/a88d83555f4cb21f89.png",
-                                    alt: "",
+                                      "/photos/pexels-4342129-480.jpg 480w, /photos/pexels-4342129-960.jpg 960w, /photos/pexels-4342129-1600.jpg 1600w",
+                                    src: "/photos/pexels-4342129-1600.jpg",
+                                    alt: "Business professionals collaborating in an office meeting",
                                     style: {
                                       display: "block",
                                       width: "100%",
                                       height: "100%",
                                       borderRadius: "inherit",
                                       cornerShape: "inherit",
-                                      objectPosition: "center",
                                       objectFit: "cover",
+                                      objectPosition: "50% 50%",
                                     },
                                     loading: "eager",
+                                    "data-pexels-photo": "4342129",
+                                    "data-photo-source":
+                                      "https://www.pexels.com/photo/business-meeting-in-the-office-4342129/",
                                   }}
                                 />
                               </div>

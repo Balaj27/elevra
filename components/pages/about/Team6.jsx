@@ -291,18 +291,21 @@ export default function Team6() {
                               sizes:
                                 "(min-width: 1200px) max(max(max((max((min(max(100vw, 1px), 1440px) - 128px) / 2, 1px) - 16px) / 3, 50px), 1px), 32px, 28px), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1440px) - 40px) / 2, 50px), 1px), 32px, 28px), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(max(100vw, 1px), 1440px) - 64px) / 3, 50px), 1px), 32px, 28px)",
                               srcSet:
-                                "/assets/d1ad22164612fee213.jpg 796w,/assets/1b0856962518384dac.jpg 896w",
-                              src: "/assets/1b0856962518384dac.jpg",
-                              alt: "",
+                                "/photos/pexels-6694492-480.jpg 480w, /photos/pexels-6694492-960.jpg 960w, /photos/pexels-6694492-1600.jpg 1600w",
+                              src: "/photos/pexels-6694492-1600.jpg",
+                              alt: "Accounting workspace with a laptop, financial reports and a calculator",
                               style: {
                                 display: "block",
                                 width: "100%",
                                 height: "100%",
                                 borderRadius: "inherit",
                                 cornerShape: "inherit",
-                                objectPosition: "center",
                                 objectFit: "cover",
+                                objectPosition: "50% 50%",
                               },
+                              "data-pexels-photo": "6694492",
+                              "data-photo-source":
+                                "https://www.pexels.com/photo/an-accountant-s-workspace-6694492/",
                             }}
                           />
                         </div>
@@ -644,18 +647,21 @@ export default function Team6() {
                               sizes:
                                 "(min-width: 1200px) max(max(max((max((min(max(100vw, 1px), 1440px) - 128px) / 2, 1px) - 16px) / 3, 50px), 1px), 32px, 28px), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1440px) - 40px) / 2, 50px), 1px), 32px, 28px), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(max(100vw, 1px), 1440px) - 64px) / 3, 50px), 1px), 32px, 28px)",
                               srcSet:
-                                "/assets/d1ad22164612fee213.jpg 796w,/assets/1b0856962518384dac.jpg 896w",
-                              src: "/assets/1b0856962518384dac.jpg",
-                              alt: "",
+                                "/photos/pexels-6694492-480.jpg 480w, /photos/pexels-6694492-960.jpg 960w, /photos/pexels-6694492-1600.jpg 1600w",
+                              src: "/photos/pexels-6694492-1600.jpg",
+                              alt: "Accounting workspace with a laptop, financial reports and a calculator",
                               style: {
                                 display: "block",
                                 width: "100%",
                                 height: "100%",
                                 borderRadius: "inherit",
                                 cornerShape: "inherit",
-                                objectPosition: "center",
                                 objectFit: "cover",
+                                objectPosition: "50% 50%",
                               },
+                              "data-pexels-photo": "6694492",
+                              "data-photo-source":
+                                "https://www.pexels.com/photo/an-accountant-s-workspace-6694492/",
                             }}
                           />
                         </div>
@@ -997,18 +1003,21 @@ export default function Team6() {
                               sizes:
                                 "(min-width: 1200px) max(max((max((min(max(100vw, 1px), 1440px) - 128px) / 2, 1px) - 16px) / 3, 50px), 1px), (max-width: 809.98px) max(max((min(max(100vw, 1px), 1440px) - 40px) / 2, 50px), 1px), (min-width: 810px) and (max-width: 1199.98px) max(max((min(max(100vw, 1px), 1440px) - 64px) / 3, 50px), 1px)",
                               srcSet:
-                                "/assets/b0341e20995bfcedfa.jpg 796w,/assets/15704066ff873806c3.jpg 896w",
-                              src: "/assets/15704066ff873806c3.jpg",
-                              alt: "",
+                                "/photos/pexels-8296970-480.jpg 480w, /photos/pexels-8296970-960.jpg 960w, /photos/pexels-8296970-1600.jpg 1600w",
+                              src: "/photos/pexels-8296970-1600.jpg",
+                              alt: "Financial documents being reviewed with a calculator and pen",
                               style: {
                                 display: "block",
                                 width: "100%",
                                 height: "100%",
                                 borderRadius: "inherit",
                                 cornerShape: "inherit",
-                                objectPosition: "center",
                                 objectFit: "cover",
+                                objectPosition: "50% 50%",
                               },
+                              "data-pexels-photo": "8296970",
+                              "data-photo-source":
+                                "https://www.pexels.com/photo/a-person-examining-documents-8296970/",
                             }}
                           />
                         </div>
@@ -1350,18 +1359,21 @@ export default function Team6() {
                               sizes:
                                 "(min-width: 1200px) max(max((max((min(max(100vw, 1px), 1440px) - 128px) / 2, 1px) - 16px) / 3, 50px), 1px), (max-width: 809.98px) max(max((min(max(100vw, 1px), 1440px) - 40px) / 2, 50px), 1px), (min-width: 810px) and (max-width: 1199.98px) max(max((min(max(100vw, 1px), 1440px) - 64px) / 3, 50px), 1px)",
                               srcSet:
-                                "/assets/b0341e20995bfcedfa.jpg 796w,/assets/15704066ff873806c3.jpg 896w",
-                              src: "/assets/15704066ff873806c3.jpg",
-                              alt: "",
+                                "/photos/pexels-8296970-480.jpg 480w, /photos/pexels-8296970-960.jpg 960w, /photos/pexels-8296970-1600.jpg 1600w",
+                              src: "/photos/pexels-8296970-1600.jpg",
+                              alt: "Financial documents being reviewed with a calculator and pen",
                               style: {
                                 display: "block",
                                 width: "100%",
                                 height: "100%",
                                 borderRadius: "inherit",
                                 cornerShape: "inherit",
-                                objectPosition: "center",
                                 objectFit: "cover",
+                                objectPosition: "50% 50%",
                               },
+                              "data-pexels-photo": "8296970",
+                              "data-photo-source":
+                                "https://www.pexels.com/photo/a-person-examining-documents-8296970/",
                             }}
                           />
                         </div>
@@ -1703,18 +1715,21 @@ export default function Team6() {
                               sizes:
                                 "(min-width: 1200px) max(max(max((max((min(max(100vw, 1px), 1440px) - 128px) / 2, 1px) - 16px) / 3, 50px), 1px), 28px), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1440px) - 40px) / 2, 50px), 1px), 28px), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(max(100vw, 1px), 1440px) - 64px) / 3, 50px), 1px), 28px)",
                               srcSet:
-                                "/assets/8da1a74e52d13e970c.jpg 796w,/assets/3e8163bbd9bdd2259c.jpg 896w",
-                              src: "/assets/3e8163bbd9bdd2259c.jpg",
-                              alt: "",
+                                "/photos/pexels-4342129-480.jpg 480w, /photos/pexels-4342129-960.jpg 960w, /photos/pexels-4342129-1600.jpg 1600w",
+                              src: "/photos/pexels-4342129-1600.jpg",
+                              alt: "Business professionals collaborating in an office meeting",
                               style: {
                                 display: "block",
                                 width: "100%",
                                 height: "100%",
                                 borderRadius: "inherit",
                                 cornerShape: "inherit",
-                                objectPosition: "center",
                                 objectFit: "cover",
+                                objectPosition: "50% 50%",
                               },
+                              "data-pexels-photo": "4342129",
+                              "data-photo-source":
+                                "https://www.pexels.com/photo/business-meeting-in-the-office-4342129/",
                             }}
                           />
                         </div>
@@ -2056,18 +2071,21 @@ export default function Team6() {
                               sizes:
                                 "(min-width: 1200px) max(max(max((max((min(max(100vw, 1px), 1440px) - 128px) / 2, 1px) - 16px) / 3, 50px), 1px), 28px), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1440px) - 40px) / 2, 50px), 1px), 28px), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(max(100vw, 1px), 1440px) - 64px) / 3, 50px), 1px), 28px)",
                               srcSet:
-                                "/assets/8da1a74e52d13e970c.jpg 796w,/assets/3e8163bbd9bdd2259c.jpg 896w",
-                              src: "/assets/3e8163bbd9bdd2259c.jpg",
-                              alt: "",
+                                "/photos/pexels-4342129-480.jpg 480w, /photos/pexels-4342129-960.jpg 960w, /photos/pexels-4342129-1600.jpg 1600w",
+                              src: "/photos/pexels-4342129-1600.jpg",
+                              alt: "Business professionals collaborating in an office meeting",
                               style: {
                                 display: "block",
                                 width: "100%",
                                 height: "100%",
                                 borderRadius: "inherit",
                                 cornerShape: "inherit",
-                                objectPosition: "center",
                                 objectFit: "cover",
+                                objectPosition: "50% 50%",
                               },
+                              "data-pexels-photo": "4342129",
+                              "data-photo-source":
+                                "https://www.pexels.com/photo/business-meeting-in-the-office-4342129/",
                             }}
                           />
                         </div>
@@ -2409,18 +2427,21 @@ export default function Team6() {
                               sizes:
                                 "(min-width: 1200px) max(max(max((max((min(max(100vw, 1px), 1440px) - 128px) / 2, 1px) - 16px) / 3, 50px), 1px), 32px), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1440px) - 40px) / 2, 50px), 1px), 32px), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(max(100vw, 1px), 1440px) - 64px) / 3, 50px), 1px), 32px)",
                               srcSet:
-                                "/assets/9d172b29d7b5366cd5.jpg 796w,/assets/f5759c868f5900ba3d.jpg 896w",
-                              src: "/assets/f5759c868f5900ba3d.jpg",
-                              alt: "",
+                                "/photos/pexels-33175673-480.jpg 480w, /photos/pexels-33175673-960.jpg 960w, /photos/pexels-33175673-1600.jpg 1600w",
+                              src: "/photos/pexels-33175673-1600.jpg",
+                              alt: "Financial paperwork with a calculator, pen and glasses",
                               style: {
                                 display: "block",
                                 width: "100%",
                                 height: "100%",
                                 borderRadius: "inherit",
                                 cornerShape: "inherit",
-                                objectPosition: "center",
                                 objectFit: "cover",
+                                objectPosition: "50% 50%",
                               },
+                              "data-pexels-photo": "33175673",
+                              "data-photo-source":
+                                "https://www.pexels.com/photo/close-up-of-finance-document-with-calculator-and-glasses-33175673/",
                             }}
                           />
                         </div>
@@ -2762,18 +2783,21 @@ export default function Team6() {
                               sizes:
                                 "(min-width: 1200px) max(max(max((max((min(max(100vw, 1px), 1440px) - 128px) / 2, 1px) - 16px) / 3, 50px), 1px), 32px), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1440px) - 40px) / 2, 50px), 1px), 32px), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(max(100vw, 1px), 1440px) - 64px) / 3, 50px), 1px), 32px)",
                               srcSet:
-                                "/assets/9d172b29d7b5366cd5.jpg 796w,/assets/f5759c868f5900ba3d.jpg 896w",
-                              src: "/assets/f5759c868f5900ba3d.jpg",
-                              alt: "",
+                                "/photos/pexels-33175673-480.jpg 480w, /photos/pexels-33175673-960.jpg 960w, /photos/pexels-33175673-1600.jpg 1600w",
+                              src: "/photos/pexels-33175673-1600.jpg",
+                              alt: "Financial paperwork with a calculator, pen and glasses",
                               style: {
                                 display: "block",
                                 width: "100%",
                                 height: "100%",
                                 borderRadius: "inherit",
                                 cornerShape: "inherit",
-                                objectPosition: "center",
                                 objectFit: "cover",
+                                objectPosition: "50% 50%",
                               },
+                              "data-pexels-photo": "33175673",
+                              "data-photo-source":
+                                "https://www.pexels.com/photo/close-up-of-finance-document-with-calculator-and-glasses-33175673/",
                             }}
                           />
                         </div>
@@ -3115,18 +3139,21 @@ export default function Team6() {
                               sizes:
                                 "(min-width: 1200px) max(max((max((min(max(100vw, 1px), 1440px) - 128px) / 2, 1px) - 16px) / 3, 50px), 1px), (max-width: 809.98px) max(max((min(max(100vw, 1px), 1440px) - 40px) / 2, 50px), 1px), (min-width: 810px) and (max-width: 1199.98px) max(max((min(max(100vw, 1px), 1440px) - 64px) / 3, 50px), 1px)",
                               srcSet:
-                                "/assets/5a289e0c79a8ab2a10.jpg 796w,/assets/cddc7ab1212f0a5f21.jpg 896w",
-                              src: "/assets/cddc7ab1212f0a5f21.jpg",
-                              alt: "",
+                                "/photos/pexels-7821671-480.jpg 480w, /photos/pexels-7821671-960.jpg 960w, /photos/pexels-7821671-1600.jpg 1600w",
+                              src: "/photos/pexels-7821671-1600.jpg",
+                              alt: "Financial advisor discussing documents with a client in an office",
                               style: {
                                 display: "block",
                                 width: "100%",
                                 height: "100%",
                                 borderRadius: "inherit",
                                 cornerShape: "inherit",
-                                objectPosition: "center",
                                 objectFit: "cover",
+                                objectPosition: "50% 50%",
                               },
+                              "data-pexels-photo": "7821671",
+                              "data-photo-source":
+                                "https://www.pexels.com/photo/an-agent-showing-documents-to-his-client-7821671/",
                             }}
                           />
                         </div>
@@ -3468,18 +3495,21 @@ export default function Team6() {
                               sizes:
                                 "(min-width: 1200px) max(max((max((min(max(100vw, 1px), 1440px) - 128px) / 2, 1px) - 16px) / 3, 50px), 1px), (max-width: 809.98px) max(max((min(max(100vw, 1px), 1440px) - 40px) / 2, 50px), 1px), (min-width: 810px) and (max-width: 1199.98px) max(max((min(max(100vw, 1px), 1440px) - 64px) / 3, 50px), 1px)",
                               srcSet:
-                                "/assets/5a289e0c79a8ab2a10.jpg 796w,/assets/cddc7ab1212f0a5f21.jpg 896w",
-                              src: "/assets/cddc7ab1212f0a5f21.jpg",
-                              alt: "",
+                                "/photos/pexels-7821671-480.jpg 480w, /photos/pexels-7821671-960.jpg 960w, /photos/pexels-7821671-1600.jpg 1600w",
+                              src: "/photos/pexels-7821671-1600.jpg",
+                              alt: "Financial advisor discussing documents with a client in an office",
                               style: {
                                 display: "block",
                                 width: "100%",
                                 height: "100%",
                                 borderRadius: "inherit",
                                 cornerShape: "inherit",
-                                objectPosition: "center",
                                 objectFit: "cover",
+                                objectPosition: "50% 50%",
                               },
+                              "data-pexels-photo": "7821671",
+                              "data-photo-source":
+                                "https://www.pexels.com/photo/an-agent-showing-documents-to-his-client-7821671/",
                             }}
                           />
                         </div>
@@ -3821,18 +3851,21 @@ export default function Team6() {
                               sizes:
                                 "(min-width: 1200px) max(max(max((max((min(max(100vw, 1px), 1440px) - 128px) / 2, 1px) - 16px) / 3, 50px), 1px), 32px, 28px), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1440px) - 40px) / 2, 50px), 1px), 32px, 28px), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(max(100vw, 1px), 1440px) - 64px) / 3, 50px), 1px), 32px, 28px)",
                               srcSet:
-                                "/assets/dbbe44c6e929b78484.jpg 796w,/assets/87c75e28db4edaff1c.jpg 896w",
-                              src: "/assets/87c75e28db4edaff1c.jpg",
-                              alt: "",
+                                "/photos/pexels-7658322-480.jpg 480w, /photos/pexels-7658322-960.jpg 960w, /photos/pexels-7658322-1600.jpg 1600w",
+                              src: "/photos/pexels-7658322-1600.jpg",
+                              alt: "Two professionals reviewing financial documents together",
                               style: {
                                 display: "block",
                                 width: "100%",
                                 height: "100%",
                                 borderRadius: "inherit",
                                 cornerShape: "inherit",
-                                objectPosition: "center",
                                 objectFit: "cover",
+                                objectPosition: "50% 50%",
                               },
+                              "data-pexels-photo": "7658322",
+                              "data-photo-source":
+                                "https://www.pexels.com/photo/people-working-in-office-with-documents-7658322/",
                             }}
                           />
                         </div>
@@ -4174,18 +4207,21 @@ export default function Team6() {
                               sizes:
                                 "(min-width: 1200px) max(max(max((max((min(max(100vw, 1px), 1440px) - 128px) / 2, 1px) - 16px) / 3, 50px), 1px), 32px, 28px), (max-width: 809.98px) max(max(max((min(max(100vw, 1px), 1440px) - 40px) / 2, 50px), 1px), 32px, 28px), (min-width: 810px) and (max-width: 1199.98px) max(max(max((min(max(100vw, 1px), 1440px) - 64px) / 3, 50px), 1px), 32px, 28px)",
                               srcSet:
-                                "/assets/dbbe44c6e929b78484.jpg 796w,/assets/87c75e28db4edaff1c.jpg 896w",
-                              src: "/assets/87c75e28db4edaff1c.jpg",
-                              alt: "",
+                                "/photos/pexels-7658322-480.jpg 480w, /photos/pexels-7658322-960.jpg 960w, /photos/pexels-7658322-1600.jpg 1600w",
+                              src: "/photos/pexels-7658322-1600.jpg",
+                              alt: "Two professionals reviewing financial documents together",
                               style: {
                                 display: "block",
                                 width: "100%",
                                 height: "100%",
                                 borderRadius: "inherit",
                                 cornerShape: "inherit",
-                                objectPosition: "center",
                                 objectFit: "cover",
+                                objectPosition: "50% 50%",
                               },
+                              "data-pexels-photo": "7658322",
+                              "data-photo-source":
+                                "https://www.pexels.com/photo/people-working-in-office-with-documents-7658322/",
                             }}
                           />
                         </div>

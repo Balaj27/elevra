@@ -292,18 +292,21 @@ export default function Industries() {
                                       sizes:
                                         "(min-width: 1200px) 300px, (max-width: 809.98px) 240px, (min-width: 810px) and (max-width: 1199.98px) 280px",
                                       srcSet:
-                                        "/assets/d8b52a474666d42531.jpg 512w,/assets/886612cadcba964df0.jpg 1024w",
-                                      src: "/assets/886612cadcba964df0.jpg",
-                                      alt: "",
+                                        "/photos/pexels-19438560-480.jpg 480w, /photos/pexels-19438560-960.jpg 960w, /photos/pexels-19438560-1600.jpg 1600w",
+                                      src: "/photos/pexels-19438560-1600.jpg",
+                                      alt: "Healthcare professional wearing a white coat and stethoscope",
                                       style: {
                                         display: "block",
                                         width: "100%",
                                         height: "100%",
                                         borderRadius: "inherit",
                                         cornerShape: "inherit",
-                                        objectPosition: "center",
                                         objectFit: "cover",
+                                        objectPosition: "50% 35%",
                                       },
+                                      "data-pexels-photo": "19438560",
+                                      "data-photo-source":
+                                        "https://www.pexels.com/photo/doctor-19438560/",
                                     }}
                                   />
                                 </div>
@@ -480,18 +483,21 @@ export default function Industries() {
                                       sizes:
                                         "(min-width: 1200px) 300px, (max-width: 809.98px) 240px, (min-width: 810px) and (max-width: 1199.98px) 280px",
                                       srcSet:
-                                        "/assets/3fc5cd6e430344b7cb.jpg 512w,/assets/a4854a89198ba19205.jpg 1024w",
-                                      src: "/assets/a4854a89198ba19205.jpg",
-                                      alt: "",
+                                        "/photos/pexels-38763816-480.jpg 480w, /photos/pexels-38763816-960.jpg 960w, /photos/pexels-38763816-1600.jpg 1600w",
+                                      src: "/photos/pexels-38763816-1600.jpg",
+                                      alt: "Engineers in hard hats discussing a construction project",
                                       style: {
                                         display: "block",
                                         width: "100%",
                                         height: "100%",
                                         borderRadius: "inherit",
                                         cornerShape: "inherit",
-                                        objectPosition: "center",
                                         objectFit: "cover",
+                                        objectPosition: "50% 50%",
                                       },
+                                      "data-pexels-photo": "38763816",
+                                      "data-photo-source":
+                                        "https://www.pexels.com/photo/construction-site-meeting-with-engineers-in-hard-hats-38763816/",
                                     }}
                                   />
                                 </div>
@@ -668,18 +674,21 @@ export default function Industries() {
                                       sizes:
                                         "(min-width: 1200px) 300px, (max-width: 809.98px) 240px, (min-width: 810px) and (max-width: 1199.98px) 280px",
                                       srcSet:
-                                        "/assets/6bc6dfc5df6da695eb.jpg 512w,/assets/2c87f585bab859809e.jpg 1024w",
-                                      src: "/assets/2c87f585bab859809e.jpg",
-                                      alt: "",
+                                        "/photos/pexels-24818960-480.jpg 480w, /photos/pexels-24818960-960.jpg 960w, /photos/pexels-24818960-1600.jpg 1600w",
+                                      src: "/photos/pexels-24818960-1600.jpg",
+                                      alt: "Residential houses and apartment buildings surrounded by greenery",
                                       style: {
                                         display: "block",
                                         width: "100%",
                                         height: "100%",
                                         borderRadius: "inherit",
                                         cornerShape: "inherit",
-                                        objectPosition: "center",
                                         objectFit: "cover",
+                                        objectPosition: "50% 50%",
                                       },
+                                      "data-pexels-photo": "24818960",
+                                      "data-photo-source":
+                                        "https://www.pexels.com/photo/view-of-a-house-and-apartment-buildings-in-a-city-24818960/",
                                     }}
                                   />
                                 </div>
@@ -856,18 +865,21 @@ export default function Industries() {
                                       sizes:
                                         "(min-width: 1200px) 300px, (max-width: 809.98px) 240px, (min-width: 810px) and (max-width: 1199.98px) 280px",
                                       srcSet:
-                                        "/assets/ed3cf25900e824bae4.jpg 512w,/assets/61198317566b2270db.jpg 1024w",
-                                      src: "/assets/61198317566b2270db.jpg",
-                                      alt: "",
+                                        "/photos/pexels-6044231-480.jpg 480w, /photos/pexels-6044231-960.jpg 960w, /photos/pexels-6044231-1600.jpg 1600w",
+                                      src: "/photos/pexels-6044231-1600.jpg",
+                                      alt: "Clothing boutique interior with a counter and retail displays",
                                       style: {
                                         display: "block",
                                         width: "100%",
                                         height: "100%",
                                         borderRadius: "inherit",
                                         cornerShape: "inherit",
-                                        objectPosition: "center",
                                         objectFit: "cover",
+                                        objectPosition: "50% 50%",
                                       },
+                                      "data-pexels-photo": "6044231",
+                                      "data-photo-source":
+                                        "https://www.pexels.com/photo/interior-of-modern-clothes-shop-with-counter-6044231/",
                                     }}
                                   />
                                 </div>
@@ -1044,18 +1056,21 @@ export default function Industries() {
                                       sizes:
                                         "(min-width: 1200px) 300px, (max-width: 809.98px) 240px, (min-width: 810px) and (max-width: 1199.98px) 280px",
                                       srcSet:
-                                        "/assets/d55cccd37a8aa6e1cc.jpg 512w,/assets/b2db87d1fae894e809.jpg 1024w",
-                                      src: "/assets/b2db87d1fae894e809.jpg",
-                                      alt: "",
+                                        "/photos/pexels-12638919-480.jpg 480w, /photos/pexels-12638919-960.jpg 960w, /photos/pexels-12638919-1600.jpg 1600w",
+                                      src: "/photos/pexels-12638919-1600.jpg",
+                                      alt: "Restaurant tables and chairs in a contemporary dining room",
                                       style: {
                                         display: "block",
                                         width: "100%",
                                         height: "100%",
                                         borderRadius: "inherit",
                                         cornerShape: "inherit",
-                                        objectPosition: "center",
                                         objectFit: "cover",
+                                        objectPosition: "50% 50%",
                                       },
+                                      "data-pexels-photo": "12638919",
+                                      "data-photo-source":
+                                        "https://www.pexels.com/photo/view-of-a-restaurant-interior-12638919/",
                                     }}
                                   />
                                 </div>
@@ -1232,18 +1247,21 @@ export default function Industries() {
                                       sizes:
                                         "(min-width: 1200px) 300px, (max-width: 809.98px) 240px, (min-width: 810px) and (max-width: 1199.98px) 280px",
                                       srcSet:
-                                        "/assets/d3649d723bf033f946.jpg 512w,/assets/038c115b236bcc255a.jpg 1024w",
-                                      src: "/assets/038c115b236bcc255a.jpg",
-                                      alt: "",
+                                        "/photos/pexels-4342129-480.jpg 480w, /photos/pexels-4342129-960.jpg 960w, /photos/pexels-4342129-1600.jpg 1600w",
+                                      src: "/photos/pexels-4342129-1600.jpg",
+                                      alt: "Business professionals collaborating in an office meeting",
                                       style: {
                                         display: "block",
                                         width: "100%",
                                         height: "100%",
                                         borderRadius: "inherit",
                                         cornerShape: "inherit",
-                                        objectPosition: "center",
                                         objectFit: "cover",
+                                        objectPosition: "50% 50%",
                                       },
+                                      "data-pexels-photo": "4342129",
+                                      "data-photo-source":
+                                        "https://www.pexels.com/photo/business-meeting-in-the-office-4342129/",
                                     }}
                                   />
                                 </div>
@@ -1420,18 +1438,21 @@ export default function Industries() {
                                       sizes:
                                         "(min-width: 1200px) 300px, (max-width: 809.98px) 240px, (min-width: 810px) and (max-width: 1199.98px) 280px",
                                       srcSet:
-                                        "/assets/727692f42c3e9d9a6a.jpg 512w,/assets/09c4caa898a26bd388.jpg 1024w",
-                                      src: "/assets/09c4caa898a26bd388.jpg",
-                                      alt: "",
+                                        "/photos/pexels-7869102-480.jpg 480w, /photos/pexels-7869102-960.jpg 960w, /photos/pexels-7869102-1600.jpg 1600w",
+                                      src: "/photos/pexels-7869102-1600.jpg",
+                                      alt: "Professionals discussing plans around an office meeting table",
                                       style: {
                                         display: "block",
                                         width: "100%",
                                         height: "100%",
                                         borderRadius: "inherit",
                                         cornerShape: "inherit",
-                                        objectPosition: "center",
                                         objectFit: "cover",
+                                        objectPosition: "50% 50%",
                                       },
+                                      "data-pexels-photo": "7869102",
+                                      "data-photo-source":
+                                        "https://www.pexels.com/photo/people-having-a-meeting-at-the-office-7869102/",
                                     }}
                                   />
                                 </div>

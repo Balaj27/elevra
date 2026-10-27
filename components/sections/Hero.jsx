@@ -650,19 +650,22 @@ export default function Hero() {
                             sizes:
                               "(min-width: 1200px) max((min(max(100vw, 1px), 1440px) - 80px) / 3, 1px), (min-width: 810px) and (max-width: 1199.98px) max((min(max(100vw, 1px), 1440px) - 64px) / 3, 1px), (max-width: 809.98px) 280px",
                             srcSet:
-                              "/assets/5de0db7801ce8f35fb.png 768w,/assets/8316031300bb4f3418.png 1086w",
-                            src: "/assets/8316031300bb4f3418.png",
-                            alt: "",
+                              "/photos/pexels-6694492-480.jpg 480w, /photos/pexels-6694492-960.jpg 960w, /photos/pexels-6694492-1600.jpg 1600w",
+                            src: "/photos/pexels-6694492-1600.jpg",
+                            alt: "Accounting workspace with a laptop, financial reports and a calculator",
                             style: {
                               display: "block",
                               width: "100%",
                               height: "100%",
                               borderRadius: "inherit",
                               cornerShape: "inherit",
-                              objectPosition: "center",
                               objectFit: "cover",
+                              objectPosition: "50% 50%",
                             },
                             loading: "eager",
+                            "data-pexels-photo": "6694492",
+                            "data-photo-source":
+                              "https://www.pexels.com/photo/an-accountant-s-workspace-6694492/",
                           }}
                         />
                       </div>
@@ -837,14 +840,8 @@ export default function Hero() {
                     }}
                   >
                     <div {...{ className: "framer-t4p0bh-container" }}>
-                      <video
+                      <img
                         {...{
-                          src: "/assets/60999496380d17e5ec.mp4",
-                          loop: true,
-                          preload: "none",
-                          poster: "/assets/bbae5e07753bbc4009.jpg",
-                          muted: true,
-                          playsInline: true,
                           style: {
                             cursor: "auto",
                             width: "100%",
@@ -856,8 +853,19 @@ export default function Hero() {
                               "var(--token-1ad0dd99-5aec-4e1d-804a-3c603649eb34, rgb(255, 255, 255))",
                             objectPosition: "50% 50%",
                           },
+                          width: "1600",
+                          height: "1067",
+                          loading: "eager",
+                          src: "/photos/pexels-20843180-1600.jpg",
+                          srcSet:
+                            "/photos/pexels-20843180-480.jpg 480w, /photos/pexels-20843180-960.jpg 960w, /photos/pexels-20843180-1600.jpg 1600w",
+                          alt: "Modern glass office building against a blue sky",
+                          "data-pexels-photo": "20843180",
+                          "data-photo-source":
+                            "https://www.pexels.com/photo/office-building-with-a-glass-facade-against-the-blue-sky-20843180/",
+                          decoding: "async",
                         }}
-                      ></video>
+                      />
                     </div>
                     <div
                       {...{
@@ -1210,19 +1218,22 @@ export default function Hero() {
                               sizes:
                                 "(min-width: 1200px) max((min(max(100vw, 1px), 1440px) - 80px) / 3, 1px), (min-width: 810px) and (max-width: 1199.98px) max((min(max(100vw, 1px), 1440px) - 64px) / 3, 1px), (max-width: 809.98px) 280px",
                               srcSet:
-                                "/assets/5de0db7801ce8f35fb.png 768w,/assets/8316031300bb4f3418.png 1086w",
-                              src: "/assets/8316031300bb4f3418.png",
-                              alt: "",
+                                "/photos/pexels-6694492-480.jpg 480w, /photos/pexels-6694492-960.jpg 960w, /photos/pexels-6694492-1600.jpg 1600w",
+                              src: "/photos/pexels-6694492-1600.jpg",
+                              alt: "Accounting workspace with a laptop, financial reports and a calculator",
                               style: {
                                 display: "block",
                                 width: "100%",
                                 height: "100%",
                                 borderRadius: "inherit",
                                 cornerShape: "inherit",
-                                objectPosition: "center",
                                 objectFit: "cover",
+                                objectPosition: "50% 50%",
                               },
                               loading: "eager",
+                              "data-pexels-photo": "6694492",
+                              "data-photo-source":
+                                "https://www.pexels.com/photo/an-accountant-s-workspace-6694492/",
                             }}
                           />
                         </div>
@@ -1431,14 +1442,8 @@ export default function Hero() {
                       }}
                     >
                       <div {...{ className: "framer-t4p0bh-container" }}>
-                        <video
+                        <img
                           {...{
-                            src: "/assets/60999496380d17e5ec.mp4",
-                            loop: true,
-                            preload: "none",
-                            poster: "/assets/bbae5e07753bbc4009.jpg",
-                            muted: true,
-                            playsInline: true,
                             style: {
                               cursor: "auto",
                               width: "100%",
@@ -1450,8 +1455,19 @@ export default function Hero() {
                                 "var(--token-1ad0dd99-5aec-4e1d-804a-3c603649eb34, rgb(255, 255, 255))",
                               objectPosition: "50% 50%",
                             },
+                            width: "1600",
+                            height: "1067",
+                            loading: "eager",
+                            src: "/photos/pexels-20843180-1600.jpg",
+                            srcSet:
+                              "/photos/pexels-20843180-480.jpg 480w, /photos/pexels-20843180-960.jpg 960w, /photos/pexels-20843180-1600.jpg 1600w",
+                            alt: "Modern glass office building against a blue sky",
+                            "data-pexels-photo": "20843180",
+                            "data-photo-source":
+                              "https://www.pexels.com/photo/office-building-with-a-glass-facade-against-the-blue-sky-20843180/",
+                            decoding: "async",
                           }}
-                        ></video>
+                        />
                       </div>
                       <div
                         {...{

@@ -160,19 +160,22 @@ export default function Service3() {
                                   sizes:
                                     "(min-width: 1200px) min(max((calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 30px) / 2, 1px), (calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 20px) * 0.36), (min-width: 810px) and (max-width: 1199.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 48px) - 16px), (max-width: 809.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 32px) - 16px)",
                                   srcSet:
-                                    "/assets/46178543d78ff90735.png 512w,/assets/ae2613f835905138f2.png 1024w,/assets/88062feb6ab4b2af81.png 1672w",
-                                  src: "/assets/88062feb6ab4b2af81.png",
-                                  alt: "",
+                                    "/photos/pexels-6694492-480.jpg 480w, /photos/pexels-6694492-960.jpg 960w, /photos/pexels-6694492-1600.jpg 1600w",
+                                  src: "/photos/pexels-6694492-1600.jpg",
+                                  alt: "Accounting workspace with a laptop, financial reports and a calculator",
                                   style: {
                                     display: "block",
                                     width: "100%",
                                     height: "100%",
                                     borderRadius: "inherit",
                                     cornerShape: "inherit",
-                                    objectPosition: "center",
                                     objectFit: "cover",
+                                    objectPosition: "50% 50%",
                                   },
                                   loading: "eager",
+                                  "data-pexels-photo": "6694492",
+                                  "data-photo-source":
+                                    "https://www.pexels.com/photo/an-accountant-s-workspace-6694492/",
                                 }}
                               />
                             </div>
@@ -379,19 +382,22 @@ export default function Service3() {
                                     sizes:
                                       "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
                                     srcSet:
-                                      "/assets/f2f1f16a7a9ad8fdb1.jpg 796w,/assets/e255ed87aec48de6e7.jpg 896w",
-                                    src: "/assets/e255ed87aec48de6e7.jpg",
-                                    alt: "A young woman with blonde hair wearing a sweater.",
+                                      "/photos/pexels-6694492-480.jpg 480w, /photos/pexels-6694492-960.jpg 960w, /photos/pexels-6694492-1600.jpg 1600w",
+                                    src: "/photos/pexels-6694492-1600.jpg",
+                                    alt: "Accounting workspace with a laptop, financial reports and a calculator",
                                     style: {
                                       display: "block",
                                       width: "100%",
                                       height: "100%",
                                       borderRadius: "inherit",
                                       cornerShape: "inherit",
-                                      objectPosition: "center",
                                       objectFit: "cover",
+                                      objectPosition: "50% 50%",
                                     },
                                     loading: "eager",
+                                    "data-pexels-photo": "6694492",
+                                    "data-photo-source":
+                                      "https://www.pexels.com/photo/an-accountant-s-workspace-6694492/",
                                   }}
                                 />
                               </div>
@@ -1178,19 +1184,22 @@ export default function Service3() {
                                   sizes:
                                     "(min-width: 1200px) min(max((calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 30px) / 2, 1px), (calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 20px) * 0.36), (min-width: 810px) and (max-width: 1199.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 48px) - 16px), (max-width: 809.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 32px) - 16px)",
                                   srcSet:
-                                    "/assets/46178543d78ff90735.png 512w,/assets/ae2613f835905138f2.png 1024w,/assets/88062feb6ab4b2af81.png 1672w",
-                                  src: "/assets/88062feb6ab4b2af81.png",
-                                  alt: "",
+                                    "/photos/pexels-6694492-480.jpg 480w, /photos/pexels-6694492-960.jpg 960w, /photos/pexels-6694492-1600.jpg 1600w",
+                                  src: "/photos/pexels-6694492-1600.jpg",
+                                  alt: "Accounting workspace with a laptop, financial reports and a calculator",
                                   style: {
                                     display: "block",
                                     width: "100%",
                                     height: "100%",
                                     borderRadius: "inherit",
                                     cornerShape: "inherit",
-                                    objectPosition: "center",
                                     objectFit: "cover",
+                                    objectPosition: "50% 50%",
                                   },
                                   loading: "eager",
+                                  "data-pexels-photo": "6694492",
+                                  "data-photo-source":
+                                    "https://www.pexels.com/photo/an-accountant-s-workspace-6694492/",
                                 }}
                               />
                             </div>
@@ -1397,19 +1406,22 @@ export default function Service3() {
                                     sizes:
                                       "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
                                     srcSet:
-                                      "/assets/f2f1f16a7a9ad8fdb1.jpg 796w,/assets/e255ed87aec48de6e7.jpg 896w",
-                                    src: "/assets/e255ed87aec48de6e7.jpg",
-                                    alt: "A young woman with blonde hair wearing a sweater.",
+                                      "/photos/pexels-6694492-480.jpg 480w, /photos/pexels-6694492-960.jpg 960w, /photos/pexels-6694492-1600.jpg 1600w",
+                                    src: "/photos/pexels-6694492-1600.jpg",
+                                    alt: "Accounting workspace with a laptop, financial reports and a calculator",
                                     style: {
                                       display: "block",
                                       width: "100%",
                                       height: "100%",
                                       borderRadius: "inherit",
                                       cornerShape: "inherit",
-                                      objectPosition: "center",
                                       objectFit: "cover",
+                                      objectPosition: "50% 50%",
                                     },
                                     loading: "eager",
+                                    "data-pexels-photo": "6694492",
+                                    "data-photo-source":
+                                      "https://www.pexels.com/photo/an-accountant-s-workspace-6694492/",
                                   }}
                                 />
                               </div>
@@ -2192,19 +2204,22 @@ export default function Service3() {
                                   sizes:
                                     "(min-width: 1200px) min(max((calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 30px) / 2, 1px), (calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 20px) * 0.36), (min-width: 810px) and (max-width: 1199.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 48px) - 16px), (max-width: 809.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 32px) - 16px)",
                                   srcSet:
-                                    "/assets/46178543d78ff90735.png 512w,/assets/ae2613f835905138f2.png 1024w,/assets/88062feb6ab4b2af81.png 1672w",
-                                  src: "/assets/88062feb6ab4b2af81.png",
-                                  alt: "",
+                                    "/photos/pexels-6694492-480.jpg 480w, /photos/pexels-6694492-960.jpg 960w, /photos/pexels-6694492-1600.jpg 1600w",
+                                  src: "/photos/pexels-6694492-1600.jpg",
+                                  alt: "Accounting workspace with a laptop, financial reports and a calculator",
                                   style: {
                                     display: "block",
                                     width: "100%",
                                     height: "100%",
                                     borderRadius: "inherit",
                                     cornerShape: "inherit",
-                                    objectPosition: "center",
                                     objectFit: "cover",
+                                    objectPosition: "50% 50%",
                                   },
                                   loading: "eager",
+                                  "data-pexels-photo": "6694492",
+                                  "data-photo-source":
+                                    "https://www.pexels.com/photo/an-accountant-s-workspace-6694492/",
                                 }}
                               />
                             </div>
@@ -2411,19 +2426,22 @@ export default function Service3() {
                                     sizes:
                                       "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
                                     srcSet:
-                                      "/assets/f2f1f16a7a9ad8fdb1.jpg 796w,/assets/e255ed87aec48de6e7.jpg 896w",
-                                    src: "/assets/e255ed87aec48de6e7.jpg",
-                                    alt: "A young woman with blonde hair wearing a sweater.",
+                                      "/photos/pexels-6694492-480.jpg 480w, /photos/pexels-6694492-960.jpg 960w, /photos/pexels-6694492-1600.jpg 1600w",
+                                    src: "/photos/pexels-6694492-1600.jpg",
+                                    alt: "Accounting workspace with a laptop, financial reports and a calculator",
                                     style: {
                                       display: "block",
                                       width: "100%",
                                       height: "100%",
                                       borderRadius: "inherit",
                                       cornerShape: "inherit",
-                                      objectPosition: "center",
                                       objectFit: "cover",
+                                      objectPosition: "50% 50%",
                                     },
                                     loading: "eager",
+                                    "data-pexels-photo": "6694492",
+                                    "data-photo-source":
+                                      "https://www.pexels.com/photo/an-accountant-s-workspace-6694492/",
                                   }}
                                 />
                               </div>
@@ -3214,19 +3232,22 @@ export default function Service3() {
                                   sizes:
                                     "(min-width: 1200px) min(max((calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 30px) / 2, 1px), (calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 20px) * 0.36), (min-width: 810px) and (max-width: 1199.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 48px) - 16px), (max-width: 809.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 32px) - 16px)",
                                   srcSet:
-                                    "/assets/4d9bd55a4e593257ec.png 512w,/assets/e3b97097c1fc2a682d.png 1024w,/assets/7a6e98a8fcf8a93373.png 1672w",
-                                  src: "/assets/7a6e98a8fcf8a93373.png",
-                                  alt: "",
+                                    "/photos/pexels-8296970-480.jpg 480w, /photos/pexels-8296970-960.jpg 960w, /photos/pexels-8296970-1600.jpg 1600w",
+                                  src: "/photos/pexels-8296970-1600.jpg",
+                                  alt: "Financial documents being reviewed with a calculator and pen",
                                   style: {
                                     display: "block",
                                     width: "100%",
                                     height: "100%",
                                     borderRadius: "inherit",
                                     cornerShape: "inherit",
-                                    objectPosition: "center",
                                     objectFit: "cover",
+                                    objectPosition: "50% 50%",
                                   },
                                   loading: "eager",
+                                  "data-pexels-photo": "8296970",
+                                  "data-photo-source":
+                                    "https://www.pexels.com/photo/a-person-examining-documents-8296970/",
                                 }}
                               />
                             </div>
@@ -3433,19 +3454,22 @@ export default function Service3() {
                                     sizes:
                                       "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
                                     srcSet:
-                                      "/assets/4fa794f60069de56b9.jpg 796w,/assets/b6894792607c852887.jpg 896w",
-                                    src: "/assets/b6894792607c852887.jpg",
-                                    alt: "A young woman with blonde hair wearing a sweater.",
+                                      "/photos/pexels-8296970-480.jpg 480w, /photos/pexels-8296970-960.jpg 960w, /photos/pexels-8296970-1600.jpg 1600w",
+                                    src: "/photos/pexels-8296970-1600.jpg",
+                                    alt: "Financial documents being reviewed with a calculator and pen",
                                     style: {
                                       display: "block",
                                       width: "100%",
                                       height: "100%",
                                       borderRadius: "inherit",
                                       cornerShape: "inherit",
-                                      objectPosition: "center",
                                       objectFit: "cover",
+                                      objectPosition: "50% 50%",
                                     },
                                     loading: "eager",
+                                    "data-pexels-photo": "8296970",
+                                    "data-photo-source":
+                                      "https://www.pexels.com/photo/a-person-examining-documents-8296970/",
                                   }}
                                 />
                               </div>
@@ -4232,19 +4256,22 @@ export default function Service3() {
                                   sizes:
                                     "(min-width: 1200px) min(max((calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 30px) / 2, 1px), (calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 20px) * 0.36), (min-width: 810px) and (max-width: 1199.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 48px) - 16px), (max-width: 809.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 32px) - 16px)",
                                   srcSet:
-                                    "/assets/4d9bd55a4e593257ec.png 512w,/assets/e3b97097c1fc2a682d.png 1024w,/assets/7a6e98a8fcf8a93373.png 1672w",
-                                  src: "/assets/7a6e98a8fcf8a93373.png",
-                                  alt: "",
+                                    "/photos/pexels-8296970-480.jpg 480w, /photos/pexels-8296970-960.jpg 960w, /photos/pexels-8296970-1600.jpg 1600w",
+                                  src: "/photos/pexels-8296970-1600.jpg",
+                                  alt: "Financial documents being reviewed with a calculator and pen",
                                   style: {
                                     display: "block",
                                     width: "100%",
                                     height: "100%",
                                     borderRadius: "inherit",
                                     cornerShape: "inherit",
-                                    objectPosition: "center",
                                     objectFit: "cover",
+                                    objectPosition: "50% 50%",
                                   },
                                   loading: "eager",
+                                  "data-pexels-photo": "8296970",
+                                  "data-photo-source":
+                                    "https://www.pexels.com/photo/a-person-examining-documents-8296970/",
                                 }}
                               />
                             </div>
@@ -4451,19 +4478,22 @@ export default function Service3() {
                                     sizes:
                                       "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
                                     srcSet:
-                                      "/assets/4fa794f60069de56b9.jpg 796w,/assets/b6894792607c852887.jpg 896w",
-                                    src: "/assets/b6894792607c852887.jpg",
-                                    alt: "A young woman with blonde hair wearing a sweater.",
+                                      "/photos/pexels-8296970-480.jpg 480w, /photos/pexels-8296970-960.jpg 960w, /photos/pexels-8296970-1600.jpg 1600w",
+                                    src: "/photos/pexels-8296970-1600.jpg",
+                                    alt: "Financial documents being reviewed with a calculator and pen",
                                     style: {
                                       display: "block",
                                       width: "100%",
                                       height: "100%",
                                       borderRadius: "inherit",
                                       cornerShape: "inherit",
-                                      objectPosition: "center",
                                       objectFit: "cover",
+                                      objectPosition: "50% 50%",
                                     },
                                     loading: "eager",
+                                    "data-pexels-photo": "8296970",
+                                    "data-photo-source":
+                                      "https://www.pexels.com/photo/a-person-examining-documents-8296970/",
                                   }}
                                 />
                               </div>
@@ -5246,19 +5276,22 @@ export default function Service3() {
                                   sizes:
                                     "(min-width: 1200px) min(max((calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 30px) / 2, 1px), (calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 20px) * 0.36), (min-width: 810px) and (max-width: 1199.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 48px) - 16px), (max-width: 809.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 32px) - 16px)",
                                   srcSet:
-                                    "/assets/4d9bd55a4e593257ec.png 512w,/assets/e3b97097c1fc2a682d.png 1024w,/assets/7a6e98a8fcf8a93373.png 1672w",
-                                  src: "/assets/7a6e98a8fcf8a93373.png",
-                                  alt: "",
+                                    "/photos/pexels-8296970-480.jpg 480w, /photos/pexels-8296970-960.jpg 960w, /photos/pexels-8296970-1600.jpg 1600w",
+                                  src: "/photos/pexels-8296970-1600.jpg",
+                                  alt: "Financial documents being reviewed with a calculator and pen",
                                   style: {
                                     display: "block",
                                     width: "100%",
                                     height: "100%",
                                     borderRadius: "inherit",
                                     cornerShape: "inherit",
-                                    objectPosition: "center",
                                     objectFit: "cover",
+                                    objectPosition: "50% 50%",
                                   },
                                   loading: "eager",
+                                  "data-pexels-photo": "8296970",
+                                  "data-photo-source":
+                                    "https://www.pexels.com/photo/a-person-examining-documents-8296970/",
                                 }}
                               />
                             </div>
@@ -5465,19 +5498,22 @@ export default function Service3() {
                                     sizes:
                                       "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
                                     srcSet:
-                                      "/assets/4fa794f60069de56b9.jpg 796w,/assets/b6894792607c852887.jpg 896w",
-                                    src: "/assets/b6894792607c852887.jpg",
-                                    alt: "A young woman with blonde hair wearing a sweater.",
+                                      "/photos/pexels-8296970-480.jpg 480w, /photos/pexels-8296970-960.jpg 960w, /photos/pexels-8296970-1600.jpg 1600w",
+                                    src: "/photos/pexels-8296970-1600.jpg",
+                                    alt: "Financial documents being reviewed with a calculator and pen",
                                     style: {
                                       display: "block",
                                       width: "100%",
                                       height: "100%",
                                       borderRadius: "inherit",
                                       cornerShape: "inherit",
-                                      objectPosition: "center",
                                       objectFit: "cover",
+                                      objectPosition: "50% 50%",
                                     },
                                     loading: "eager",
+                                    "data-pexels-photo": "8296970",
+                                    "data-photo-source":
+                                      "https://www.pexels.com/photo/a-person-examining-documents-8296970/",
                                   }}
                                 />
                               </div>
@@ -6268,19 +6304,22 @@ export default function Service3() {
                                   sizes:
                                     "(min-width: 1200px) min(max((calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 30px) / 2, 1px), (calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 20px) * 0.36), (min-width: 810px) and (max-width: 1199.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 48px) - 16px), (max-width: 809.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 32px) - 16px)",
                                   srcSet:
-                                    "/assets/9637ff8fea3990788c.png 512w,/assets/0cf1f8650e9c63e6a6.png 1024w,/assets/907481bd0ab22f8752.png 1672w",
-                                  src: "/assets/907481bd0ab22f8752.png",
-                                  alt: "",
+                                    "/photos/pexels-4342129-480.jpg 480w, /photos/pexels-4342129-960.jpg 960w, /photos/pexels-4342129-1600.jpg 1600w",
+                                  src: "/photos/pexels-4342129-1600.jpg",
+                                  alt: "Business professionals collaborating in an office meeting",
                                   style: {
                                     display: "block",
                                     width: "100%",
                                     height: "100%",
                                     borderRadius: "inherit",
                                     cornerShape: "inherit",
-                                    objectPosition: "center",
                                     objectFit: "cover",
+                                    objectPosition: "50% 50%",
                                   },
                                   loading: "eager",
+                                  "data-pexels-photo": "4342129",
+                                  "data-photo-source":
+                                    "https://www.pexels.com/photo/business-meeting-in-the-office-4342129/",
                                 }}
                               />
                             </div>
@@ -6487,19 +6526,22 @@ export default function Service3() {
                                     sizes:
                                       "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
                                     srcSet:
-                                      "/assets/f668226dbeafa11463.jpg 796w,/assets/7a16f44d6bea947ac8.jpg 896w",
-                                    src: "/assets/7a16f44d6bea947ac8.jpg",
-                                    alt: "A young woman with blonde hair wearing a sweater.",
+                                      "/photos/pexels-4342129-480.jpg 480w, /photos/pexels-4342129-960.jpg 960w, /photos/pexels-4342129-1600.jpg 1600w",
+                                    src: "/photos/pexels-4342129-1600.jpg",
+                                    alt: "Business professionals collaborating in an office meeting",
                                     style: {
                                       display: "block",
                                       width: "100%",
                                       height: "100%",
                                       borderRadius: "inherit",
                                       cornerShape: "inherit",
-                                      objectPosition: "center",
                                       objectFit: "cover",
+                                      objectPosition: "50% 50%",
                                     },
                                     loading: "eager",
+                                    "data-pexels-photo": "4342129",
+                                    "data-photo-source":
+                                      "https://www.pexels.com/photo/business-meeting-in-the-office-4342129/",
                                   }}
                                 />
                               </div>
@@ -7286,19 +7328,22 @@ export default function Service3() {
                                   sizes:
                                     "(min-width: 1200px) min(max((calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 30px) / 2, 1px), (calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 20px) * 0.36), (min-width: 810px) and (max-width: 1199.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 48px) - 16px), (max-width: 809.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 32px) - 16px)",
                                   srcSet:
-                                    "/assets/9637ff8fea3990788c.png 512w,/assets/0cf1f8650e9c63e6a6.png 1024w,/assets/907481bd0ab22f8752.png 1672w",
-                                  src: "/assets/907481bd0ab22f8752.png",
-                                  alt: "",
+                                    "/photos/pexels-4342129-480.jpg 480w, /photos/pexels-4342129-960.jpg 960w, /photos/pexels-4342129-1600.jpg 1600w",
+                                  src: "/photos/pexels-4342129-1600.jpg",
+                                  alt: "Business professionals collaborating in an office meeting",
                                   style: {
                                     display: "block",
                                     width: "100%",
                                     height: "100%",
                                     borderRadius: "inherit",
                                     cornerShape: "inherit",
-                                    objectPosition: "center",
                                     objectFit: "cover",
+                                    objectPosition: "50% 50%",
                                   },
                                   loading: "eager",
+                                  "data-pexels-photo": "4342129",
+                                  "data-photo-source":
+                                    "https://www.pexels.com/photo/business-meeting-in-the-office-4342129/",
                                 }}
                               />
                             </div>
@@ -7505,19 +7550,22 @@ export default function Service3() {
                                     sizes:
                                       "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
                                     srcSet:
-                                      "/assets/f668226dbeafa11463.jpg 796w,/assets/7a16f44d6bea947ac8.jpg 896w",
-                                    src: "/assets/7a16f44d6bea947ac8.jpg",
-                                    alt: "A young woman with blonde hair wearing a sweater.",
+                                      "/photos/pexels-4342129-480.jpg 480w, /photos/pexels-4342129-960.jpg 960w, /photos/pexels-4342129-1600.jpg 1600w",
+                                    src: "/photos/pexels-4342129-1600.jpg",
+                                    alt: "Business professionals collaborating in an office meeting",
                                     style: {
                                       display: "block",
                                       width: "100%",
                                       height: "100%",
                                       borderRadius: "inherit",
                                       cornerShape: "inherit",
-                                      objectPosition: "center",
                                       objectFit: "cover",
+                                      objectPosition: "50% 50%",
                                     },
                                     loading: "eager",
+                                    "data-pexels-photo": "4342129",
+                                    "data-photo-source":
+                                      "https://www.pexels.com/photo/business-meeting-in-the-office-4342129/",
                                   }}
                                 />
                               </div>
@@ -8300,19 +8348,22 @@ export default function Service3() {
                                   sizes:
                                     "(min-width: 1200px) min(max((calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 30px) / 2, 1px), (calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 20px) * 0.36), (min-width: 810px) and (max-width: 1199.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 48px) - 16px), (max-width: 809.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 32px) - 16px)",
                                   srcSet:
-                                    "/assets/9637ff8fea3990788c.png 512w,/assets/0cf1f8650e9c63e6a6.png 1024w,/assets/907481bd0ab22f8752.png 1672w",
-                                  src: "/assets/907481bd0ab22f8752.png",
-                                  alt: "",
+                                    "/photos/pexels-4342129-480.jpg 480w, /photos/pexels-4342129-960.jpg 960w, /photos/pexels-4342129-1600.jpg 1600w",
+                                  src: "/photos/pexels-4342129-1600.jpg",
+                                  alt: "Business professionals collaborating in an office meeting",
                                   style: {
                                     display: "block",
                                     width: "100%",
                                     height: "100%",
                                     borderRadius: "inherit",
                                     cornerShape: "inherit",
-                                    objectPosition: "center",
                                     objectFit: "cover",
+                                    objectPosition: "50% 50%",
                                   },
                                   loading: "eager",
+                                  "data-pexels-photo": "4342129",
+                                  "data-photo-source":
+                                    "https://www.pexels.com/photo/business-meeting-in-the-office-4342129/",
                                 }}
                               />
                             </div>
@@ -8519,19 +8570,22 @@ export default function Service3() {
                                     sizes:
                                       "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
                                     srcSet:
-                                      "/assets/f668226dbeafa11463.jpg 796w,/assets/7a16f44d6bea947ac8.jpg 896w",
-                                    src: "/assets/7a16f44d6bea947ac8.jpg",
-                                    alt: "A young woman with blonde hair wearing a sweater.",
+                                      "/photos/pexels-4342129-480.jpg 480w, /photos/pexels-4342129-960.jpg 960w, /photos/pexels-4342129-1600.jpg 1600w",
+                                    src: "/photos/pexels-4342129-1600.jpg",
+                                    alt: "Business professionals collaborating in an office meeting",
                                     style: {
                                       display: "block",
                                       width: "100%",
                                       height: "100%",
                                       borderRadius: "inherit",
                                       cornerShape: "inherit",
-                                      objectPosition: "center",
                                       objectFit: "cover",
+                                      objectPosition: "50% 50%",
                                     },
                                     loading: "eager",
+                                    "data-pexels-photo": "4342129",
+                                    "data-photo-source":
+                                      "https://www.pexels.com/photo/business-meeting-in-the-office-4342129/",
                                   }}
                                 />
                               </div>
@@ -9320,19 +9374,22 @@ export default function Service3() {
                                   sizes:
                                     "(min-width: 1200px) min(max((calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 30px) / 2, 1px), (calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 20px) * 0.36), (min-width: 810px) and (max-width: 1199.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 48px) - 16px), (max-width: 809.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 32px) - 16px)",
                                   srcSet:
-                                    "/assets/9637ff8fea3990788c.png 512w,/assets/0cf1f8650e9c63e6a6.png 1024w,/assets/907481bd0ab22f8752.png 1672w",
-                                  src: "/assets/907481bd0ab22f8752.png",
-                                  alt: "",
+                                    "/photos/pexels-33175673-480.jpg 480w, /photos/pexels-33175673-960.jpg 960w, /photos/pexels-33175673-1600.jpg 1600w",
+                                  src: "/photos/pexels-33175673-1600.jpg",
+                                  alt: "Financial paperwork with a calculator, pen and glasses",
                                   style: {
                                     display: "block",
                                     width: "100%",
                                     height: "100%",
                                     borderRadius: "inherit",
                                     cornerShape: "inherit",
-                                    objectPosition: "center",
                                     objectFit: "cover",
+                                    objectPosition: "50% 50%",
                                   },
                                   loading: "eager",
+                                  "data-pexels-photo": "33175673",
+                                  "data-photo-source":
+                                    "https://www.pexels.com/photo/close-up-of-finance-document-with-calculator-and-glasses-33175673/",
                                 }}
                               />
                             </div>
@@ -9539,19 +9596,22 @@ export default function Service3() {
                                     sizes:
                                       "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
                                     srcSet:
-                                      "/assets/f668226dbeafa11463.jpg 796w,/assets/7a16f44d6bea947ac8.jpg 896w",
-                                    src: "/assets/7a16f44d6bea947ac8.jpg",
-                                    alt: "A young woman with blonde hair wearing a sweater.",
+                                      "/photos/pexels-33175673-480.jpg 480w, /photos/pexels-33175673-960.jpg 960w, /photos/pexels-33175673-1600.jpg 1600w",
+                                    src: "/photos/pexels-33175673-1600.jpg",
+                                    alt: "Financial paperwork with a calculator, pen and glasses",
                                     style: {
                                       display: "block",
                                       width: "100%",
                                       height: "100%",
                                       borderRadius: "inherit",
                                       cornerShape: "inherit",
-                                      objectPosition: "center",
                                       objectFit: "cover",
+                                      objectPosition: "50% 50%",
                                     },
                                     loading: "eager",
+                                    "data-pexels-photo": "33175673",
+                                    "data-photo-source":
+                                      "https://www.pexels.com/photo/close-up-of-finance-document-with-calculator-and-glasses-33175673/",
                                   }}
                                 />
                               </div>
@@ -10338,19 +10398,22 @@ export default function Service3() {
                                   sizes:
                                     "(min-width: 1200px) min(max((calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 30px) / 2, 1px), (calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 20px) * 0.36), (min-width: 810px) and (max-width: 1199.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 48px) - 16px), (max-width: 809.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 32px) - 16px)",
                                   srcSet:
-                                    "/assets/9637ff8fea3990788c.png 512w,/assets/0cf1f8650e9c63e6a6.png 1024w,/assets/907481bd0ab22f8752.png 1672w",
-                                  src: "/assets/907481bd0ab22f8752.png",
-                                  alt: "",
+                                    "/photos/pexels-33175673-480.jpg 480w, /photos/pexels-33175673-960.jpg 960w, /photos/pexels-33175673-1600.jpg 1600w",
+                                  src: "/photos/pexels-33175673-1600.jpg",
+                                  alt: "Financial paperwork with a calculator, pen and glasses",
                                   style: {
                                     display: "block",
                                     width: "100%",
                                     height: "100%",
                                     borderRadius: "inherit",
                                     cornerShape: "inherit",
-                                    objectPosition: "center",
                                     objectFit: "cover",
+                                    objectPosition: "50% 50%",
                                   },
                                   loading: "eager",
+                                  "data-pexels-photo": "33175673",
+                                  "data-photo-source":
+                                    "https://www.pexels.com/photo/close-up-of-finance-document-with-calculator-and-glasses-33175673/",
                                 }}
                               />
                             </div>
@@ -10557,19 +10620,22 @@ export default function Service3() {
                                     sizes:
                                       "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
                                     srcSet:
-                                      "/assets/f668226dbeafa11463.jpg 796w,/assets/7a16f44d6bea947ac8.jpg 896w",
-                                    src: "/assets/7a16f44d6bea947ac8.jpg",
-                                    alt: "A young woman with blonde hair wearing a sweater.",
+                                      "/photos/pexels-33175673-480.jpg 480w, /photos/pexels-33175673-960.jpg 960w, /photos/pexels-33175673-1600.jpg 1600w",
+                                    src: "/photos/pexels-33175673-1600.jpg",
+                                    alt: "Financial paperwork with a calculator, pen and glasses",
                                     style: {
                                       display: "block",
                                       width: "100%",
                                       height: "100%",
                                       borderRadius: "inherit",
                                       cornerShape: "inherit",
-                                      objectPosition: "center",
                                       objectFit: "cover",
+                                      objectPosition: "50% 50%",
                                     },
                                     loading: "eager",
+                                    "data-pexels-photo": "33175673",
+                                    "data-photo-source":
+                                      "https://www.pexels.com/photo/close-up-of-finance-document-with-calculator-and-glasses-33175673/",
                                   }}
                                 />
                               </div>
@@ -11352,19 +11418,22 @@ export default function Service3() {
                                   sizes:
                                     "(min-width: 1200px) min(max((calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 30px) / 2, 1px), (calc(min(max(100vw - 40px, 1px), 1440px) - 64px) - 20px) * 0.36), (min-width: 810px) and (max-width: 1199.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 48px) - 16px), (max-width: 809.98px) calc(calc(min(max(100vw - 40px, 1px), 1440px) - 32px) - 16px)",
                                   srcSet:
-                                    "/assets/9637ff8fea3990788c.png 512w,/assets/0cf1f8650e9c63e6a6.png 1024w,/assets/907481bd0ab22f8752.png 1672w",
-                                  src: "/assets/907481bd0ab22f8752.png",
-                                  alt: "",
+                                    "/photos/pexels-33175673-480.jpg 480w, /photos/pexels-33175673-960.jpg 960w, /photos/pexels-33175673-1600.jpg 1600w",
+                                  src: "/photos/pexels-33175673-1600.jpg",
+                                  alt: "Financial paperwork with a calculator, pen and glasses",
                                   style: {
                                     display: "block",
                                     width: "100%",
                                     height: "100%",
                                     borderRadius: "inherit",
                                     cornerShape: "inherit",
-                                    objectPosition: "center",
                                     objectFit: "cover",
+                                    objectPosition: "50% 50%",
                                   },
                                   loading: "eager",
+                                  "data-pexels-photo": "33175673",
+                                  "data-photo-source":
+                                    "https://www.pexels.com/photo/close-up-of-finance-document-with-calculator-and-glasses-33175673/",
                                 }}
                               />
                             </div>
@@ -11571,19 +11640,22 @@ export default function Service3() {
                                     sizes:
                                       "(min-width: 1200px) 32px, (min-width: 810px) and (max-width: 1199.98px) 32px, (max-width: 809.98px) 32px",
                                     srcSet:
-                                      "/assets/f668226dbeafa11463.jpg 796w,/assets/7a16f44d6bea947ac8.jpg 896w",
-                                    src: "/assets/7a16f44d6bea947ac8.jpg",
-                                    alt: "A young woman with blonde hair wearing a sweater.",
+                                      "/photos/pexels-33175673-480.jpg 480w, /photos/pexels-33175673-960.jpg 960w, /photos/pexels-33175673-1600.jpg 1600w",
+                                    src: "/photos/pexels-33175673-1600.jpg",
+                                    alt: "Financial paperwork with a calculator, pen and glasses",
                                     style: {
                                       display: "block",
                                       width: "100%",
                                       height: "100%",
                                       borderRadius: "inherit",
                                       cornerShape: "inherit",
-                                      objectPosition: "center",
                                       objectFit: "cover",
+                                      objectPosition: "50% 50%",
                                     },
                                     loading: "eager",
+                                    "data-pexels-photo": "33175673",
+                                    "data-photo-source":
+                                      "https://www.pexels.com/photo/close-up-of-finance-document-with-calculator-and-glasses-33175673/",
                                   }}
                                 />
                               </div>

@@ -206,19 +206,22 @@ export default function Hero2() {
                         sizes:
                           "(min-width: 1200px) max(min(max(100vw - 40px, 1px), 1440px) - 64px, 1px), (min-width: 810px) and (max-width: 1199.98px) max(min(max(100vw - 40px, 1px), 1440px) - 48px, 1px), (max-width: 809.98px) max(min(max(100vw - 40px, 1px), 1440px) - 32px, 1px)",
                         srcSet:
-                          "/assets/30766ee50f9a53d667.jpg 512w,/assets/cfe7c0738e35620f93.jpg 1024w,/assets/f0fb6fad6258acc428.jpg 1344w",
-                        src: "/assets/f0fb6fad6258acc428.jpg",
-                        alt: "",
+                          "/photos/pexels-6694492-480.jpg 480w, /photos/pexels-6694492-960.jpg 960w, /photos/pexels-6694492-1600.jpg 1600w",
+                        src: "/photos/pexels-6694492-1600.jpg",
+                        alt: "Accounting workspace with a laptop, financial reports and a calculator",
                         style: {
                           display: "block",
                           width: "100%",
                           height: "100%",
                           borderRadius: "inherit",
                           cornerShape: "inherit",
-                          objectPosition: "center",
                           objectFit: "cover",
+                          objectPosition: "50% 50%",
                         },
                         loading: "eager",
+                        "data-pexels-photo": "6694492",
+                        "data-photo-source":
+                          "https://www.pexels.com/photo/an-accountant-s-workspace-6694492/",
                       }}
                     />
                   </div>

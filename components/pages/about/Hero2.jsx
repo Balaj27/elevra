@@ -206,19 +206,22 @@ export default function Hero2() {
                         sizes:
                           "(min-width: 1200px) max(min(max(100vw, 1px), 1440px) - 64px, 1px), (max-width: 809.98px) max(min(max(100vw, 1px), 1440px) - 32px, 1px), (min-width: 810px) and (max-width: 1199.98px) max(min(max(100vw, 1px), 1440px) - 48px, 1px)",
                         srcSet:
-                          "/assets/b97aeb757d575cfad6.png 512w,/assets/1b5bd44507f3e72bd3.png 1024w,/assets/0c0d2c04be2bcabe40.png 1659w",
-                        src: "/assets/0c0d2c04be2bcabe40.png",
-                        alt: "",
+                          "/photos/pexels-4342129-480.jpg 480w, /photos/pexels-4342129-960.jpg 960w, /photos/pexels-4342129-1600.jpg 1600w",
+                        src: "/photos/pexels-4342129-1600.jpg",
+                        alt: "Business professionals collaborating in an office meeting",
                         style: {
                           display: "block",
                           width: "100%",
                           height: "100%",
                           borderRadius: "inherit",
                           cornerShape: "inherit",
-                          objectPosition: "center",
                           objectFit: "cover",
+                          objectPosition: "50% 50%",
                         },
                         loading: "eager",
+                        "data-pexels-photo": "4342129",
+                        "data-photo-source":
+                          "https://www.pexels.com/photo/business-meeting-in-the-office-4342129/",
                       }}
                     />
                   </div>

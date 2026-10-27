@@ -50,18 +50,21 @@ export default function Experties3() {
                         sizes:
                           "(min-width: 1200px) max(min(max((min(max(100vw, 1px), 1440px) - 112px) / 2, 1px), (min(max(100vw, 1px), 1440px) - 64px) * 0.32), 1px), (max-width: 809.98px) max(min(max(100vw, 1px), 1440px) - 32px, 1px), (min-width: 810px) and (max-width: 1199.98px) max(min(max(100vw, 1px), 1440px) - 48px, 1px)",
                         srcSet:
-                          "/assets/1f2b603698629e5917.jpg 512w,/assets/7b21656e4e44d2fdf2.jpg 1024w",
-                        src: "/assets/7b21656e4e44d2fdf2.jpg",
-                        alt: "",
+                          "/photos/pexels-7869102-480.jpg 480w, /photos/pexels-7869102-960.jpg 960w, /photos/pexels-7869102-1600.jpg 1600w",
+                        src: "/photos/pexels-7869102-1600.jpg",
+                        alt: "Professionals discussing plans around an office meeting table",
                         style: {
                           display: "block",
                           width: "100%",
                           height: "100%",
                           borderRadius: "inherit",
                           cornerShape: "inherit",
-                          objectPosition: "center",
                           objectFit: "cover",
+                          objectPosition: "50% 50%",
                         },
+                        "data-pexels-photo": "7869102",
+                        "data-photo-source":
+                          "https://www.pexels.com/photo/people-having-a-meeting-at-the-office-7869102/",
                       }}
                     />
                   </div>

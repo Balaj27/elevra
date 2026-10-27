@@ -1,0 +1,141 @@
+{
+  "provider": "Pexels",
+  "license": "https://www.pexels.com/license/",
+  "photos": [
+    {
+      "id": 7821671,
+      "source": "https://www.pexels.com/photo/an-agent-showing-documents-to-his-client-7821671/",
+      "photographer": "RDNE Stock project",
+      "alt": "Financial advisor discussing documents with a client in an office",
+      "position": "50% 50%",
+      "src": "/photos/pexels-7821671-1600.jpg",
+      "srcSet": "/photos/pexels-7821671-480.jpg 480w, /photos/pexels-7821671-960.jpg 960w, /photos/pexels-7821671-1600.jpg 1600w"
+    },
+    {
+      "id": 7658322,
+      "source": "https://www.pexels.com/photo/people-working-in-office-with-documents-7658322/",
+      "photographer": "Pavel Danilyuk",
+      "alt": "Two professionals reviewing financial documents together",
+      "position": "50% 50%",
+      "src": "/photos/pexels-7658322-1600.jpg",
+      "srcSet": "/photos/pexels-7658322-480.jpg 480w, /photos/pexels-7658322-960.jpg 960w, /photos/pexels-7658322-1600.jpg 1600w"
+    },
+    {
+      "id": 6694492,
+      "source": "https://www.pexels.com/photo/an-accountant-s-workspace-6694492/",
+      "photographer": "Tima Miroshnichenko",
+      "alt": "Accounting workspace with a laptop, financial reports and a calculator",
+      "position": "50% 50%",
+      "src": "/photos/pexels-6694492-1600.jpg",
+      "srcSet": "/photos/pexels-6694492-480.jpg 480w, /photos/pexels-6694492-960.jpg 960w, /photos/pexels-6694492-1600.jpg 1600w"
+    },
+    {
+      "id": 8296970,
+      "source": "https://www.pexels.com/photo/a-person-examining-documents-8296970/",
+      "photographer": "Mikhail Nilov",
+      "alt": "Financial documents being reviewed with a calculator and pen",
+      "position": "50% 50%",
+      "src": "/photos/pexels-8296970-1600.jpg",
+      "srcSet": "/photos/pexels-8296970-480.jpg 480w, /photos/pexels-8296970-960.jpg 960w, /photos/pexels-8296970-1600.jpg 1600w"
+    },
+    {
+      "id": 33175651,
+      "source": "https://www.pexels.com/photo/financial-analysis-with-calculator-and-documents-33175651/",
+      "photographer": "Bia Limova",
+      "alt": "Close-up of financial analysis using a calculator and documents",
+      "position": "50% 50%",
+      "src": "/photos/pexels-33175651-1600.jpg",
+      "srcSet": "/photos/pexels-33175651-480.jpg 480w, /photos/pexels-33175651-960.jpg 960w, /photos/pexels-33175651-1600.jpg 1600w"
+    },
+    {
+      "id": 53621,
+      "source": "https://www.pexels.com/photo/black-calculator-near-ballpoint-pen-on-white-printed-paper-53621/",
+      "photographer": "Pixabay",
+      "alt": "Calculator and pen on financial reports",
+      "position": "50% 50%",
+      "src": "/photos/pexels-53621-1600.jpg",
+      "srcSet": "/photos/pexels-53621-480.jpg 480w, /photos/pexels-53621-960.jpg 960w, /photos/pexels-53621-1600.jpg 1600w"
+    },
+    {
+      "id": 4342129,
+      "source": "https://www.pexels.com/photo/business-meeting-in-the-office-4342129/",
+      "photographer": "Edmond Dantès",
+      "alt": "Business professionals collaborating in an office meeting",
+      "position": "50% 50%",
+      "src": "/photos/pexels-4342129-1600.jpg",
+      "srcSet": "/photos/pexels-4342129-480.jpg 480w, /photos/pexels-4342129-960.jpg 960w, /photos/pexels-4342129-1600.jpg 1600w"
+    },
+    {
+      "id": 7869102,
+      "source": "https://www.pexels.com/photo/people-having-a-meeting-at-the-office-7869102/",
+      "photographer": "Pavel Danilyuk",
+      "alt": "Professionals discussing plans around an office meeting table",
+      "position": "50% 50%",
+      "src": "/photos/pexels-7869102-1600.jpg",
+      "srcSet": "/photos/pexels-7869102-480.jpg 480w, /photos/pexels-7869102-960.jpg 960w, /photos/pexels-7869102-1600.jpg 1600w"
+    },
+    {
+      "id": 20843180,
+      "source": "https://www.pexels.com/photo/office-building-with-a-glass-facade-against-the-blue-sky-20843180/",
+      "photographer": "Çağrı KANMAZ",
+      "alt": "Modern glass office building against a blue sky",
+      "position": "50% 50%",
+      "src": "/photos/pexels-20843180-1600.jpg",
+      "srcSet": "/photos/pexels-20843180-480.jpg 480w, /photos/pexels-20843180-960.jpg 960w, /photos/pexels-20843180-1600.jpg 1600w"
+    },
+    {
+      "id": 19438560,
+      "source": "https://www.pexels.com/photo/doctor-19438560/",
+      "photographer": "Oys Photography",
+      "alt": "Healthcare professional wearing a white coat and stethoscope",
+      "position": "50% 35%",
+      "src": "/photos/pexels-19438560-1600.jpg",
+      "srcSet": "/photos/pexels-19438560-480.jpg 480w, /photos/pexels-19438560-960.jpg 960w, /photos/pexels-19438560-1600.jpg 1600w"
+    },
+    {
+      "id": 38763816,
+      "source": "https://www.pexels.com/photo/construction-site-meeting-with-engineers-in-hard-hats-38763816/",
+      "photographer": "Envision Bharadwaj & Co LLP",
+      "alt": "Engineers in hard hats discussing a construction project",
+      "position": "50% 50%",
+      "src": "/photos/pexels-38763816-1600.jpg",
+      "srcSet": "/photos/pexels-38763816-480.jpg 480w, /photos/pexels-38763816-960.jpg 960w, /photos/pexels-38763816-1600.jpg 1600w"
+    },
+    {
+      "id": 24818960,
+      "source": "https://www.pexels.com/photo/view-of-a-house-and-apartment-buildings-in-a-city-24818960/",
+      "photographer": "UMUT DAĞLI",
+      "alt": "Residential houses and apartment buildings surrounded by greenery",
+      "position": "50% 50%",
+      "src": "/photos/pexels-24818960-1600.jpg",
+      "srcSet": "/photos/pexels-24818960-480.jpg 480w, /photos/pexels-24818960-960.jpg 960w, /photos/pexels-24818960-1600.jpg 1600w"
+    },
+    {
+      "id": 6044231,
+      "source": "https://www.pexels.com/photo/interior-of-modern-clothes-shop-with-counter-6044231/",
+      "photographer": "Skylar Kang",
+      "alt": "Clothing boutique interior with a counter and retail displays",
+      "position": "50% 50%",
+      "src": "/photos/pexels-6044231-1600.jpg",
+      "srcSet": "/photos/pexels-6044231-480.jpg 480w, /photos/pexels-6044231-960.jpg 960w, /photos/pexels-6044231-1600.jpg 1600w"
+    },
+    {
+      "id": 12638919,
+      "source": "https://www.pexels.com/photo/view-of-a-restaurant-interior-12638919/",
+      "photographer": "Nicolás Rueda",
+      "alt": "Restaurant tables and chairs in a contemporary dining room",
+      "position": "50% 50%",
+      "src": "/photos/pexels-12638919-1600.jpg",
+      "srcSet": "/photos/pexels-12638919-480.jpg 480w, /photos/pexels-12638919-960.jpg 960w, /photos/pexels-12638919-1600.jpg 1600w"
+    },
+    {
+      "id": 33175673,
+      "source": "https://www.pexels.com/photo/close-up-of-finance-document-with-calculator-and-glasses-33175673/",
+      "photographer": "Bia Limova",
+      "alt": "Financial paperwork with a calculator, pen and glasses",
+      "position": "50% 50%",
+      "src": "/photos/pexels-33175673-1600.jpg",
+      "srcSet": "/photos/pexels-33175673-480.jpg 480w, /photos/pexels-33175673-960.jpg 960w, /photos/pexels-33175673-1600.jpg 1600w"
+    }
+  ]
+}

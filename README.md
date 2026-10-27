@@ -40,3 +40,7 @@ Firm facts are taken from the supplied screenshots. Supporting service and edito
 Run `npm run verify:seo` against the local preview to verify crawler-visible head tags, structured data, sitemap, robots, and the image response. Results are saved in `verification/seo/results.json`.
 
 Deploy the latest code and public assets to activate the live preview. Its image URL will be https://elevra-h2gy.vercel.app/og/s-mago-cpa-share-v1.jpg. A localhost URL cannot be fetched by public sharing crawlers. The image route must remain public, without deployment protection or authentication.
+
+## Pexels photography
+
+Site photographs use optimized local Pexels images, including all seven industry cards and article pages. The supplied logo, icons, typography, and layout are preserved. Photo selections and crop positions live in lib/photos.mjs; scripts/pexels-photos.mjs applies them during conversion. Run node scripts/download-pexels.mjs to restore the 480, 960, and 1600 pixel JPEG variants. Photographer credits and original source links are in PHOTO_CREDITS.md and public/photos/sources.json. Run node scripts/verify-photos.mjs against the preview to check all pages at desktop and mobile widths.
